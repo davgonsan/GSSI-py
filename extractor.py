@@ -4,9 +4,9 @@ from datetime import datetime
 import os
 
 try:
-    # Solicitar al usuario los nombres del archivo xlsx y de la hoja
-    carpeta_archivos = "cargos_empleados"
-    archivo_excel = os.path.join(carpeta_archivos, "REPORTE-DE-PERSONAL-08-02-2024.xlsx")
+    # Cargar el nombre del archivo xlsx y de la hoja
+    carpeta_archivos = "datos_excel"
+    archivo_excel = os.path.join(carpeta_archivos, "REPORTE-DE-PERSONAL.xlsx")
     hoja = "NM3670ATXT"
 
     # Cargar el libro de trabajo y seleccionar la hoja
@@ -20,10 +20,10 @@ try:
     # Obtener los nombres de las columnas por su orden respectivo
     nombres_columnas = [hoja_datos.cell(row=1, column=i).value for i in range(1, num_columnas + 1)]
     # print("Nombres de las columnas por su orden respectivo:")
-    # print(nombres_columnas)
+    print(nombres_columnas)
 
     # Solicitar al usuario las columnas que desea obtener
-    columnas_seleccionadas = "COMPANIA,CEDULA,APELLIDOS,NOMBRES,CARGO"
+    columnas_seleccionadas = "COMPANIA,CEDULA,APELLIDOS,NOMBRES,CARGO" #compania, cedula, apellidos, nombres, cargo
     columnas_seleccionadas = [int(col) if col.isdigit() else col.strip() for col in columnas_seleccionadas.split(',')]
 
     # Obtener todas las filas de la hoja
