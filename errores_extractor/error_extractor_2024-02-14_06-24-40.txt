@@ -1,0 +1,9 @@
+Error: 'COMPANA' is not in list
+Traceback (most recent call last):
+  File "/home/david/Documents/dev-projects/GSSI-py/extractor.py", line 36, in <module>
+    valores_fila = [str(fila[nombres_columnas.index(col)].value) if isinstance(col, str) else str(fila[col - 1].value) for col in columnas_seleccionadas]
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/david/Documents/dev-projects/GSSI-py/extractor.py", line 36, in <listcomp>
+    valores_fila = [str(fila[nombres_columnas.index(col)].value) if isinstance(col, str) else str(fila[col - 1].value) for col in columnas_seleccionadas]
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: 'COMPANA' is not in list
