@@ -4,7 +4,7 @@ from datetime import datetime
 
 try:
     # Leer datos desde el archivo txt
-    carpeta_datos = "cargos_empleados"
+    carpeta_datos = "datos_excel"
     archivo_txt = os.path.join(carpeta_datos, 'cargos.txt')
     with open(archivo_txt, 'r') as archivo:
         lineas = archivo.readlines()
