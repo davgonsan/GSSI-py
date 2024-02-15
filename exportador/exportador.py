@@ -43,7 +43,7 @@ try:
         compania, cedula, apellidos, nombres, cargo = valores
 
         # Sentencia SQL de inserción
-        sql_insert = "INSERT INTO tabla_temp_cargos_empleados (COMPANIA, CEDULA, APELLIDOS, NOMBRES, CARGO) VALUES (%s, %s, %s, %s, %s)"
+        sql_insert = "INSERT INTO tabla_cargos_empleados (COMPANIA, CEDULA, APELLIDOS, NOMBRES, CARGO) VALUES (%s, %s, %s, %s, %s)"
 
         # Datos para la inserción
         datos_insert = (compania, cedula, apellidos, nombres, cargo)
