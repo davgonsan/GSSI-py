@@ -3,6 +3,7 @@ import mysql.connector
 import os
 import traceback
 from datetime import datetime
+import sys
 
 try:
     # Datos de conexión a la base de datos
@@ -11,9 +12,6 @@ try:
     contrasena = "sansimon"
     base_datos = "glpisansimon"
 
-    # Obtener la ruta del script
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-
     # Crear la conexión a la base de datos
     conexion = mysql.connector.connect(
         host=host,
@@ -21,10 +19,19 @@ try:
         password=contrasena,
         database=base_datos
     )
+    
     cursor = conexion.cursor()
 
-    # Leer datos desde el archivo txt
-    carpeta_datos = os.path.join(script_dir, "..", "datos_excel")  # Move one directory above
+    # Obtener la ruta del script o el directorio del ejecutable si es un exe
+    if getattr(sys, 'frozen', False):
+        script_dir = os.path.dirname(sys.executable)
+    else:
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+
+    # Carpeta de datos en relación con el script o el ejecutable
+    carpeta_datos = os.path.abspath(os.path.join(script_dir, "..", "datos_excel"))
+    
+    # Archivo de texto
     archivo_txt = os.path.join(carpeta_datos, 'cargos.txt')
 
     with open(archivo_txt, 'r') as archivo:
