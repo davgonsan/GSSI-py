@@ -31,7 +31,7 @@ try:
     if nombres_columnas != columnas_esperadas:
         raise ValueError(f"Error: El orden o los nombres de las columnas no son correctos.")
 
-    # Solicitar al usuario las columnas que desea obtener
+    # Columnas que se desea obtener
     columnas_seleccionadas = [i for i in range(1, num_columnas + 1)]
 
     # Obtener todas las filas de la hoja

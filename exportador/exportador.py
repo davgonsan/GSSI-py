@@ -51,11 +51,28 @@ try:
         # Ejecutar la sentencia SQL
         cursor.execute(sql_insert, datos_insert)
 
-    # Confirmar la inserción y cerrar la conexión
+    # Confirmar la inserción
     conexion.commit()
+
+    # Actualizar datos en la tabla glpi_users
+    sql_update = """
+    UPDATE glpi_users gu
+    JOIN tabla_cargos_empleados tce ON tce.CEDULA = gu.registration_number
+    SET gu.`comment` = tce.CARGO
+    WHERE tce.CEDULA = gu.registration_number;
+    """
+    cursor.execute(sql_update)
+    conexion.commit()
+
+    # Eliminar información de la tabla_cargos_empleados
+    sql_delete = "DELETE FROM tabla_cargos_empleados"
+    cursor.execute(sql_delete)
+    conexion.commit()
+
+    # Cerrar la conexión
     conexion.close()
 
-    print(f"Datos insertados correctamente en la base de datos.")
+    print("Proceso completado exitosamente.")
 except Exception as e:
     # Capturar cualquier excepción y exportar el mensaje de error
     mensaje_error = f"Error: {str(e)}\n"
