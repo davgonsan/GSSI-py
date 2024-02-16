@@ -38,17 +38,57 @@ Este programa importa los datos del archivo `cargos.txt` y los organiza en un ar
 
 ```plaintext
 .
-├── cargos_empleados/
-│   ├── cargos.txt
-│   └── cargos.json
-├── errores_extractor/
-│   └── error_extractor_fecha.txt
-├── errores_importador/
-│   └── error_importador_fecha.txt
-├── extractor.py
-├── importador.py
-├── README.md
-└── REPORTES-DE-PERSONAL-08-02-2024.xlsx
+└── **cargos_empleados**/
+	├── exportador.exe
+    ├── **__internal**/
+    │   ├── _bz2.pyd
+    │   ├── _decimal.pyd
+    │   ├── _elementtree.pyd
+    │   ├── _hashlib.pyd
+    │   ├── _lzma.pyd
+    │   ├── _socket.pyd
+    │   ├── _ssl.pyd
+    │   ├── base_library.zip
+    │   ├── libcrypto-3.dll
+    │   ├── libssl-3.dll
+    │   ├── pyexpat.pyd
+    │   ├── python312.dll
+    │   ├── select.pyd
+    │   ├── unicodedata.pyd
+    │   └── VCRUNTlME140.d11
+    ├── **datos_excel**/
+    │   ├── cargos.txt
+    │   └── REPORTE-DE-PERSONAL.xlsx
+    ├── **errores_extractor**/
+    │   └──  (Contiene los errores en formato txt)
+    ├── **exportador**/
+    │   ├── **_internal**/
+    │   │   ├── _bz2.pyd
+    │   │   ├── _ctypes.pyd
+    │   │   ├── _decimal.pyd
+    │   │   ├── _hashlib.pyd
+    │   │   ├── _lzma.pyd
+    │   │   ├── _multiprocessing.pyd
+    │   │   ├── _queue.pyd
+    │   │   ├── _socket.pyd
+    │   │   ├── _ssl.pyd
+    │   │   ├── _uuid.pyd
+    │   │   ├── _wmi.pyd
+    │   │   ├── base_library.zip
+    │   │   ├── libcrypto-3.dll
+    │   │   ├── libcrypto-3-x64.dll
+    │   │   ├── libffi-8.dll
+    │   │   ├── libmysql.dll
+    │   │   ├── libssl-3.dll
+    │   │   ├── libssl-3-x64.dll
+    │   │   ├── MSVCP140.dll
+    │   │   ├── pyexpat.pyd
+    │   │   ├── python312.dll
+    │   │   ├── select.pyd
+    │   │   ├── unicodedata.pyd
+    │   │   ├── VCRUNTlME140.dll
+    │   │   └── VCRUNTlME140_1.dll
+    └── 
 ```
 
 ## Notas
