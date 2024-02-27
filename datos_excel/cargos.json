@@ -1,0 +1,6838 @@
+{
+  "ASASICA": {
+    "APRENDIZ INCES": [
+      {
+        "CEDULA": "28765035",
+        "APELLIDOS": "MONTERO DEL MAR",
+        "NOMBRES": "ADOLFO JAVIER"
+      },
+      {
+        "CEDULA": "31174231",
+        "APELLIDOS": "FERNANDEZ OCANDO",
+        "NOMBRES": "JOHANYELI MICHELLE"
+      },
+      {
+        "CEDULA": "31254103",
+        "APELLIDOS": "NAVEA SANCHEZ",
+        "NOMBRES": "NATALIA ELENA"
+      },
+      {
+        "CEDULA": "31830407",
+        "APELLIDOS": "SERRUDO MACHADO",
+        "NOMBRES": "NUVIMAR ANDREA"
+      }
+    ],
+    "GERENTE DE PLANTACIONES": [
+      {
+        "CEDULA": "10689425",
+        "APELLIDOS": "GONZALEZ SILVA",
+        "NOMBRES": "MARIA ALBERTINA"
+      }
+    ],
+    "COORDINADOR DE SEGURIDAD": [
+      {
+        "CEDULA": "12136668",
+        "APELLIDOS": "PETRO HERNANDEZ",
+        "NOMBRES": "RUBEN DARIO"
+      },
+      {
+        "CEDULA": "15434319",
+        "APELLIDOS": "CALDERAS RINCON",
+        "NOMBRES": "RICHARD ALBERTO"
+      },
+      {
+        "CEDULA": "18694696",
+        "APELLIDOS": "ALVARADO URDANETA",
+        "NOMBRES": "OMAR JOSE"
+      },
+      {
+        "CEDULA": "19404927",
+        "APELLIDOS": "MEJIA MORALES",
+        "NOMBRES": "RICHARD JOSE"
+      },
+      {
+        "CEDULA": "22138270",
+        "APELLIDOS": "CORREA MARQUEZ",
+        "NOMBRES": "UVALDO JOSE"
+      }
+    ],
+    "ENFERMERA": [
+      {
+        "CEDULA": "13719325",
+        "APELLIDOS": "CHAVEZ ALCANTARA",
+        "NOMBRES": "OLFA MILENA"
+      }
+    ],
+    "GERENTE OPERATIVO": [
+      {
+        "CEDULA": "14305197",
+        "APELLIDOS": "AVILA HUERTA",
+        "NOMBRES": "ALFONSO EMIRO"
+      }
+    ],
+    "SUPERVISOR DE ALMACEN": [
+      {
+        "CEDULA": "14651503",
+        "APELLIDOS": "RIVERA PEÑARANDA",
+        "NOMBRES": "ALY SAUL"
+      }
+    ],
+    "ANALISTA DE COMPRAS": [
+      {
+        "CEDULA": "15381504",
+        "APELLIDOS": "COY LARES",
+        "NOMBRES": "MARIA ESTHELA"
+      }
+    ],
+    "ANALISTA DE CAJA": [
+      {
+        "CEDULA": "15854237",
+        "APELLIDOS": "AVILA CAMACHO",
+        "NOMBRES": "LUISABEL COROMOTO"
+      }
+    ],
+    "SUPERVISOR DE SEGURIDAD Y SALUD LABORAL": [
+      {
+        "CEDULA": "15855816",
+        "APELLIDOS": "GONZALEZ MACHADO",
+        "NOMBRES": "BRENDA MAITTE"
+      }
+    ],
+    "COORD DE REGISTRO PRODUCTIVO": [
+      {
+        "CEDULA": "16467118",
+        "APELLIDOS": "CHAVEZ ALCANTARA",
+        "NOMBRES": "ORAIMA MILEISY"
+      },
+      {
+        "CEDULA": "25628445",
+        "APELLIDOS": "ATENCIO GONZALEZ",
+        "NOMBRES": "LINDA ELIANA"
+      },
+      {
+        "CEDULA": "7903841",
+        "APELLIDOS": "SANCHEZ ",
+        "NOMBRES": "LIRIS MILAGROS"
+      }
+    ],
+    "COORDINADOR DE TALENTO HUMANO": [
+      {
+        "CEDULA": "17581197",
+        "APELLIDOS": "GUTIERREZ MONTIEL",
+        "NOMBRES": "RIXY ALBA"
+      }
+    ],
+    "COORD DE ADMINISTRACION Y FINANZAS": [
+      {
+        "CEDULA": "18696668",
+        "APELLIDOS": "DUARTE CASTILLO",
+        "NOMBRES": "GLENYS LOURDES"
+      },
+      {
+        "CEDULA": "20167197",
+        "APELLIDOS": "RODRIGUEZ FERNANDEZ",
+        "NOMBRES": "YUSDEIRY JOSEFINA"
+      }
+    ],
+    "SUPERVISOR DE PLANTACIONES": [
+      {
+        "CEDULA": "20133057",
+        "APELLIDOS": "PERDOMO HERNANDEZ",
+        "NOMBRES": "GUILLERMO ALFONZO"
+      }
+    ],
+    "ANALISTA DE COMERCIALIZACION": [
+      {
+        "CEDULA": "21224114",
+        "APELLIDOS": "SUAREZ URDANETA",
+        "NOMBRES": "FREYMARIS VANESA"
+      }
+    ],
+    "ANALISTA CONTABLE": [
+      {
+        "CEDULA": "21224306",
+        "APELLIDOS": "MARTINEZ GODIN",
+        "NOMBRES": "MARIELIS DEL CARMEN"
+      }
+    ],
+    "SUPERVISOR DE REGISTROS PRODUCTIVOS": [
+      {
+        "CEDULA": "22138526",
+        "APELLIDOS": "AGUILAR VILLALOBO",
+        "NOMBRES": "GLADYS ESTHER"
+      }
+    ],
+    "SUPERVISOR DE COMEDORES": [
+      {
+        "CEDULA": "24751546",
+        "APELLIDOS": "ALVARADO ARAQUE",
+        "NOMBRES": "JOSE ANTONIO"
+      }
+    ],
+    "ANALISTA DE TALENTO HUMANO": [
+      {
+        "CEDULA": "24960179",
+        "APELLIDOS": "CUMBA URDANETA",
+        "NOMBRES": "STEPHANIE CAROLINA"
+      },
+      {
+        "CEDULA": "27620230",
+        "APELLIDOS": "URDANETA LEON",
+        "NOMBRES": "NAIKELIS JOHANA"
+      },
+      {
+        "CEDULA": "31253927",
+        "APELLIDOS": "COGOLLO ORTIZ",
+        "NOMBRES": "ALBANIS MARIA"
+      }
+    ],
+    "MEDICO MEDICINA OCUPACIONAL": [
+      {
+        "CEDULA": "25554273",
+        "APELLIDOS": "PARRA CANQUIZ",
+        "NOMBRES": "MARIA BETANIA"
+      }
+    ],
+    "AYUDANTE DE ALMACEN": [
+      {
+        "CEDULA": "25916740",
+        "APELLIDOS": "CAICEDO VILLAMIZAR",
+        "NOMBRES": "YORBE ALEJANDRO"
+      }
+    ],
+    "ANALISTA DE SOPORTE A USUARIO": [
+      {
+        "CEDULA": "25924782",
+        "APELLIDOS": "PEÑA RAMIREZ",
+        "NOMBRES": "KELLY YOHANNA"
+      }
+    ],
+    "ANALISTA DE CUENTAS POR PAGAR": [
+      {
+        "CEDULA": "27183797",
+        "APELLIDOS": "RODRIGUEZ DELGADO",
+        "NOMBRES": "ALBANI CHIQUINQUIRA"
+      }
+    ],
+    "ANALISTA DE BANCO": [
+      {
+        "CEDULA": "30583027",
+        "APELLIDOS": "ATENCIO LEAL",
+        "NOMBRES": "MARIA DE LOS ANGELES"
+      }
+    ],
+    "CHOFER": [
+      {
+        "CEDULA": "3370384",
+        "APELLIDOS": "CASANOVA ",
+        "NOMBRES": "EURO DE JESUS"
+      },
+      {
+        "CEDULA": "7903810",
+        "APELLIDOS": "ALVARADO GONZALEZ",
+        "NOMBRES": "GIOMAIRO CARMELO"
+      },
+      {
+        "CEDULA": "10681425",
+        "APELLIDOS": "GONZALEZ SILVA",
+        "NOMBRES": "RAMON ALBERTO"
+      },
+      {
+        "CEDULA": "13009099",
+        "APELLIDOS": "NAVARRO MONSALVE",
+        "NOMBRES": "JOHNNY ALBERTO"
+      },
+      {
+        "CEDULA": "13010470",
+        "APELLIDOS": "SANTIAGO SALAS",
+        "NOMBRES": "CARLOS EDUARDO"
+      },
+      {
+        "CEDULA": "15380051",
+        "APELLIDOS": "VERGARA MARTINEZ",
+        "NOMBRES": "DARWIN RAFAEL"
+      },
+      {
+        "CEDULA": "16884311",
+        "APELLIDOS": "DELMAR GIL",
+        "NOMBRES": "RAUL ADOLFO"
+      },
+      {
+        "CEDULA": "20530274",
+        "APELLIDOS": "VELAZCO BRACHO",
+        "NOMBRES": "ANGEL BENITO"
+      },
+      {
+        "CEDULA": "7776282",
+        "APELLIDOS": "SILVA CASANOVA",
+        "NOMBRES": "DEIVYS SEGUNDO"
+      },
+      {
+        "CEDULA": "19690538",
+        "APELLIDOS": "VILORIA BERMUDEZ",
+        "NOMBRES": "JOSE GREGORIO"
+      }
+    ],
+    "GERENTE GENERAL": [
+      {
+        "CEDULA": "6280128",
+        "APELLIDOS": "PEROZA ",
+        "NOMBRES": "JOSE MANUEL"
+      }
+    ],
+    "COORDNADOR DE COMPRAS": [
+      {
+        "CEDULA": "7896478",
+        "APELLIDOS": "BRICEÑO RODRIGUEZ",
+        "NOMBRES": "ZULENA DEL CARMEN"
+      }
+    ],
+    "PROCURADOR DE DIVISION MAQUINARIA AGRICOLA PESADA": [
+      {
+        "CEDULA": "7900471",
+        "APELLIDOS": "COY GUILLEN",
+        "NOMBRES": "AMILCAR DE JESUS"
+      }
+    ],
+    "CONTRALOR": [
+      {
+        "CEDULA": "7904170",
+        "APELLIDOS": "AROCHA GARCIA",
+        "NOMBRES": "KARINA NATALY"
+      }
+    ],
+    "CAMPERO": [
+      {
+        "CEDULA": "10582713",
+        "APELLIDOS": "RIVERA RIVERO",
+        "NOMBRES": "ENRIQUE JOSE"
+      },
+      {
+        "CEDULA": "10684074",
+        "APELLIDOS": "OBERTO ",
+        "NOMBRES": "JUAN CARLOS"
+      },
+      {
+        "CEDULA": "10686868",
+        "APELLIDOS": "GONZALEZ TORREALBA",
+        "NOMBRES": "CARLOS ALBERTO"
+      },
+      {
+        "CEDULA": "10688682",
+        "APELLIDOS": "MONTERO MONTIEL",
+        "NOMBRES": "ELIGIO SEGUNDO"
+      },
+      {
+        "CEDULA": "11218372",
+        "APELLIDOS": "MARQUEZ PEÑA",
+        "NOMBRES": "ELIAS SEGUNDO"
+      },
+      {
+        "CEDULA": "11608235",
+        "APELLIDOS": "MONTIEL CASTILLO",
+        "NOMBRES": "ANGEL EMIRO"
+      },
+      {
+        "CEDULA": "11915667",
+        "APELLIDOS": "URDANETA VILCHEZ",
+        "NOMBRES": "JOSE LUIS"
+      },
+      {
+        "CEDULA": "12135107",
+        "APELLIDOS": "GALUE PORTILLO",
+        "NOMBRES": "RICARDO JOSE"
+      },
+      {
+        "CEDULA": "12492580",
+        "APELLIDOS": "COGOLLO CASTRO",
+        "NOMBRES": "FERNELIS JOSUE"
+      },
+      {
+        "CEDULA": "12494699",
+        "APELLIDOS": "ZERPA CONTRERAS",
+        "NOMBRES": "JOSE BENJAMIN"
+      },
+      {
+        "CEDULA": "13009656",
+        "APELLIDOS": "GUEVARA SANTIAGO",
+        "NOMBRES": "MARCOS ANTONIO"
+      },
+      {
+        "CEDULA": "13011960",
+        "APELLIDOS": "VELAZQUEZ ",
+        "NOMBRES": "ENRIQUE SEGUNDO"
+      },
+      {
+        "CEDULA": "14244239",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "ELEXIS JOSE"
+      },
+      {
+        "CEDULA": "14845233",
+        "APELLIDOS": "GONZALEZ COY",
+        "NOMBRES": "EVER JOSE"
+      },
+      {
+        "CEDULA": "15038853",
+        "APELLIDOS": "REGINO MESTRA",
+        "NOMBRES": "ANGEL GABRIEL"
+      },
+      {
+        "CEDULA": "15381763",
+        "APELLIDOS": "ARRIETA FRANCO",
+        "NOMBRES": "RICHARD NILSO"
+      },
+      {
+        "CEDULA": "15381821",
+        "APELLIDOS": "GARRIDO OLIVEROS",
+        "NOMBRES": "LUIS ALFONSO"
+      },
+      {
+        "CEDULA": "16468730",
+        "APELLIDOS": "LEON MAVAREZ",
+        "NOMBRES": "LADIMIRO ENRIQUE"
+      },
+      {
+        "CEDULA": "17331350",
+        "APELLIDOS": "GONZALEZ MORALES",
+        "NOMBRES": "ANTONIO GREGORIO"
+      },
+      {
+        "CEDULA": "17580764",
+        "APELLIDOS": "RENDILES SALCEDO",
+        "NOMBRES": "ROBERTO ENRIQUE"
+      },
+      {
+        "CEDULA": "18374477",
+        "APELLIDOS": "ARISMENDI AREVALO",
+        "NOMBRES": "JOHNNY MIGUEL"
+      },
+      {
+        "CEDULA": "18695271",
+        "APELLIDOS": "JARAMILLO CHACON",
+        "NOMBRES": "LUIS MANUEL"
+      },
+      {
+        "CEDULA": "19261511",
+        "APELLIDOS": "VENERA DOMINGUEZ",
+        "NOMBRES": "JOSE MANUEL"
+      },
+      {
+        "CEDULA": "19568846",
+        "APELLIDOS": "BARBOZA YPUANA",
+        "NOMBRES": "MANUEL ENRIQUE"
+      },
+      {
+        "CEDULA": "20531585",
+        "APELLIDOS": "MARTINEZ SAENZ",
+        "NOMBRES": "ALDRUBAL "
+      },
+      {
+        "CEDULA": "20842970",
+        "APELLIDOS": "LOPEZ ",
+        "NOMBRES": "LEO OSVALDO"
+      },
+      {
+        "CEDULA": "20846319",
+        "APELLIDOS": "MARIN  ESPINA",
+        "NOMBRES": "ALVARO BENITO"
+      },
+      {
+        "CEDULA": "21223263",
+        "APELLIDOS": "GARCIA COY",
+        "NOMBRES": "LUIS OCTAVIO"
+      },
+      {
+        "CEDULA": "21223621",
+        "APELLIDOS": "PAZ FORTOUL",
+        "NOMBRES": "BOODY REINALDO"
+      },
+      {
+        "CEDULA": "21226465",
+        "APELLIDOS": "CARRERO PINEDA",
+        "NOMBRES": "CARLOS ALBERTO"
+      },
+      {
+        "CEDULA": "23040308",
+        "APELLIDOS": "VICTOR MANJARRES",
+        "NOMBRES": "CARLOS "
+      },
+      {
+        "CEDULA": "23439632",
+        "APELLIDOS": "CORREA CASTILLO",
+        "NOMBRES": "JOHAN LEVI"
+      },
+      {
+        "CEDULA": "23475166",
+        "APELLIDOS": "BELEÑO TORRES",
+        "NOMBRES": "SANTANDER "
+      },
+      {
+        "CEDULA": "24255742",
+        "APELLIDOS": "MARIN PIRELA",
+        "NOMBRES": "ALEJANDRO JOSE"
+      },
+      {
+        "CEDULA": "24258006",
+        "APELLIDOS": "ANIBAL OSPINO",
+        "NOMBRES": "EBERTO "
+      },
+      {
+        "CEDULA": "25276417",
+        "APELLIDOS": "CORREA CANTERO",
+        "NOMBRES": "NEWTON "
+      },
+      {
+        "CEDULA": "25462597",
+        "APELLIDOS": "MARQUEZ PALOMINO",
+        "NOMBRES": "DARWIN ANDRES"
+      },
+      {
+        "CEDULA": "25759148",
+        "APELLIDOS": "TORO CAMARGO",
+        "NOMBRES": "JOEL ENRIQUE"
+      },
+      {
+        "CEDULA": "26628462",
+        "APELLIDOS": "MARTINEZ TORRES",
+        "NOMBRES": "DEIVIS ENRIQUE"
+      },
+      {
+        "CEDULA": "27178854",
+        "APELLIDOS": "TORRES GOITA",
+        "NOMBRES": "LUIS JOSE"
+      },
+      {
+        "CEDULA": "27538414",
+        "APELLIDOS": "SEGURA MARTINEZ",
+        "NOMBRES": "ARMANDO JOSE"
+      },
+      {
+        "CEDULA": "27620100",
+        "APELLIDOS": "BRACHO RIVERA",
+        "NOMBRES": "ANGEL ENRIQUE"
+      },
+      {
+        "CEDULA": "27620729",
+        "APELLIDOS": "OCANDO MOLERO",
+        "NOMBRES": "DAVID EDUARDO"
+      },
+      {
+        "CEDULA": "28652126",
+        "APELLIDOS": "GALARCIO VERA",
+        "NOMBRES": "YOELBIS RAMON"
+      },
+      {
+        "CEDULA": "30249451",
+        "APELLIDOS": "LOPEZ GRATEROL",
+        "NOMBRES": "WILVER JOSE"
+      },
+      {
+        "CEDULA": "30249454",
+        "APELLIDOS": "LOPEZ GRATEROL",
+        "NOMBRES": "WILNER JOSE"
+      },
+      {
+        "CEDULA": "30479595",
+        "APELLIDOS": "LEON NAVARRO",
+        "NOMBRES": "JOSUE JOSE"
+      },
+      {
+        "CEDULA": "30897289",
+        "APELLIDOS": "SAUCEDO ACOSTA",
+        "NOMBRES": "JOSE DAVID"
+      },
+      {
+        "CEDULA": "31160977",
+        "APELLIDOS": "MARQUEZ MARTINEZ",
+        "NOMBRES": "LUIS ELIAS"
+      },
+      {
+        "CEDULA": "31571217",
+        "APELLIDOS": "LA CRUZ AMARIS",
+        "NOMBRES": "JUAN JOSE"
+      },
+      {
+        "CEDULA": "32191723",
+        "APELLIDOS": "LEON QUIROZ",
+        "NOMBRES": "RONANDERSON "
+      },
+      {
+        "CEDULA": "32567516",
+        "APELLIDOS": "BARBOZA YPUANA",
+        "NOMBRES": "CRISTIAN ALEJANDRO"
+      },
+      {
+        "CEDULA": "33675340",
+        "APELLIDOS": "CHIRINOS MARIN",
+        "NOMBRES": "GEIVER JOSE"
+      },
+      {
+        "CEDULA": "4992456",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "ALIRIO JOSE"
+      },
+      {
+        "CEDULA": "7783638",
+        "APELLIDOS": "CONTRERAS VERA",
+        "NOMBRES": "JUAN SEGUNDO"
+      },
+      {
+        "CEDULA": "8088356",
+        "APELLIDOS": "RODRIGUEZ VELAZCO",
+        "NOMBRES": "JOSE RIGO"
+      },
+      {
+        "CEDULA": "81425119",
+        "APELLIDOS": "TORRES GARCIA",
+        "NOMBRES": "MANUEL ALEJANDRO"
+      },
+      {
+        "CEDULA": "81726714",
+        "APELLIDOS": "GONZALEZ LOBO",
+        "NOMBRES": "ADID ANTONIO"
+      },
+      {
+        "CEDULA": "83138596",
+        "APELLIDOS": "GARCIA RAVELO",
+        "NOMBRES": "CARLOS ALFONSO"
+      },
+      {
+        "CEDULA": "83491024",
+        "APELLIDOS": "PAZ ",
+        "NOMBRES": "HECTOR "
+      },
+      {
+        "CEDULA": "9196505",
+        "APELLIDOS": "FLORES MORALES",
+        "NOMBRES": "OSMAN ENRIQUE"
+      },
+      {
+        "CEDULA": "9928218",
+        "APELLIDOS": "CHIRINOS RODRIGUEZ",
+        "NOMBRES": "ELADIO JOSE"
+      },
+      {
+        "CEDULA": "10686889",
+        "APELLIDOS": "MORA ",
+        "NOMBRES": "HENRY JOSE"
+      },
+      {
+        "CEDULA": "13100600",
+        "APELLIDOS": "NUÑEZ ",
+        "NOMBRES": "REINALDO  JOSE"
+      },
+      {
+        "CEDULA": "14844056",
+        "APELLIDOS": "MONTIEL ",
+        "NOMBRES": "ROSENDO SEGUNDO"
+      },
+      {
+        "CEDULA": "16466671",
+        "APELLIDOS": "PARRA RANGEL",
+        "NOMBRES": "MANUEL SALVADOR"
+      },
+      {
+        "CEDULA": "17130596",
+        "APELLIDOS": "ALTUVE OVIEDO",
+        "NOMBRES": "JOSMAN DEL CARMEN"
+      },
+      {
+        "CEDULA": "17186717",
+        "APELLIDOS": "URDANETA URDANETA",
+        "NOMBRES": "ANGEL RAMON"
+      },
+      {
+        "CEDULA": "17580521",
+        "APELLIDOS": "PORTILLO IBAÑEZ",
+        "NOMBRES": "MAIVEL JOSE"
+      },
+      {
+        "CEDULA": "19261771",
+        "APELLIDOS": "UZCATEGUI AGUDELO",
+        "NOMBRES": "JESUS GREGORIO"
+      },
+      {
+        "CEDULA": "20529435",
+        "APELLIDOS": "ZAMBRANO MEDINA",
+        "NOMBRES": "LUIS ENRIQUE"
+      },
+      {
+        "CEDULA": "20533269",
+        "APELLIDOS": "ESTRADA RODRIGUEZ",
+        "NOMBRES": "EDGAR "
+      },
+      {
+        "CEDULA": "20984621",
+        "APELLIDOS": "GONZALEZ GONZALEZ",
+        "NOMBRES": "DANILO JOSE"
+      },
+      {
+        "CEDULA": "22661720",
+        "APELLIDOS": "ALVEAR CALLEJAS",
+        "NOMBRES": "ALCIDES "
+      },
+      {
+        "CEDULA": "27689623",
+        "APELLIDOS": "FERNANDEZ GONZALEZ",
+        "NOMBRES": "JORGE MIGUEL"
+      },
+      {
+        "CEDULA": "30676866",
+        "APELLIDOS": "CEPEDA ALCATARA",
+        "NOMBRES": "DANNY ALBERTO"
+      },
+      {
+        "CEDULA": "31622955",
+        "APELLIDOS": "MARQUEZ RIVERA",
+        "NOMBRES": "SAMUEL  ELIAS"
+      },
+      {
+        "CEDULA": "7902845",
+        "APELLIDOS": "PEÑA ",
+        "NOMBRES": "JOSE ATILIO"
+      },
+      {
+        "CEDULA": "9648864",
+        "APELLIDOS": "VILLALOBOS ANGARITA",
+        "NOMBRES": "GEOVANNY HILARION"
+      },
+      {
+        "CEDULA": "15071900",
+        "APELLIDOS": "VIDAL VASQUEZ",
+        "NOMBRES": "CARLOS EDUARDO"
+      },
+      {
+        "CEDULA": "16167510",
+        "APELLIDOS": "LEDEZMA URDANETA",
+        "NOMBRES": "FRANCISCO SEGUNDO"
+      },
+      {
+        "CEDULA": "18372897",
+        "APELLIDOS": "INCIARTE GONZALEZ",
+        "NOMBRES": "YOHENNY DE JESUS"
+      },
+      {
+        "CEDULA": "20532347",
+        "APELLIDOS": "BRIÑEZ AVENDAÑO",
+        "NOMBRES": "CESAR JUNIOR"
+      },
+      {
+        "CEDULA": "24960096",
+        "APELLIDOS": "DYAZ CORTES",
+        "NOMBRES": "DERWUINS "
+      },
+      {
+        "CEDULA": "26622950",
+        "APELLIDOS": "PEÑA MORA",
+        "NOMBRES": "JESUS  ENRRIQUE"
+      },
+      {
+        "CEDULA": "26854714",
+        "APELLIDOS": "PAZ FORTOUL",
+        "NOMBRES": "RONNY REINALDO"
+      },
+      {
+        "CEDULA": "30946063",
+        "APELLIDOS": "NAVARRO RAMIREZ",
+        "NOMBRES": "JEFFRY ENRIQUE"
+      },
+      {
+        "CEDULA": "31148908",
+        "APELLIDOS": "LEON PUERTA",
+        "NOMBRES": "JOSE DANIEL"
+      },
+      {
+        "CEDULA": "31149556",
+        "APELLIDOS": "RIOS PEÑA",
+        "NOMBRES": "OSMAR DAVID"
+      },
+      {
+        "CEDULA": "32307345",
+        "APELLIDOS": "HURTADO FLOREZ",
+        "NOMBRES": "JOSE CRISTOBAL"
+      },
+      {
+        "CEDULA": "25554005",
+        "APELLIDOS": "GONZALEZ MONTIEL",
+        "NOMBRES": "BLADIMIR JOSE"
+      },
+      {
+        "CEDULA": "29621325",
+        "APELLIDOS": "SIMANCA BEDOLLA",
+        "NOMBRES": "DAYAN JOSE"
+      },
+      {
+        "CEDULA": "13486321",
+        "APELLIDOS": "RAMIREZ RODRIGUEZ",
+        "NOMBRES": "ANGEL MARIA"
+      }
+    ],
+    "COCINERA": [
+      {
+        "CEDULA": "11068456",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "ERIKA DEL CARMEN"
+      },
+      {
+        "CEDULA": "12620058",
+        "APELLIDOS": "GALUE ",
+        "NOMBRES": "MARTA CECILIA"
+      },
+      {
+        "CEDULA": "15381177",
+        "APELLIDOS": "REALES NAVARRO",
+        "NOMBRES": "YUSBELIS MARGARITA"
+      },
+      {
+        "CEDULA": "20167199",
+        "APELLIDOS": "DIAZ CORTES",
+        "NOMBRES": "YESSICA PAOLA"
+      },
+      {
+        "CEDULA": "23460699",
+        "APELLIDOS": "GALUE GALUE",
+        "NOMBRES": "GENESIS PAOLA"
+      },
+      {
+        "CEDULA": "24751309",
+        "APELLIDOS": "GONZALEZ SARABIA",
+        "NOMBRES": "MARIA DE LOS ANGELES"
+      },
+      {
+        "CEDULA": "25462498",
+        "APELLIDOS": "GRAU REALES",
+        "NOMBRES": "YAMILETH MARIA"
+      },
+      {
+        "CEDULA": "81846307",
+        "APELLIDOS": "PEINADO DE ROSALES",
+        "NOMBRES": "GRISELDINA "
+      },
+      {
+        "CEDULA": "17187044",
+        "APELLIDOS": "VILLALOBO ",
+        "NOMBRES": "YOSENIS  CAROLINA"
+      },
+      {
+        "CEDULA": "18372286",
+        "APELLIDOS": "URDANETA LABRADOR",
+        "NOMBRES": "CARMEN JANNETH"
+      },
+      {
+        "CEDULA": "83231887",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "CARMEN ELENA"
+      },
+      {
+        "CEDULA": "21226602",
+        "APELLIDOS": "SILVERA VILCHEZ",
+        "NOMBRES": "RUDY LISETH"
+      },
+      {
+        "CEDULA": "26258069",
+        "APELLIDOS": "PEDROZO ARIAS",
+        "NOMBRES": "ROSA MARIA"
+      },
+      {
+        "CEDULA": "26347769",
+        "APELLIDOS": "MUÑOZ MORAN",
+        "NOMBRES": "EGLIRUTH MAIRE"
+      }
+    ],
+    "OFICIAL DE PCP": [
+      {
+        "CEDULA": "12134195",
+        "APELLIDOS": "URDANETA ",
+        "NOMBRES": "YORGIS ANTONIO"
+      },
+      {
+        "CEDULA": "13725518",
+        "APELLIDOS": "JONKLIS DE JESUS",
+        "NOMBRES": "MENDOZA PARRAGA"
+      },
+      {
+        "CEDULA": "14244703",
+        "APELLIDOS": "HERNANDEZ MARTINEZ",
+        "NOMBRES": "OSCAR  ENRIQUE "
+      },
+      {
+        "CEDULA": "15381159",
+        "APELLIDOS": "NAVARRO GALVIS",
+        "NOMBRES": "JESUS IVAN"
+      },
+      {
+        "CEDULA": "19261119",
+        "APELLIDOS": "CHAVEZ ROSALES",
+        "NOMBRES": "YORVIS ANTONIO"
+      },
+      {
+        "CEDULA": "20831696",
+        "APELLIDOS": "ZUÑIGA AVENDAÑO",
+        "NOMBRES": "LEONARDO JOSE"
+      },
+      {
+        "CEDULA": "22490389",
+        "APELLIDOS": "BARRIOS GUTIERREZ",
+        "NOMBRES": "ANGEL ATILIO"
+      },
+      {
+        "CEDULA": "24879936",
+        "APELLIDOS": "MARTIN RUENES",
+        "NOMBRES": "MIGUEL ANTONIO"
+      },
+      {
+        "CEDULA": "7904685",
+        "APELLIDOS": "PEREZ COY",
+        "NOMBRES": "DANIEL JOSE"
+      },
+      {
+        "CEDULA": "11045439",
+        "APELLIDOS": "BUSTAMANTE CASTRO",
+        "NOMBRES": "WILLIAM IGNACIO"
+      },
+      {
+        "CEDULA": "11973696",
+        "APELLIDOS": "LOPEZ SUAREZ",
+        "NOMBRES": "JOSE ANTONIO"
+      },
+      {
+        "CEDULA": "12135997",
+        "APELLIDOS": "CALLES VERA",
+        "NOMBRES": "JUAN CARLOS"
+      },
+      {
+        "CEDULA": "14053587",
+        "APELLIDOS": "LAMBRAÑO ARIAS",
+        "NOMBRES": "MARLON ANTONIO"
+      },
+      {
+        "CEDULA": "14244794",
+        "APELLIDOS": "GOMEZ MORALES",
+        "NOMBRES": "LUIS ANTONIO"
+      },
+      {
+        "CEDULA": "15134999",
+        "APELLIDOS": "NUÑEZ MARTINEZ",
+        "NOMBRES": "NEIXCER "
+      },
+      {
+        "CEDULA": "16167051",
+        "APELLIDOS": "GUTIERREZ  OCHOA",
+        "NOMBRES": "EUDIS EVELIN"
+      },
+      {
+        "CEDULA": "17914526",
+        "APELLIDOS": "HERNANDEZ  TORO",
+        "NOMBRES": "JORGE "
+      },
+      {
+        "CEDULA": "20879869",
+        "APELLIDOS": "ZAMBRANO ROSALES",
+        "NOMBRES": "JOSE ANDRES"
+      },
+      {
+        "CEDULA": "22122808",
+        "APELLIDOS": "MISAL BELEÑO",
+        "NOMBRES": "TEODORO "
+      },
+      {
+        "CEDULA": "23464374",
+        "APELLIDOS": "VERA GARRILLO",
+        "NOMBRES": "JEANCARLOS  BENITO"
+      },
+      {
+        "CEDULA": "23465141",
+        "APELLIDOS": "ORDAZ GALLARDO",
+        "NOMBRES": "LUIS FERNANDO"
+      },
+      {
+        "CEDULA": "31016262",
+        "APELLIDOS": "ACOSTA  SALAZAR",
+        "NOMBRES": "WILSON JOSE"
+      },
+      {
+        "CEDULA": "7775314",
+        "APELLIDOS": "GELVIZ ACEVEDO",
+        "NOMBRES": "ERNESTO "
+      },
+      {
+        "CEDULA": "7782651",
+        "APELLIDOS": "DELGADO ",
+        "NOMBRES": "JOSE DANIEL"
+      },
+      {
+        "CEDULA": "8100653",
+        "APELLIDOS": "MEDINA ",
+        "NOMBRES": "JAIRO JOSE"
+      },
+      {
+        "CEDULA": "8106095",
+        "APELLIDOS": "MORA ALVAREZ",
+        "NOMBRES": "CARLOS SEGUNDO"
+      },
+      {
+        "CEDULA": "83122879",
+        "APELLIDOS": "FERRER ",
+        "NOMBRES": "JOSE "
+      },
+      {
+        "CEDULA": "9345965",
+        "APELLIDOS": "RUIZ ALVAREZ",
+        "NOMBRES": "RICHARD ANTONIO"
+      },
+      {
+        "CEDULA": "9356418",
+        "APELLIDOS": "LIZARAZO CONTRERAS",
+        "NOMBRES": "ALFREDO ANTONIO"
+      },
+      {
+        "CEDULA": "15296124",
+        "APELLIDOS": "ALVIAREZ ",
+        "NOMBRES": "JOSE GREGORIO"
+      },
+      {
+        "CEDULA": "12057466",
+        "APELLIDOS": "AVILA SANCHEZ",
+        "NOMBRES": "LUIS ALBERTO"
+      },
+      {
+        "CEDULA": "15381604",
+        "APELLIDOS": "GUZMAN COGOLLO",
+        "NOMBRES": "DAYNNI ENRIQUE"
+      }
+    ],
+    "MECANICO": [
+      {
+        "CEDULA": "12134969",
+        "APELLIDOS": "URDANETA ",
+        "NOMBRES": "DIUNIS GREGORIO"
+      },
+      {
+        "CEDULA": "14845308",
+        "APELLIDOS": "LAMEDA ALCANTARA",
+        "NOMBRES": "IRENI SEGUNDO"
+      },
+      {
+        "CEDULA": "24751510",
+        "APELLIDOS": "ARRIETA CHACIN",
+        "NOMBRES": "REISON RAMON"
+      },
+      {
+        "CEDULA": "27183632",
+        "APELLIDOS": "URDANETA QUEBRADA",
+        "NOMBRES": "GREGORIO JOSE"
+      },
+      {
+        "CEDULA": "12136169",
+        "APELLIDOS": "SANCHEZ ",
+        "NOMBRES": "CARLOS ANDRES"
+      }
+    ],
+    "AYUDANTE DE MECANICO": [
+      {
+        "CEDULA": "12134976",
+        "APELLIDOS": "URDANETA PORTILLO",
+        "NOMBRES": "JOAQUIN SEGUNDO"
+      },
+      {
+        "CEDULA": "17581768",
+        "APELLIDOS": "PORTILLO MARIN",
+        "NOMBRES": "EMIRO JOSE"
+      },
+      {
+        "CEDULA": "20844179",
+        "APELLIDOS": "CIFUENTES  DELGADO",
+        "NOMBRES": "RAINEL  JESUS"
+      },
+      {
+        "CEDULA": "21227556",
+        "APELLIDOS": "GONZALEZ FUENMAYOR",
+        "NOMBRES": "LUIBER ESTEBAN"
+      },
+      {
+        "CEDULA": "25462018",
+        "APELLIDOS": "GARCIA URDANETA",
+        "NOMBRES": "JAVIER JOSE"
+      },
+      {
+        "CEDULA": "13011885",
+        "APELLIDOS": "FINOL PEDROZO",
+        "NOMBRES": "NESTOR ANTONIO"
+      },
+      {
+        "CEDULA": "20658138",
+        "APELLIDOS": "HERNANDEZ SALAS",
+        "NOMBRES": "ENDER RICARDO"
+      }
+    ],
+    "OPERADOR DE MAQUINARIA AGRICOLA": [
+      {
+        "CEDULA": "12135682",
+        "APELLIDOS": "PORTILLO ",
+        "NOMBRES": "EDERMIS JOSE"
+      },
+      {
+        "CEDULA": "16108450",
+        "APELLIDOS": "LEON ",
+        "NOMBRES": "ELIGIO SEGUNDO"
+      },
+      {
+        "CEDULA": "17913494",
+        "APELLIDOS": "RINCON MENDOZA",
+        "NOMBRES": "JORGE LUIS"
+      },
+      {
+        "CEDULA": "18696594",
+        "APELLIDOS": "GALBAN CARIDAD",
+        "NOMBRES": "ANGEL RENATO"
+      },
+      {
+        "CEDULA": "19934731",
+        "APELLIDOS": "PARRA BELEÑO",
+        "NOMBRES": "JAIDER LUIS"
+      },
+      {
+        "CEDULA": "20168119",
+        "APELLIDOS": "MARTINEZ CASTRO",
+        "NOMBRES": "CRISANTO "
+      },
+      {
+        "CEDULA": "22138017",
+        "APELLIDOS": "ACUÑA PEINADO",
+        "NOMBRES": "EDER ANIBAL"
+      },
+      {
+        "CEDULA": "24854670",
+        "APELLIDOS": "CARRASCAL CARDENAS",
+        "NOMBRES": "FERNELY "
+      },
+      {
+        "CEDULA": "24960087",
+        "APELLIDOS": "DIAZ CORTEZ",
+        "NOMBRES": "DOMINGO "
+      },
+      {
+        "CEDULA": "27251716",
+        "APELLIDOS": "BLANCO SANCHEZ",
+        "NOMBRES": "CARLOS JAVIER"
+      },
+      {
+        "CEDULA": "10685461",
+        "APELLIDOS": "RAMIREZ ROA",
+        "NOMBRES": "JOSE RAMON"
+      },
+      {
+        "CEDULA": "12135053",
+        "APELLIDOS": "RINCON ",
+        "NOMBRES": "RENSO DE JESUS"
+      },
+      {
+        "CEDULA": "12494085",
+        "APELLIDOS": "BELANDIA COLMENAREZ",
+        "NOMBRES": "NELSON ENRIQUE"
+      },
+      {
+        "CEDULA": "12851703",
+        "APELLIDOS": "CASTILLO GONZALEZ",
+        "NOMBRES": "JAVIER ANTONIO"
+      },
+      {
+        "CEDULA": "16688857",
+        "APELLIDOS": "URDANETA RIVERA",
+        "NOMBRES": "HILARIO JOSE"
+      },
+      {
+        "CEDULA": "16967495",
+        "APELLIDOS": "CASTILLO CASTILLO",
+        "NOMBRES": "JOSE MIGUEL"
+      },
+      {
+        "CEDULA": "17185346",
+        "APELLIDOS": "PADILLA CONTRERAS",
+        "NOMBRES": "JEAN CARLOS"
+      },
+      {
+        "CEDULA": "19691071",
+        "APELLIDOS": "ARIAS GIL",
+        "NOMBRES": "LUIS ALEJANDRO"
+      },
+      {
+        "CEDULA": "20168357",
+        "APELLIDOS": "PARRA BELAÑO",
+        "NOMBRES": "LUIS  ALBERTO"
+      },
+      {
+        "CEDULA": "20169604",
+        "APELLIDOS": "GONZALEZ DAVILA",
+        "NOMBRES": "LUIS CARLOS"
+      },
+      {
+        "CEDULA": "21596346",
+        "APELLIDOS": "SANGRONIS SANGRONIS",
+        "NOMBRES": "YEIS "
+      },
+      {
+        "CEDULA": "22138310",
+        "APELLIDOS": "CONTRERAS  GUEVARA",
+        "NOMBRES": "OMAR  BANER"
+      },
+      {
+        "CEDULA": "22149262",
+        "APELLIDOS": "GARCIA HERRERA",
+        "NOMBRES": "RAFAEL BENITO"
+      },
+      {
+        "CEDULA": "25298108",
+        "APELLIDOS": "GARCIA CIRO",
+        "NOMBRES": "OMAR ALBERTO"
+      },
+      {
+        "CEDULA": "25705065",
+        "APELLIDOS": "ULIANA ULIANA",
+        "NOMBRES": "ADELSO SEGUNDO"
+      },
+      {
+        "CEDULA": "26258495",
+        "APELLIDOS": "URDANETA GONZALEZ",
+        "NOMBRES": "JHONATAN JOSE"
+      },
+      {
+        "CEDULA": "6408309",
+        "APELLIDOS": "PAREDES ORTEGA",
+        "NOMBRES": "LEONIDAS COROMOTO"
+      },
+      {
+        "CEDULA": "7781990",
+        "APELLIDOS": "GUTIERREZ ",
+        "NOMBRES": "JUAN GREGORIO"
+      },
+      {
+        "CEDULA": "7895432",
+        "APELLIDOS": "PARRA ",
+        "NOMBRES": "RAFAEL ANGEL"
+      },
+      {
+        "CEDULA": "83122053",
+        "APELLIDOS": "PARADA GALVIS",
+        "NOMBRES": "SAMUEL "
+      },
+      {
+        "CEDULA": "83122804",
+        "APELLIDOS": "DIAZ RUIZ",
+        "NOMBRES": "ISAAC MANUEL"
+      },
+      {
+        "CEDULA": "13719006",
+        "APELLIDOS": "RODRIGUEZ CAMARILLO",
+        "NOMBRES": "LUIS ANGEL"
+      },
+      {
+        "CEDULA": "9354738",
+        "APELLIDOS": "RIOS ",
+        "NOMBRES": "DAVID "
+      },
+      {
+        "CEDULA": "92275350",
+        "APELLIDOS": "CARRASCAL MERCADO",
+        "NOMBRES": "CARLOS ALBERTO"
+      }
+    ],
+    "OPERADOR ESPECIALIZADO": [
+      {
+        "CEDULA": "12492226",
+        "APELLIDOS": "CONTRERAS OCANDO",
+        "NOMBRES": "WILMER JOSE"
+      },
+      {
+        "CEDULA": "30569831",
+        "APELLIDOS": "VILLASMIL COLMENARES",
+        "NOMBRES": "RONALDO  ALEJANDRO"
+      },
+      {
+        "CEDULA": "24960089",
+        "APELLIDOS": "DIAZ CORTES",
+        "NOMBRES": "DARWINSON "
+      },
+      {
+        "CEDULA": "16166740",
+        "APELLIDOS": "MORENO ",
+        "NOMBRES": "LUIS ANTONIO"
+      }
+    ],
+    "ORDEÑADOR": [
+      {
+        "CEDULA": "13011677",
+        "APELLIDOS": "ALVARADO DELGADO",
+        "NOMBRES": "JOHNNY DE JESUS"
+      },
+      {
+        "CEDULA": "13718261",
+        "APELLIDOS": "CHAVEZ MEDINA",
+        "NOMBRES": "REMBERTO SEGUNDO"
+      },
+      {
+        "CEDULA": "13974109",
+        "APELLIDOS": "PALMAR ",
+        "NOMBRES": "JORGE "
+      },
+      {
+        "CEDULA": "15380891",
+        "APELLIDOS": "NAVARRO CABRERA",
+        "NOMBRES": "CARLOS EUDIDES"
+      },
+      {
+        "CEDULA": "16561462",
+        "APELLIDOS": "RINCON GONZALEZ",
+        "NOMBRES": "JUAN CARLOS"
+      },
+      {
+        "CEDULA": "16561466",
+        "APELLIDOS": "RINCON GONZALEZ",
+        "NOMBRES": "JOEVANNY ALBERTO"
+      },
+      {
+        "CEDULA": "18372588",
+        "APELLIDOS": "MONTIEL MONTIEL",
+        "NOMBRES": "ANGEL JOSE"
+      },
+      {
+        "CEDULA": "19440168",
+        "APELLIDOS": "RIOS BELEÑO",
+        "NOMBRES": "EIVEL SEGUNDO"
+      },
+      {
+        "CEDULA": "19934174",
+        "APELLIDOS": "MONTIEL ",
+        "NOMBRES": "NESTOR ANDRES"
+      },
+      {
+        "CEDULA": "20167737",
+        "APELLIDOS": "GONZALEZ SUAREZ",
+        "NOMBRES": "RICARDO EDUARDO"
+      },
+      {
+        "CEDULA": "21686134",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "JULIO ENRIQUE"
+      },
+      {
+        "CEDULA": "21686144",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "LUIS MANUEL"
+      },
+      {
+        "CEDULA": "23475112",
+        "APELLIDOS": "CASTRO ZAMBRANO",
+        "NOMBRES": "CARLOS EDUARDO"
+      },
+      {
+        "CEDULA": "24375416",
+        "APELLIDOS": "MONTIEL PALMAR",
+        "NOMBRES": "ALEJANDRO NESTOR"
+      },
+      {
+        "CEDULA": "24956401",
+        "APELLIDOS": "GONZALEZ  LOPEZ",
+        "NOMBRES": "WILFREDO  YSMAEL"
+      },
+      {
+        "CEDULA": "25279687",
+        "APELLIDOS": "PEREZ ACUÑA",
+        "NOMBRES": "ALBERTO RAFAEL"
+      },
+      {
+        "CEDULA": "25300880",
+        "APELLIDOS": "ROJAS HOSTIA",
+        "NOMBRES": "LETICIA CAROLINA"
+      },
+      {
+        "CEDULA": "25803242",
+        "APELLIDOS": "CASTILLO MONTIEL",
+        "NOMBRES": "RENATO "
+      },
+      {
+        "CEDULA": "25984574",
+        "APELLIDOS": "GONZALEZ GONZALEZ",
+        "NOMBRES": "JUVENTINO ALEJANDRO"
+      },
+      {
+        "CEDULA": "26258068",
+        "APELLIDOS": "PEDROZO ARIAS",
+        "NOMBRES": "ADRIAN JOSE"
+      },
+      {
+        "CEDULA": "27911822",
+        "APELLIDOS": "DIAZ AMARIS",
+        "NOMBRES": "CARLOS ALBERTO"
+      },
+      {
+        "CEDULA": "27911915",
+        "APELLIDOS": "CALVO CORTES",
+        "NOMBRES": "JOSE LUIS"
+      },
+      {
+        "CEDULA": "28123620",
+        "APELLIDOS": "PARRA GONZALEZ",
+        "NOMBRES": "WILSON DAVID"
+      },
+      {
+        "CEDULA": "29839855",
+        "APELLIDOS": "GRAU REALES",
+        "NOMBRES": "JOSE GREGORIO"
+      },
+      {
+        "CEDULA": "30231942",
+        "APELLIDOS": "GONZALEZ YGUARAN",
+        "NOMBRES": "NERIO SEGUNDO"
+      },
+      {
+        "CEDULA": "31408849",
+        "APELLIDOS": "GONZALEZ SUAREZ",
+        "NOMBRES": "CARLOS EDUARDO"
+      },
+      {
+        "CEDULA": "31524189",
+        "APELLIDOS": "GONZALEZ BELEÑO",
+        "NOMBRES": "ANTONIO FRANCISCO"
+      },
+      {
+        "CEDULA": "31876567",
+        "APELLIDOS": "POLANCO BARBOZA",
+        "NOMBRES": "ANDREINA DEL CARMEN"
+      },
+      {
+        "CEDULA": "81852674",
+        "APELLIDOS": "GONZALEZ GONZALEZ",
+        "NOMBRES": "ANICETO "
+      },
+      {
+        "CEDULA": "23304105",
+        "APELLIDOS": "ARCOS NUÑEZ",
+        "NOMBRES": "ROBINSON "
+      },
+      {
+        "CEDULA": "12134504",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "LUIS SAUL"
+      },
+      {
+        "CEDULA": "12656294",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "DOMINGO WISTER"
+      },
+      {
+        "CEDULA": "13009224",
+        "APELLIDOS": "NUÑEZ NUÑEZ",
+        "NOMBRES": "OSMAN JAVIER"
+      },
+      {
+        "CEDULA": "17635029",
+        "APELLIDOS": "FIGUEROA IGUARAN",
+        "NOMBRES": "HEBER  LUIS"
+      },
+      {
+        "CEDULA": "29980247",
+        "APELLIDOS": "GONZALEZ GONZALEZ",
+        "NOMBRES": "ELOY SEGUNDO"
+      },
+      {
+        "CEDULA": "1126429469",
+        "APELLIDOS": "CARO ROJAS",
+        "NOMBRES": "SAMIRA "
+      }
+    ],
+    "SABANERO": [
+      {
+        "CEDULA": "13370180",
+        "APELLIDOS": "GONZALEZ GONZALEZ",
+        "NOMBRES": "CHARLES "
+      },
+      {
+        "CEDULA": "13451978",
+        "APELLIDOS": "SOLARTE ROSALES",
+        "NOMBRES": "VICTOR SEGUNDO"
+      },
+      {
+        "CEDULA": "15134089",
+        "APELLIDOS": "RODRIGUEZ ",
+        "NOMBRES": "JOENIS ENRIQUE"
+      },
+      {
+        "CEDULA": "15436810",
+        "APELLIDOS": "FRANCO FLORES",
+        "NOMBRES": "CARLOS ALBERTO"
+      },
+      {
+        "CEDULA": "15986449",
+        "APELLIDOS": "GALUE ",
+        "NOMBRES": "LUIS MANUEL"
+      },
+      {
+        "CEDULA": "17579240",
+        "APELLIDOS": "AVILA MOLINA",
+        "NOMBRES": "SAMUEL SEGUNDO"
+      },
+      {
+        "CEDULA": "18373930",
+        "APELLIDOS": "FERRER RAMIREZ",
+        "NOMBRES": "RENNY JOSE"
+      },
+      {
+        "CEDULA": "19035087",
+        "APELLIDOS": "ALCENDRA ",
+        "NOMBRES": "WILLIAM ALBERTO"
+      },
+      {
+        "CEDULA": "19261754",
+        "APELLIDOS": "VENERA DOMINGUEZ",
+        "NOMBRES": "LUIS MANUEL"
+      },
+      {
+        "CEDULA": "20371892",
+        "APELLIDOS": "MONTIEL MONTIEL",
+        "NOMBRES": "LUIS  ANGEL"
+      },
+      {
+        "CEDULA": "25950450",
+        "APELLIDOS": "FUENMAYOR FUENMAYOR",
+        "NOMBRES": "JOSE RODOLFO"
+      },
+      {
+        "CEDULA": "26258050",
+        "APELLIDOS": "MORILLO TORRADO",
+        "NOMBRES": "DENILSON JAVIER"
+      },
+      {
+        "CEDULA": "27538370",
+        "APELLIDOS": "MESA PIRELA",
+        "NOMBRES": "DANIEL ANTONIO"
+      },
+      {
+        "CEDULA": "28670254",
+        "APELLIDOS": "MORILLO TORRADO",
+        "NOMBRES": "JULIO JOSE"
+      },
+      {
+        "CEDULA": "30813082",
+        "APELLIDOS": "ALVARADO MORALES",
+        "NOMBRES": "JHONNY JOSE"
+      },
+      {
+        "CEDULA": "31253926",
+        "APELLIDOS": "ARIAS CAMARGO",
+        "NOMBRES": "LUIS ANGEL"
+      },
+      {
+        "CEDULA": "17496371",
+        "APELLIDOS": "RODRIGUEZ RODRIGUEZ",
+        "NOMBRES": "ADAN MANUEL"
+      },
+      {
+        "CEDULA": "19989907",
+        "APELLIDOS": "MONTIEL PALMAR",
+        "NOMBRES": "CARLOS GREGORIO"
+      },
+      {
+        "CEDULA": "27538974",
+        "APELLIDOS": "DUARTE  GIL",
+        "NOMBRES": "JOSE MIGUEL"
+      },
+      {
+        "CEDULA": "28682467",
+        "APELLIDOS": "CAMACHO SUAREZ",
+        "NOMBRES": "JOSE DANIEL"
+      },
+      {
+        "CEDULA": "30813670",
+        "APELLIDOS": "RODRIGUEZ DIAZ",
+        "NOMBRES": "YOGLIS JOSE"
+      },
+      {
+        "CEDULA": "32360129",
+        "APELLIDOS": "MARTINEZ RAAD",
+        "NOMBRES": "CRISTIAN DAVID"
+      }
+    ],
+    "CAPORAL ORDEÑO MANUAL": [
+      {
+        "CEDULA": "13719248",
+        "APELLIDOS": "FRANCO PALMAR",
+        "NOMBRES": "DANIEL FELIPE"
+      },
+      {
+        "CEDULA": "15435520",
+        "APELLIDOS": "RIOS PORTILLO",
+        "NOMBRES": "OMAIRO SEGUNDO"
+      },
+      {
+        "CEDULA": "15658887",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "ORANGEL "
+      },
+      {
+        "CEDULA": "17561028",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "FREDDY LUIS"
+      },
+      {
+        "CEDULA": "17579112",
+        "APELLIDOS": "REALES NAVARRO",
+        "NOMBRES": "FRANCISCO ALBERTO"
+      },
+      {
+        "CEDULA": "19176434",
+        "APELLIDOS": "VALBUENA ",
+        "NOMBRES": "LUIS HORACIO"
+      },
+      {
+        "CEDULA": "24958115",
+        "APELLIDOS": "PAZ PAZ",
+        "NOMBRES": "EDGAR ALEXANDER"
+      },
+      {
+        "CEDULA": "25185365",
+        "APELLIDOS": "PEDROZO ARIAS",
+        "NOMBRES": "JOHAN JESUS"
+      },
+      {
+        "CEDULA": "83663354",
+        "APELLIDOS": "MORENO LAMBRAÑO",
+        "NOMBRES": "DANIEL "
+      },
+      {
+        "CEDULA": "18917964",
+        "APELLIDOS": "CONTRERAS CASTELLARE",
+        "NOMBRES": "HERNANDO "
+      }
+    ],
+    "ENCARGADO DE MANTENIMIENTO Y SERVICIOS": [
+      {
+        "CEDULA": "13725827",
+        "APELLIDOS": "SANCHEZ ALVARADO",
+        "NOMBRES": "RODIMIRO SEGUNDO"
+      },
+      {
+        "CEDULA": "7896569",
+        "APELLIDOS": "ROSALES COY",
+        "NOMBRES": "JOSE TOMAS"
+      }
+    ],
+    "JEFE DE TALLER": [
+      {
+        "CEDULA": "13725899",
+        "APELLIDOS": "CALDERA RINCON",
+        "NOMBRES": "GILBERTO JOSE"
+      },
+      {
+        "CEDULA": "7895583",
+        "APELLIDOS": "HERRERA SERRUDO",
+        "NOMBRES": "EDIXON ANGEL"
+      }
+    ],
+    "CAPORAL DE CAMPERO": [
+      {
+        "CEDULA": "15380993",
+        "APELLIDOS": "RODRIGUEZ HERNANDEZ",
+        "NOMBRES": "ARGENIO "
+      },
+      {
+        "CEDULA": "83138431",
+        "APELLIDOS": "PIMIENTA GUERRA",
+        "NOMBRES": "FILIBERTO ENRIQUE"
+      },
+      {
+        "CEDULA": "83490311",
+        "APELLIDOS": "AGUILAR BADILLO",
+        "NOMBRES": "JONNYS "
+      },
+      {
+        "CEDULA": "9761988",
+        "APELLIDOS": "GONZALEZ OSORIO",
+        "NOMBRES": "YOVANY JOSE"
+      },
+      {
+        "CEDULA": "11975349",
+        "APELLIDOS": "SANCHEZ MIER",
+        "NOMBRES": "EDGAR  ENRIQUE"
+      },
+      {
+        "CEDULA": "11975499",
+        "APELLIDOS": "UZCATEGUI GUTIERREZ",
+        "NOMBRES": "JESUS GREGORIO"
+      },
+      {
+        "CEDULA": "21596230",
+        "APELLIDOS": "MARTINEZ DIAZ",
+        "NOMBRES": "JOHN JAIRO"
+      },
+      {
+        "CEDULA": "25279502",
+        "APELLIDOS": "FLORIAN PETERNINA",
+        "NOMBRES": "JULIAN "
+      },
+      {
+        "CEDULA": "81853498",
+        "APELLIDOS": "JIMENEZ ARAUJO",
+        "NOMBRES": "LAUREANO "
+      },
+      {
+        "CEDULA": "84126794",
+        "APELLIDOS": "AISLANT LARA",
+        "NOMBRES": "NESTOR MANUEL"
+      },
+      {
+        "CEDULA": "20608889",
+        "APELLIDOS": "CALLEJAS CASTILLO",
+        "NOMBRES": "MIGUEL ANGEL"
+      }
+    ],
+    "ENCARGADO DE GANADERIA": [
+      {
+        "CEDULA": "15381135",
+        "APELLIDOS": "MORELO  URDANETA",
+        "NOMBRES": "ANTONIO   RAMON"
+      },
+      {
+        "CEDULA": "23475504",
+        "APELLIDOS": "JIMENEZ OLIVEROS",
+        "NOMBRES": "CARLOS JOSE"
+      }
+    ],
+    "AYUDANTE DE MANTENIMIENTO Y LIMPIEZA": [
+      {
+        "CEDULA": "15854570",
+        "APELLIDOS": "SANCHEZ ALVARADO",
+        "NOMBRES": "RODY JOSE"
+      },
+      {
+        "CEDULA": "16466307",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "GEOVANNY DE JESUS"
+      },
+      {
+        "CEDULA": "16466421",
+        "APELLIDOS": "MARTINEZ SIERRA",
+        "NOMBRES": "LUIS ALBERTO"
+      },
+      {
+        "CEDULA": "17579141",
+        "APELLIDOS": "GOMEZ ",
+        "NOMBRES": "GREGORIO ENRIQUE"
+      },
+      {
+        "CEDULA": "22138156",
+        "APELLIDOS": "MARTINEZ MONTIEL",
+        "NOMBRES": "IRIS ESTHER"
+      },
+      {
+        "CEDULA": "27620864",
+        "APELLIDOS": "GALUE ALVARADO",
+        "NOMBRES": "DAVID RICARDO"
+      },
+      {
+        "CEDULA": "31149202",
+        "APELLIDOS": "GODOY ROYERO",
+        "NOMBRES": "KEINER DAVID"
+      },
+      {
+        "CEDULA": "81792445",
+        "APELLIDOS": "AREVALO RANGEL",
+        "NOMBRES": "RAFAEL "
+      },
+      {
+        "CEDULA": "15135620",
+        "APELLIDOS": "MANOSALVA CRESPO",
+        "NOMBRES": "GEORGE FRANCISCO"
+      },
+      {
+        "CEDULA": "18374497",
+        "APELLIDOS": "URDANETA BARROSO",
+        "NOMBRES": "NORELIS MARIA"
+      },
+      {
+        "CEDULA": "19440966",
+        "APELLIDOS": "ZAMBRANO DIAZ",
+        "NOMBRES": "RICHARD ANDRES"
+      },
+      {
+        "CEDULA": "25298119",
+        "APELLIDOS": "GUILLEN BELEÑO",
+        "NOMBRES": "JUAN FRANCISCO"
+      },
+      {
+        "CEDULA": "3295981",
+        "APELLIDOS": "ROSALES ",
+        "NOMBRES": "JOSE ORLANDO"
+      },
+      {
+        "CEDULA": "7898145",
+        "APELLIDOS": "GARCIA PORTILLO",
+        "NOMBRES": "ORLANDO DAVID"
+      },
+      {
+        "CEDULA": "7904083",
+        "APELLIDOS": "BLANCO ",
+        "NOMBRES": "JOSE GREGORIO"
+      },
+      {
+        "CEDULA": "81846347",
+        "APELLIDOS": "PESTANA LENES",
+        "NOMBRES": "DOMINGO EUGENIO"
+      },
+      {
+        "CEDULA": "12581141",
+        "APELLIDOS": "RICO RAMOS",
+        "NOMBRES": "ANTONIO "
+      },
+      {
+        "CEDULA": "1720332",
+        "APELLIDOS": "ALVARADO GUTIERREZ",
+        "NOMBRES": "FELIX "
+      }
+    ],
+    "SOLDADOR": [
+      {
+        "CEDULA": "16039380",
+        "APELLIDOS": "VILLASMIL ",
+        "NOMBRES": "LUIS GUILLERMO"
+      },
+      {
+        "CEDULA": "16165755",
+        "APELLIDOS": "MARIN ",
+        "NOMBRES": "ODELIS JOSE"
+      },
+      {
+        "CEDULA": "19312354",
+        "APELLIDOS": "RODRIGUEZ ATENCIO",
+        "NOMBRES": "JOHNNY YUMAN"
+      }
+    ],
+    "AYUDANTE DE CABALLERIZA": [
+      {
+        "CEDULA": "16166503",
+        "APELLIDOS": "SUAREZ ",
+        "NOMBRES": "JAIRO JOSE"
+      },
+      {
+        "CEDULA": "18282182",
+        "APELLIDOS": "OJEDA ",
+        "NOMBRES": "RENE JAVIER"
+      },
+      {
+        "CEDULA": "20167236",
+        "APELLIDOS": "PEROZO ZAMBRANO",
+        "NOMBRES": "JOANDRY SEGUNDO"
+      },
+      {
+        "CEDULA": "31546511",
+        "APELLIDOS": "BRACHO ROMERO",
+        "NOMBRES": "DIEGO ALEJANDRO"
+      },
+      {
+        "CEDULA": "32047727",
+        "APELLIDOS": "MORENO ORTEGA",
+        "NOMBRES": "OSMER JHONAIKE"
+      }
+    ],
+    "ENCARGADO": [
+      {
+        "CEDULA": "19934907",
+        "APELLIDOS": "BARROSO URDANETA",
+        "NOMBRES": "ANGEL ALBERTO"
+      },
+      {
+        "CEDULA": "20531883",
+        "APELLIDOS": "GALARCIO VERA",
+        "NOMBRES": "GABRIEL RAMON"
+      },
+      {
+        "CEDULA": "6801767",
+        "APELLIDOS": "ALVARADO GONZALEZ",
+        "NOMBRES": "OSMAR JOSE"
+      },
+      {
+        "CEDULA": "83490484",
+        "APELLIDOS": "GALARCIO GOMEZ",
+        "NOMBRES": "GABRIEL RAMON"
+      },
+      {
+        "CEDULA": "88308596",
+        "APELLIDOS": "DIAZ DIAZ",
+        "NOMBRES": "DOMINGO DE LOS SANTOS"
+      },
+      {
+        "CEDULA": "85167033",
+        "APELLIDOS": "URBINA LOPEZ",
+        "NOMBRES": "JUAN DE DIOS"
+      }
+    ],
+    "ENCARGADO DE CABALLERIZA": [
+      {
+        "CEDULA": "20169848",
+        "APELLIDOS": "URDANETA PEREZ",
+        "NOMBRES": "LUIS ENRRIQUE"
+      }
+    ],
+    "SUPERVISOR DE PCP": [
+      {
+        "CEDULA": "20529699",
+        "APELLIDOS": "ATENCIO BRACHO",
+        "NOMBRES": "JUNIOR JOSE"
+      },
+      {
+        "CEDULA": "10689262",
+        "APELLIDOS": "ZERPA ",
+        "NOMBRES": "JOSE ANGEL"
+      },
+      {
+        "CEDULA": "13021878",
+        "APELLIDOS": "RODRIGUEZ CONTRERAS",
+        "NOMBRES": "JESUS GUILLERMO"
+      },
+      {
+        "CEDULA": "16466546",
+        "APELLIDOS": "PARRA BELEÑO",
+        "NOMBRES": "JUAN RAFAEL"
+      },
+      {
+        "CEDULA": "25300374",
+        "APELLIDOS": "LEON AVENDAÑO",
+        "NOMBRES": "LORENSO "
+      },
+      {
+        "CEDULA": "1094162575",
+        "APELLIDOS": "GALVIS DONADO",
+        "NOMBRES": "LUIS ORLANDO"
+      }
+    ],
+    "OPERADOR DE MAQUINARIA PESADA": [
+      {
+        "CEDULA": "24268475",
+        "APELLIDOS": "FEREIRA ROBLES",
+        "NOMBRES": "JHONKLIN ALFREDO"
+      },
+      {
+        "CEDULA": "24879808",
+        "APELLIDOS": "MEJIA LEIVA",
+        "NOMBRES": "ANTONIO JOSE"
+      },
+      {
+        "CEDULA": "25298553",
+        "APELLIDOS": "NUÑEZ RAMIREZ",
+        "NOMBRES": "MARVIN  JUNIOR"
+      },
+      {
+        "CEDULA": "7897815",
+        "APELLIDOS": "CAMBA ",
+        "NOMBRES": "NILSO ANTONIO"
+      },
+      {
+        "CEDULA": "12134420",
+        "APELLIDOS": "CARRUYO ZERPA",
+        "NOMBRES": "RAMON DE JESUS"
+      },
+      {
+        "CEDULA": "21509937",
+        "APELLIDOS": "CUETO SELIN",
+        "NOMBRES": "VICTOR MANUEL"
+      },
+      {
+        "CEDULA": "21227442",
+        "APELLIDOS": "NAVARRO ACUÑA",
+        "NOMBRES": "JOSE MANUEL "
+      }
+    ],
+    "ENCARGADO DE MANTENIMIENTO Y LIMPIEZA": [
+      {
+        "CEDULA": "25279639",
+        "APELLIDOS": "PALENCIA BELEÑO",
+        "NOMBRES": "LORENZO "
+      }
+    ],
+    "AYUDANTE DE MANTENIMIENTO Y SERVICIOS": [
+      {
+        "CEDULA": "25310132",
+        "APELLIDOS": "ALVARADO MONTIEL",
+        "NOMBRES": "IDELFONSO "
+      },
+      {
+        "CEDULA": "25628119",
+        "APELLIDOS": "RAMOS PRIETO",
+        "NOMBRES": "ANGEL EDUARDO"
+      },
+      {
+        "CEDULA": "26347906",
+        "APELLIDOS": "DELGADO  OVIEDO",
+        "NOMBRES": "DAVIER  DE JESUS "
+      },
+      {
+        "CEDULA": "30245176",
+        "APELLIDOS": "CAICEDO   VILLAMIZAR",
+        "NOMBRES": "YOVANY  JOSE"
+      },
+      {
+        "CEDULA": "23475108",
+        "APELLIDOS": "ALVARADO ZAMBRANO",
+        "NOMBRES": "LUIS  JAVIER"
+      }
+    ],
+    "AYUDANTE DE SOLDADOR": [
+      {
+        "CEDULA": "28693539",
+        "APELLIDOS": "MARIN MORA",
+        "NOMBRES": "YORJAN JOSE"
+      }
+    ],
+    "ENCARGADO DE SERVICIOS GENERALES": [
+      {
+        "CEDULA": "83490904",
+        "APELLIDOS": "AMARIS AMARIS",
+        "NOMBRES": "ELIZABETH "
+      }
+    ],
+    "PLAGUERO": [
+      {
+        "CEDULA": "10680803",
+        "APELLIDOS": "DIAZ PEREZ",
+        "NOMBRES": "JOSE  GRABIEL"
+      },
+      {
+        "CEDULA": "10688598",
+        "APELLIDOS": "RAMIREZ MENDOZA",
+        "NOMBRES": "IGNERIO JOSE"
+      },
+      {
+        "CEDULA": "11973553",
+        "APELLIDOS": "DURAN ESCANDELA",
+        "NOMBRES": "FREDDY DEL CARMEN"
+      },
+      {
+        "CEDULA": "13142055",
+        "APELLIDOS": "PARRA PEREIRA",
+        "NOMBRES": "EDGAR  ELI"
+      },
+      {
+        "CEDULA": "15685631",
+        "APELLIDOS": "BRACHO GARCIA",
+        "NOMBRES": "YACKSON ENRIQUE"
+      },
+      {
+        "CEDULA": "17084109",
+        "APELLIDOS": "ESTRADA BRACHO",
+        "NOMBRES": "JOSEPH  ASHWORTH"
+      },
+      {
+        "CEDULA": "18379919",
+        "APELLIDOS": "MEDINA FERRER",
+        "NOMBRES": "ALEJANDRO  JOSE"
+      },
+      {
+        "CEDULA": "18720920",
+        "APELLIDOS": "VALERO ARELLANO",
+        "NOMBRES": "FERNANDO RAMON"
+      },
+      {
+        "CEDULA": "19577915",
+        "APELLIDOS": "GOMEZ VILORIA",
+        "NOMBRES": "AMILCAR JOSE"
+      },
+      {
+        "CEDULA": "19866908",
+        "APELLIDOS": "PEREIRA PASTRAN",
+        "NOMBRES": "JOSE RAMON"
+      },
+      {
+        "CEDULA": "25924684",
+        "APELLIDOS": "ESCOBAR ESCANDELA",
+        "NOMBRES": "EDWIN NELLER"
+      },
+      {
+        "CEDULA": "26171494",
+        "APELLIDOS": "COLMENARES GOMEZ",
+        "NOMBRES": "VICTOR ALEJANDRO"
+      },
+      {
+        "CEDULA": "26796571",
+        "APELLIDOS": "CUICAS TORREALBA",
+        "NOMBRES": "GABRIEL  JOSE"
+      },
+      {
+        "CEDULA": "29848487",
+        "APELLIDOS": "MENDOZA PADILLA",
+        "NOMBRES": "ORLANDO JAVIER"
+      },
+      {
+        "CEDULA": "30760757",
+        "APELLIDOS": "GARCIA HERNANDEZ",
+        "NOMBRES": "DEIVIS  ALEJANDRO "
+      },
+      {
+        "CEDULA": "9700158",
+        "APELLIDOS": "PORTILLO STEER",
+        "NOMBRES": "EURO ANTONIO"
+      }
+    ],
+    "OPERADOR DE GENERADORES ELECTRICOS": [
+      {
+        "CEDULA": "10682047",
+        "APELLIDOS": "BALZAN FRANCO",
+        "NOMBRES": "ARGENIS RAFAEL"
+      }
+    ],
+    "ENCARGADO DE PLANTACION": [
+      {
+        "CEDULA": "10686259",
+        "APELLIDOS": "PLATA ",
+        "NOMBRES": "JORGE LUIS"
+      },
+      {
+        "CEDULA": "10687929",
+        "APELLIDOS": "PAZ PINZON",
+        "NOMBRES": "FREDDY ALBERTO"
+      },
+      {
+        "CEDULA": "12492008",
+        "APELLIDOS": "GONZALEZ CHACON",
+        "NOMBRES": "OMAR ANTONIO"
+      },
+      {
+        "CEDULA": "12492535",
+        "APELLIDOS": "PIÑERO CALIXTRO",
+        "NOMBRES": "ELIGIO ARTURO"
+      },
+      {
+        "CEDULA": "12494590",
+        "APELLIDOS": "SALOM CARRERO",
+        "NOMBRES": "JUAN PABLO"
+      },
+      {
+        "CEDULA": "17185586",
+        "APELLIDOS": "COHEN COY",
+        "NOMBRES": "JOHN DEIVYS"
+      },
+      {
+        "CEDULA": "18161100",
+        "APELLIDOS": "PEREZ COLLAZOS",
+        "NOMBRES": "JESUS GREGORIO"
+      },
+      {
+        "CEDULA": "18379453",
+        "APELLIDOS": "LOPEZ  ZAMBRANO",
+        "NOMBRES": "MAGGLIN  MARIA"
+      },
+      {
+        "CEDULA": "18963177",
+        "APELLIDOS": "TROCONIS BARBOZA",
+        "NOMBRES": "MANUEL ALEJANDRO"
+      },
+      {
+        "CEDULA": "19440553",
+        "APELLIDOS": "ZAMBRANO ORDOÑEZ",
+        "NOMBRES": "EDER JESUS"
+      },
+      {
+        "CEDULA": "21596197",
+        "APELLIDOS": "AMAYA CLARO",
+        "NOMBRES": "DAYMAR "
+      },
+      {
+        "CEDULA": "21597956",
+        "APELLIDOS": "MERCADO RODRIGUEZ",
+        "NOMBRES": "LUIS ALBERTO"
+      },
+      {
+        "CEDULA": "26628083",
+        "APELLIDOS": "ZAMBRANO MELENDES",
+        "NOMBRES": "LUZ ENITH"
+      },
+      {
+        "CEDULA": "11661202",
+        "APELLIDOS": "VILLALOBOS VARGAS",
+        "NOMBRES": "ANGEL FRANCISCO"
+      }
+    ],
+    "AYUDANTE DE LIMPIEZA": [
+      {
+        "CEDULA": "16787126",
+        "APELLIDOS": "URDANETA LABRADOR",
+        "NOMBRES": "ROSA BENITA"
+      },
+      {
+        "CEDULA": "21227431",
+        "APELLIDOS": "CAZABON SUAREZ",
+        "NOMBRES": "ELIS  JOHANNA"
+      }
+    ],
+    "CLASIFICADOR DE SEMILLAS": [
+      {
+        "CEDULA": "18647050",
+        "APELLIDOS": "GONZALEZ LOPEZ",
+        "NOMBRES": "MIGUEL  ANGEL "
+      },
+      {
+        "CEDULA": "26701948",
+        "APELLIDOS": "VILLALOBOS ROO",
+        "NOMBRES": "GERARDO GUSTAVO"
+      }
+    ],
+    "SUPERVISOR DE PLAGUEROS": [
+      {
+        "CEDULA": "19035619",
+        "APELLIDOS": "ESCOBAR PEREZ",
+        "NOMBRES": "EDIXON JOSE"
+      },
+      {
+        "CEDULA": "20366616",
+        "APELLIDOS": "QUINTERO PEREZ",
+        "NOMBRES": "ALBERT MACKEY"
+      }
+    ],
+    "BUFALERO": [
+      {
+        "CEDULA": "20167324",
+        "APELLIDOS": "MEDINA MEDINA",
+        "NOMBRES": "KERWIN GERVIS"
+      },
+      {
+        "CEDULA": "20533563",
+        "APELLIDOS": "GUALDRON GEREZ",
+        "NOMBRES": "ORLANDO "
+      },
+      {
+        "CEDULA": "31474014",
+        "APELLIDOS": "PALMAR CACERES",
+        "NOMBRES": "JESUS ALBERTO"
+      },
+      {
+        "CEDULA": "7903333",
+        "APELLIDOS": "SOLANO ",
+        "NOMBRES": "FRAN FRANKLIN"
+      },
+      {
+        "CEDULA": "81791647",
+        "APELLIDOS": "MERCADO ACOSTA",
+        "NOMBRES": "TILSO NEL"
+      },
+      {
+        "CEDULA": "13200133",
+        "APELLIDOS": "ANGARITA AVENDAÑO",
+        "NOMBRES": "EMIRO "
+      }
+    ],
+    "ASISTENTE ADMINISTRATIVO": [
+      {
+        "CEDULA": "21179128",
+        "APELLIDOS": "PINEDA JAIME",
+        "NOMBRES": "LUZ MARY"
+      }
+    ],
+    "CAPORAL DE PLANTACION": [
+      {
+        "CEDULA": "22138061",
+        "APELLIDOS": "MORALEZ ",
+        "NOMBRES": "FIDEL ANTONIO"
+      },
+      {
+        "CEDULA": "23220458",
+        "APELLIDOS": "GUTIERREZ QUINTANA",
+        "NOMBRES": "INOCENCIO "
+      },
+      {
+        "CEDULA": "25628759",
+        "APELLIDOS": "SOCARRAS MARTINEZ",
+        "NOMBRES": "AMIN "
+      }
+    ],
+    "SUPERVISOR DE TRANSPORTE": [
+      {
+        "CEDULA": "26258496",
+        "APELLIDOS": "URDANETA GONZALEZ",
+        "NOMBRES": "LUIS JOSE"
+      }
+    ],
+    "COORDINADOR DE PLANTACION": [
+      {
+        "CEDULA": "4333431",
+        "APELLIDOS": "ANGARITA FERNANDEZ",
+        "NOMBRES": "EUDALDO DE JESUS"
+      },
+      {
+        "CEDULA": "9393350",
+        "APELLIDOS": "UZCATEGUI GUILLEN",
+        "NOMBRES": "JESUS ALIRIO"
+      }
+    ],
+    "CAVERO": [
+      {
+        "CEDULA": "26198621",
+        "APELLIDOS": "VILLASMIL URDANETA",
+        "NOMBRES": "ALEXANDER MANUEL"
+      }
+    ],
+    "COORDINADOR DE PLANTACIONES": [
+      {
+        "CEDULA": "26749680",
+        "APELLIDOS": "HERNANDEZ ARAQUE",
+        "NOMBRES": "DANIEL EDUARDO"
+      }
+    ],
+    "MOTOSIERRISTA": [
+      {
+        "CEDULA": "14845213",
+        "APELLIDOS": "ORDOÑEZ ARIAS",
+        "NOMBRES": "EDUARDLUIS  "
+      },
+      {
+        "CEDULA": "22123289",
+        "APELLIDOS": "CARRIZO CHACON",
+        "NOMBRES": "DARWIN  ALEXANDER"
+      }
+    ],
+    "AYUDANTE DE MANTENIMIENTO": [
+      {
+        "CEDULA": "85439817",
+        "APELLIDOS": "MARTINEZ SANCHEZ",
+        "NOMBRES": "DIOVANIS "
+      }
+    ],
+    "OPERADOR DE RIEGO": [
+      {
+        "CEDULA": "91275973",
+        "APELLIDOS": "CHIQUILLO ROMERO",
+        "NOMBRES": "YONY "
+      }
+    ]
+  },
+  "FRISULCA": {
+    "COCINERA": [
+      {
+        "CEDULA": "10687887",
+        "APELLIDOS": "TALAVERA GOMEZ",
+        "NOMBRES": "MARY CRUZ"
+      },
+      {
+        "CEDULA": "7897829",
+        "APELLIDOS": "URDANETA DE TROCONIZ",
+        "NOMBRES": "EGLIS YASMIRA"
+      }
+    ],
+    "OPERARIO DE PRODUCCION I": [
+      {
+        "CEDULA": "13391903",
+        "APELLIDOS": "RIVAS PREDES",
+        "NOMBRES": "YONKY DE JESUS"
+      },
+      {
+        "CEDULA": "13725224",
+        "APELLIDOS": "HERRERA GONZALEZ",
+        "NOMBRES": "ALFREDO SEGUNDO"
+      },
+      {
+        "CEDULA": "18962110",
+        "APELLIDOS": "VILLASMIL MENDEZ",
+        "NOMBRES": "LUIS EDUARDO"
+      },
+      {
+        "CEDULA": "19691840",
+        "APELLIDOS": "GONZALEZ PRADA",
+        "NOMBRES": "EUNEL GABRIEL"
+      },
+      {
+        "CEDULA": "24960623",
+        "APELLIDOS": "PARRA VILCHEZ",
+        "NOMBRES": "JOSE ANGEL"
+      },
+      {
+        "CEDULA": "26347226",
+        "APELLIDOS": "CHAVEZ DIAZ",
+        "NOMBRES": "EVER DE JESUS"
+      },
+      {
+        "CEDULA": "27433568",
+        "APELLIDOS": "BERMUDEZ D VICENTE",
+        "NOMBRES": "ANGEL EMIRO"
+      },
+      {
+        "CEDULA": "27433895",
+        "APELLIDOS": "SANCHEZ URDANETA",
+        "NOMBRES": "JOSE ARMANDO"
+      },
+      {
+        "CEDULA": "28662141",
+        "APELLIDOS": "PRADO MONTIEL",
+        "NOMBRES": "JESUS LEONARDO"
+      },
+      {
+        "CEDULA": "13011308",
+        "APELLIDOS": "MARTINEZ BENAVIDES",
+        "NOMBRES": "EDGAR GREGORIO"
+      },
+      {
+        "CEDULA": "13563143",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "JOSE ENRIQUE"
+      },
+      {
+        "CEDULA": "13563414",
+        "APELLIDOS": "BOSCAN CAMARILLO",
+        "NOMBRES": "GUSTAVO DE JESUS"
+      },
+      {
+        "CEDULA": "14473800",
+        "APELLIDOS": "BRACHO RENDILES",
+        "NOMBRES": "FRANKLIN ENRIQUE"
+      },
+      {
+        "CEDULA": "15134148",
+        "APELLIDOS": "MARQUEZ NAVARRO",
+        "NOMBRES": "URBINO GUILLERMO"
+      },
+      {
+        "CEDULA": "16166111",
+        "APELLIDOS": "PUCHE SANCHEZ",
+        "NOMBRES": "FRANCISCO JAVIER"
+      },
+      {
+        "CEDULA": "16466255",
+        "APELLIDOS": "LOPEZ ",
+        "NOMBRES": "ELIVI GREGORIO"
+      },
+      {
+        "CEDULA": "17580911",
+        "APELLIDOS": "GOMEZ ROMERO",
+        "NOMBRES": "PEDRO JOSE"
+      },
+      {
+        "CEDULA": "18962533",
+        "APELLIDOS": "PARRA SUAREZ",
+        "NOMBRES": "LEOVIS DE JESUS"
+      },
+      {
+        "CEDULA": "20532135",
+        "APELLIDOS": "HERNANDEZ DIAZ",
+        "NOMBRES": "ANYELO  JOSE"
+      },
+      {
+        "CEDULA": "20532140",
+        "APELLIDOS": "VILLASMIL LEAL",
+        "NOMBRES": "ALBERTO LUIS"
+      },
+      {
+        "CEDULA": "21226027",
+        "APELLIDOS": "RANGEL LINARES",
+        "NOMBRES": "SERGIO LUIS"
+      },
+      {
+        "CEDULA": "21226798",
+        "APELLIDOS": "NUÑEZ GARCIA",
+        "NOMBRES": "ALEXANDER ANTONIO"
+      },
+      {
+        "CEDULA": "23475069",
+        "APELLIDOS": "URDANETA ",
+        "NOMBRES": "ADRIAN ARTURO"
+      },
+      {
+        "CEDULA": "24268838",
+        "APELLIDOS": "FARIAS FLORES",
+        "NOMBRES": "CARLOS EDUARDO"
+      },
+      {
+        "CEDULA": "24751569",
+        "APELLIDOS": "VERA CAMARILLO",
+        "NOMBRES": "BLAS JOSE"
+      },
+      {
+        "CEDULA": "24751720",
+        "APELLIDOS": "NAVARRO GUTIERREZ",
+        "NOMBRES": "CARLOS ALBERTO"
+      },
+      {
+        "CEDULA": "24752253",
+        "APELLIDOS": "LEON SABRIL",
+        "NOMBRES": "ANDERSON JUNIOR"
+      },
+      {
+        "CEDULA": "25554750",
+        "APELLIDOS": "ZAMBRANO VILCHEZ",
+        "NOMBRES": "HERIBERTO SEGUNDO"
+      },
+      {
+        "CEDULA": "25554881",
+        "APELLIDOS": "AMARIS LOPEZ",
+        "NOMBRES": "VICTOR ALFONSO"
+      },
+      {
+        "CEDULA": "25598356",
+        "APELLIDOS": "FLOREZ ARAUJO",
+        "NOMBRES": "JOEL ENRIQUE"
+      },
+      {
+        "CEDULA": "25875695",
+        "APELLIDOS": "FARIA GARCIA",
+        "NOMBRES": "YORDAN DAVID"
+      },
+      {
+        "CEDULA": "26171586",
+        "APELLIDOS": "PRIETO AREVALO",
+        "NOMBRES": "LUIS MIGUEL"
+      },
+      {
+        "CEDULA": "26258446",
+        "APELLIDOS": "FLORES  CARROZ",
+        "NOMBRES": "JORGE  LUIS"
+      },
+      {
+        "CEDULA": "26401481",
+        "APELLIDOS": "D VICENTE GONZALEZ",
+        "NOMBRES": "JHEN FRAN"
+      },
+      {
+        "CEDULA": "27305888",
+        "APELLIDOS": "PORTILLO URDANETA",
+        "NOMBRES": "LUIS ERNESTO"
+      },
+      {
+        "CEDULA": "27433991",
+        "APELLIDOS": "BRAVO LOPEZ",
+        "NOMBRES": "WILSON JOSE"
+      },
+      {
+        "CEDULA": "27658634",
+        "APELLIDOS": "LUCENA CERVEN",
+        "NOMBRES": "DOUGLAS DANIEL"
+      },
+      {
+        "CEDULA": "29980473",
+        "APELLIDOS": "ROMERO POLANCO",
+        "NOMBRES": "JUNIOR ENRIQUE"
+      },
+      {
+        "CEDULA": "30359345",
+        "APELLIDOS": "FLORES MORALES",
+        "NOMBRES": "RAIDY JOSE"
+      },
+      {
+        "CEDULA": "30450561",
+        "APELLIDOS": "VILLARREAL PORTILLO",
+        "NOMBRES": "ANGELO DE JESUS"
+      },
+      {
+        "CEDULA": "30677485",
+        "APELLIDOS": "MORALES PEREZ",
+        "NOMBRES": "MANUEL ANGEL"
+      },
+      {
+        "CEDULA": "31254099",
+        "APELLIDOS": "LUBO LOPEZ",
+        "NOMBRES": "JESUS JAVIER"
+      },
+      {
+        "CEDULA": "31634555",
+        "APELLIDOS": "PEREZ CRUZ",
+        "NOMBRES": "ARTURO JOSE"
+      },
+      {
+        "CEDULA": "32295119",
+        "APELLIDOS": "AMARIS DE LA OSSA",
+        "NOMBRES": "ALBERTO JOSE"
+      },
+      {
+        "CEDULA": "7903312",
+        "APELLIDOS": "RAMIREZ TALAVERA",
+        "NOMBRES": "NELSON LUIS"
+      }
+    ],
+    "CHOFER": [
+      {
+        "CEDULA": "18372538",
+        "APELLIDOS": "GRATEROL MONTIEL",
+        "NOMBRES": "AGDENIS DE JESUS"
+      },
+      {
+        "CEDULA": "23475190",
+        "APELLIDOS": "CHACIN CHACIN",
+        "NOMBRES": "EGLIS JOSE"
+      },
+      {
+        "CEDULA": "18695646",
+        "APELLIDOS": "LOPEZ ALTUVE",
+        "NOMBRES": "DANIEL EMIRO"
+      },
+      {
+        "CEDULA": "25310656",
+        "APELLIDOS": "MORILLO PRADO",
+        "NOMBRES": "LUIS JOSE"
+      },
+      {
+        "CEDULA": "7896611",
+        "APELLIDOS": "DUARTE ANGARITA",
+        "NOMBRES": "LUIS GABRIEL"
+      }
+    ],
+    "ANALISTA ADMINISTRATIVO": [
+      {
+        "CEDULA": "21223328",
+        "APELLIDOS": "GUERRERO PEREZ",
+        "NOMBRES": "YURANCY YOLANDA"
+      },
+      {
+        "CEDULA": "28662498",
+        "APELLIDOS": "PAZ NARANJO",
+        "NOMBRES": "OLIMAR DEL CARMEN"
+      },
+      {
+        "CEDULA": "17160495",
+        "APELLIDOS": "RODRIGUEZ LONGA",
+        "NOMBRES": "DEIMAR AMALOHA"
+      },
+      {
+        "CEDULA": "25924761",
+        "APELLIDOS": "DUARTE CAICEDO",
+        "NOMBRES": "ARIANNY ESTEFANIA"
+      }
+    ],
+    "SUPERVISOR DE DESPACHO": [
+      {
+        "CEDULA": "26401959",
+        "APELLIDOS": "FORERO OSORIO",
+        "NOMBRES": "BRAYAN ROSWELL"
+      },
+      {
+        "CEDULA": "13725464",
+        "APELLIDOS": "GALUE BERMUDEZ",
+        "NOMBRES": "CARLOS ALBERTO"
+      }
+    ],
+    "SUPERVISOR DE PRODUCCION": [
+      {
+        "CEDULA": "26718424",
+        "APELLIDOS": "RINCON LAGO",
+        "NOMBRES": "LUIS CARLOS"
+      },
+      {
+        "CEDULA": "18963069",
+        "APELLIDOS": "URDANETA PLATA",
+        "NOMBRES": "EDUIN LUIS"
+      },
+      {
+        "CEDULA": "20167302",
+        "APELLIDOS": "PEREZ VILLAFAÑE",
+        "NOMBRES": "EMY ALEXANDER"
+      },
+      {
+        "CEDULA": "25300853",
+        "APELLIDOS": "MONTERO HERNANDEZ",
+        "NOMBRES": "ALBERICA MARIA"
+      }
+    ],
+    "ANALISTA DE PRODUCCION": [
+      {
+        "CEDULA": "26854489",
+        "APELLIDOS": "BERMUDEZ PINEDA",
+        "NOMBRES": "JOSE EVANAN"
+      }
+    ],
+    "OPERADOR DE GENERADORES ELECTRICOS": [
+      {
+        "CEDULA": "27183954",
+        "APELLIDOS": "URDANETA URDANETA",
+        "NOMBRES": "ALBE ALONSO"
+      },
+      {
+        "CEDULA": "29690608",
+        "APELLIDOS": "LUJAN POLANCO",
+        "NOMBRES": "YORGEN ALBERTO"
+      },
+      {
+        "CEDULA": "15380159",
+        "APELLIDOS": "QUINTANILLO CASTELLANO",
+        "NOMBRES": "JORGE LUIS"
+      },
+      {
+        "CEDULA": "25554403",
+        "APELLIDOS": "CHACIN MUÑOZ",
+        "NOMBRES": "EDWIN ALFONSO"
+      }
+    ],
+    "AYUDANTE DE MANTENIMIENTO INDUSTRIAL": [
+      {
+        "CEDULA": "31595373",
+        "APELLIDOS": "FARIA FONSECA",
+        "NOMBRES": "RICHARD FERNANDO"
+      },
+      {
+        "CEDULA": "16466701",
+        "APELLIDOS": "ORTEGA DEL MAR",
+        "NOMBRES": "LICINIO ENRIQUE"
+      },
+      {
+        "CEDULA": "18695372",
+        "APELLIDOS": "PEDROZO GIL",
+        "NOMBRES": "JOHANDRYS ALBERTO"
+      },
+      {
+        "CEDULA": "26854279",
+        "APELLIDOS": "SUAREZ ALEMAN",
+        "NOMBRES": "JOSE MANUEL"
+      },
+      {
+        "CEDULA": "26854641",
+        "APELLIDOS": "FERNANDEZ PORTILLO",
+        "NOMBRES": "JOSE GREGORIO"
+      },
+      {
+        "CEDULA": "30244930",
+        "APELLIDOS": "PEREZ BELEÑO",
+        "NOMBRES": "ANGELO ALEXANDER"
+      }
+    ],
+    "OFICIAL DE PCP": [
+      {
+        "CEDULA": "10681918",
+        "APELLIDOS": "RODRIGUEZ RANGEL",
+        "NOMBRES": "GERMAN ANTONIO"
+      },
+      {
+        "CEDULA": "12135676",
+        "APELLIDOS": "URDANETA PEREIRA",
+        "NOMBRES": "FREDDY ALBERTO"
+      },
+      {
+        "CEDULA": "14244800",
+        "APELLIDOS": "PRADO RINCON",
+        "NOMBRES": "LEONARDO DE JESUS"
+      },
+      {
+        "CEDULA": "14473666",
+        "APELLIDOS": "CAMARGO CADENA",
+        "NOMBRES": "FAICER JOSE"
+      },
+      {
+        "CEDULA": "14651638",
+        "APELLIDOS": "MIRANDA HERNANDEZ",
+        "NOMBRES": "MANUEL ALEXANDER"
+      },
+      {
+        "CEDULA": "15855654",
+        "APELLIDOS": "ORTEGA VILLASMIL",
+        "NOMBRES": "LUIS ANTONIO"
+      },
+      {
+        "CEDULA": "18373193",
+        "APELLIDOS": "D VICENTE CARRERO",
+        "NOMBRES": "STEVE ENRIQUE"
+      },
+      {
+        "CEDULA": "21597147",
+        "APELLIDOS": "MORALES FONSECA",
+        "NOMBRES": "JOSE DANIEL"
+      },
+      {
+        "CEDULA": "26718601",
+        "APELLIDOS": "GONZALEZ D VICENTE",
+        "NOMBRES": "LUIS DAVID"
+      },
+      {
+        "CEDULA": "30068524",
+        "APELLIDOS": "GUTIERREZ POLANCO",
+        "NOMBRES": "MARIO NEPTALI"
+      }
+    ],
+    "SOLDADOR": [
+      {
+        "CEDULA": "10683141",
+        "APELLIDOS": "BARRIOS HERNANDEZ",
+        "NOMBRES": "ALI RAMON"
+      }
+    ],
+    "COORD GENERAL DE PRODUCCION": [
+      {
+        "CEDULA": "10687709",
+        "APELLIDOS": "MORAN PINZON",
+        "NOMBRES": "LUIS RAMON"
+      }
+    ],
+    "OPERARIO DE PRODUCCION II": [
+      {
+        "CEDULA": "11301972",
+        "APELLIDOS": "NARVAEZ VERGARA",
+        "NOMBRES": "FRADIT "
+      },
+      {
+        "CEDULA": "16165679",
+        "APELLIDOS": "SILVA PEÑA",
+        "NOMBRES": "DARWIN SEGUNDO"
+      },
+      {
+        "CEDULA": "17186331",
+        "APELLIDOS": "CHAVEZ ACOSTA",
+        "NOMBRES": "JOSE GREGORIO"
+      },
+      {
+        "CEDULA": "18374752",
+        "APELLIDOS": "CONTRERAS PEÑA",
+        "NOMBRES": "DANIEL ELIGIO"
+      },
+      {
+        "CEDULA": "24268573",
+        "APELLIDOS": "PORTILLO URDANETA",
+        "NOMBRES": "JESUS ANGEL"
+      },
+      {
+        "CEDULA": "25310627",
+        "APELLIDOS": "AÑEZ ATENCIO",
+        "NOMBRES": "LUIS JOSE"
+      }
+    ],
+    "GERENTE DE MANTENIMIENTO": [
+      {
+        "CEDULA": "12135769",
+        "APELLIDOS": "OCHOA ARTEAGA",
+        "NOMBRES": "ALEXANDER SEGUNDO"
+      }
+    ],
+    "DESPOSTADOR I": [
+      {
+        "CEDULA": "12135856",
+        "APELLIDOS": "MORALES  ARTEAGA",
+        "NOMBRES": "FRANK HEBERT"
+      },
+      {
+        "CEDULA": "14473183",
+        "APELLIDOS": "BRACHO HERNANDEZ",
+        "NOMBRES": "RICHARD KENDY"
+      },
+      {
+        "CEDULA": "23475390",
+        "APELLIDOS": "FEREIRA ARAQUE",
+        "NOMBRES": "MOISES  ANTONIO"
+      },
+      {
+        "CEDULA": "25554058",
+        "APELLIDOS": "BENAVIDES RAMIREZ",
+        "NOMBRES": "YORMA JOSE"
+      },
+      {
+        "CEDULA": "26639484",
+        "APELLIDOS": "BOSCAN GONZALEZ",
+        "NOMBRES": "ENMANUEL JOSE"
+      },
+      {
+        "CEDULA": "27983878",
+        "APELLIDOS": "RODRIGUEZ GUERRERO",
+        "NOMBRES": "JOSE ALEJANDRO"
+      },
+      {
+        "CEDULA": "30975122",
+        "APELLIDOS": "LOZANO  LOZANO",
+        "NOMBRES": "LUIS  ALFONSO"
+      },
+      {
+        "CEDULA": "31524201",
+        "APELLIDOS": "MONTIEL PORTILLO",
+        "NOMBRES": "ANGEL ALEXIS"
+      }
+    ],
+    "SUPERVISOR DE PCP": [
+      {
+        "CEDULA": "12494601",
+        "APELLIDOS": "AVENDAÑO ROSALES",
+        "NOMBRES": "LUIS ALFONSO"
+      },
+      {
+        "CEDULA": "14651459",
+        "APELLIDOS": "URDANETA ",
+        "NOMBRES": "RAMON EMIRO"
+      }
+    ],
+    "SUPERVISOR": [
+      {
+        "CEDULA": "12798933",
+        "APELLIDOS": "VILORIA CASTELLANO",
+        "NOMBRES": "JOSE JONNY"
+      }
+    ],
+    "SUPERVISOR DE ALMACEN": [
+      {
+        "CEDULA": "13010033",
+        "APELLIDOS": "MORAN PINZON",
+        "NOMBRES": "ANGEL ANTONIO"
+      }
+    ],
+    "AYUDANTE DE SERVICIOS GENERALES": [
+      {
+        "CEDULA": "13010183",
+        "APELLIDOS": "BRACHO GUERERE",
+        "NOMBRES": "ANGEL ADOLFO"
+      },
+      {
+        "CEDULA": "13011906",
+        "APELLIDOS": "OMAÑA VERA",
+        "NOMBRES": "YOSMAN ANGEL"
+      },
+      {
+        "CEDULA": "13719212",
+        "APELLIDOS": "MALDONADO GOMEZ",
+        "NOMBRES": "LUIS GERARDO"
+      }
+    ],
+    "COORDINADOR DE ADMINISTRACION": [
+      {
+        "CEDULA": "13719332",
+        "APELLIDOS": "RODRIGUEZ ARIZA",
+        "NOMBRES": "MARIA ALEJANDRA"
+      }
+    ],
+    "DESPOSTADOR III": [
+      {
+        "CEDULA": "14844547",
+        "APELLIDOS": "CHAVEZ ACOSTA",
+        "NOMBRES": "CIRO ANGEL"
+      }
+    ],
+    "COORDINADOR DE TALENTO HUMANO": [
+      {
+        "CEDULA": "14845777",
+        "APELLIDOS": "GALUE GUTIERREZ",
+        "NOMBRES": "MARIA EUGENIA"
+      }
+    ],
+    "SUPERVISOR DE SEGURIDAD Y SALUD LABORAL": [
+      {
+        "CEDULA": "15135872",
+        "APELLIDOS": "PORTILLO RIVAS",
+        "NOMBRES": "BETINA ROSA"
+      }
+    ],
+    "CAVERO": [
+      {
+        "CEDULA": "16467239",
+        "APELLIDOS": "RENDILES MORALES",
+        "NOMBRES": "DAMLUI "
+      }
+    ],
+    "SUPERVISOR DE FACTURACION Y CUENTAS POR COBRAR": [
+      {
+        "CEDULA": "16468501",
+        "APELLIDOS": "COLINA LOPEZ",
+        "NOMBRES": "ELIANA CAROLINA"
+      }
+    ],
+    "SUPERVISOR DE MANTENIMIENTO INDUSTRIAL": [
+      {
+        "CEDULA": "17185967",
+        "APELLIDOS": "PRIETO CRESPO",
+        "NOMBRES": "YONISETT ANGELICA"
+      },
+      {
+        "CEDULA": "18373347",
+        "APELLIDOS": "GARCIA MARTINEZ",
+        "NOMBRES": "CARLOS EDUARDO"
+      }
+    ],
+    "CALETERO I": [
+      {
+        "CEDULA": "17579878",
+        "APELLIDOS": "CARRILLO REVEROL",
+        "NOMBRES": "GERWIN ALBERTO"
+      },
+      {
+        "CEDULA": "17912511",
+        "APELLIDOS": "RANGEL GARCES",
+        "NOMBRES": "JOSE MIGUEL"
+      },
+      {
+        "CEDULA": "20533329",
+        "APELLIDOS": "GONZALEZ URDANETA",
+        "NOMBRES": "NOLBERTO SEGUNDO"
+      },
+      {
+        "CEDULA": "23763304",
+        "APELLIDOS": "RAMIREZ PEREZ",
+        "NOMBRES": "PETER ANDERSON"
+      },
+      {
+        "CEDULA": "25628863",
+        "APELLIDOS": "DI GIANDOMENICO ESTRADA",
+        "NOMBRES": "JOSE ALEJANDRO"
+      },
+      {
+        "CEDULA": "27305896",
+        "APELLIDOS": "PERNIA MEDINA",
+        "NOMBRES": "JOSE DANIEL"
+      },
+      {
+        "CEDULA": "27983891",
+        "APELLIDOS": "RINCON VILLAMIZAR",
+        "NOMBRES": "JAVIER JOSE"
+      },
+      {
+        "CEDULA": "28124240",
+        "APELLIDOS": "CONTRERAS OROZCO",
+        "NOMBRES": "RONNY SEGUNDO"
+      },
+      {
+        "CEDULA": "30583467",
+        "APELLIDOS": "MARENGO CASTRO",
+        "NOMBRES": "BRAYAN ANTONIO"
+      }
+    ],
+    "ANALISTA DE SOPORTE A USUARIO": [
+      {
+        "CEDULA": "18374729",
+        "APELLIDOS": "VILLASMIL MELEAN",
+        "NOMBRES": "NESTOR LUIS"
+      }
+    ],
+    "ANALISTA DE CUENTAS POR PAGAR": [
+      {
+        "CEDULA": "18962423",
+        "APELLIDOS": "MARQUEZ RODRIGUEZ",
+        "NOMBRES": "GENESIS CAROLINA"
+      },
+      {
+        "CEDULA": "19935703",
+        "APELLIDOS": "PERNIA CARDENAS",
+        "NOMBRES": "GLADYS MARIANA"
+      }
+    ],
+    "ANALISTA DE BANCO Y CONCILIACION": [
+      {
+        "CEDULA": "19440185",
+        "APELLIDOS": "PRIETO GONZALEZ",
+        "NOMBRES": "MARY DANIELA"
+      }
+    ],
+    "ENFERMERA": [
+      {
+        "CEDULA": "19690591",
+        "APELLIDOS": "CONTRERAS TALAVERA",
+        "NOMBRES": "JAIMARY DEL CARMEN"
+      }
+    ],
+    "MEDICO MEDICINA OCUPACIONAL": [
+      {
+        "CEDULA": "19811480",
+        "APELLIDOS": "BOSCAN GONZALEZ",
+        "NOMBRES": "EDUARDO RAMON"
+      }
+    ],
+    "ANALISTA DE CUENTAS POR COBRAR": [
+      {
+        "CEDULA": "19934727",
+        "APELLIDOS": "ATENCIO OBERTO",
+        "NOMBRES": "MARIA JOSE"
+      }
+    ],
+    "AYUDANTE DE LIMPIEZA": [
+      {
+        "CEDULA": "24268554",
+        "APELLIDOS": "GOMEZ ROMERO",
+        "NOMBRES": "DERIANA DEL CARMEN"
+      },
+      {
+        "CEDULA": "7781094",
+        "APELLIDOS": "MORALES ",
+        "NOMBRES": "CRUZ DEL VALLE"
+      }
+    ],
+    "GERENTE DE ADMINISTRACION Y FINANZAS": [
+      {
+        "CEDULA": "24268971",
+        "APELLIDOS": "SUAREZ URDANETA",
+        "NOMBRES": "MARIA CELESTE"
+      }
+    ],
+    "SUPERVISOR DE DESPOSTE": [
+      {
+        "CEDULA": "25665016",
+        "APELLIDOS": "FERNANDEZ MARQUEZ",
+        "NOMBRES": "AURELIO ALBERTO"
+      }
+    ],
+    "TECNICO DE REFRIGERACION": [
+      {
+        "CEDULA": "26258196",
+        "APELLIDOS": "TURIZO SUAREZ",
+        "NOMBRES": "CARLOS ALBERTO"
+      }
+    ],
+    "RECEPCIONISTA": [
+      {
+        "CEDULA": "26854507",
+        "APELLIDOS": "PEÑA PINEDA",
+        "NOMBRES": "ORIANA MARIA"
+      }
+    ],
+    "ANALISTA DE TALENTO HUMANO": [
+      {
+        "CEDULA": "26854512",
+        "APELLIDOS": "PARRA VILLASMIL",
+        "NOMBRES": "EMILYS MERCEDES"
+      }
+    ],
+    "AYUDANTE DE ALMACEN": [
+      {
+        "CEDULA": "28124249",
+        "APELLIDOS": "FEREIRA ARAQUE",
+        "NOMBRES": "DAVID JUVENCIO"
+      }
+    ],
+    "ANALISTA DE COMPRAS": [
+      {
+        "CEDULA": "28677129",
+        "APELLIDOS": "ZAMBRANO SOTO",
+        "NOMBRES": "NAHARAK JOSE"
+      }
+    ],
+    "MECANICO": [
+      {
+        "CEDULA": "28741898",
+        "APELLIDOS": "MORALES MARTINEZ",
+        "NOMBRES": "HUGO RAFAEL"
+      }
+    ],
+    "GERENTE DE OPERACIONES Y COMERCIALIZACION": [
+      {
+        "CEDULA": "7901114",
+        "APELLIDOS": "RINCON FEREIRA",
+        "NOMBRES": "ELVIS VALMORE"
+      }
+    ],
+    "SUPERVISOR DE SERVICIOS GENERALES": [
+      {
+        "CEDULA": "7902928",
+        "APELLIDOS": "AMESTY ESCOLA",
+        "NOMBRES": "JAIME LUIS"
+      }
+    ],
+    "OPERARIO DE PRODUCCION III": [
+      {
+        "CEDULA": "7903286",
+        "APELLIDOS": "AMESTY ESCOLA",
+        "NOMBRES": "YOVANIS DE JESUS"
+      }
+    ],
+    "ELECTRICISTA": [
+      {
+        "CEDULA": "7904039",
+        "APELLIDOS": "VULVAY OLIVERO",
+        "NOMBRES": "JOSE DE LA CRUZ"
+      }
+    ]
+  },
+  "FRISURCA": {
+    "AYUDANTE DE CARNICERIA": [
+      {
+        "CEDULA": "10416010",
+        "APELLIDOS": "CORDOVA BRACHO",
+        "NOMBRES": "NORBERTO  ALEXANDER"
+      },
+      {
+        "CEDULA": "27911469",
+        "APELLIDOS": "MEJIA GOMEZ",
+        "NOMBRES": "YHON  MAIKOL"
+      }
+    ],
+    "SUPERVISOR": [
+      {
+        "CEDULA": "10425200",
+        "APELLIDOS": "LEAL DAVILA",
+        "NOMBRES": "JOSE GREGORIO"
+      }
+    ],
+    "ENCARGADO": [
+      {
+        "CEDULA": "20582062",
+        "APELLIDOS": "REVEROL LARREAL",
+        "NOMBRES": "ELIANNE MARIA"
+      }
+    ],
+    "CAJERO": [
+      {
+        "CEDULA": "25488168",
+        "APELLIDOS": "CARRASQUERO RONDON",
+        "NOMBRES": "ROSMARY  CAROLINA "
+      }
+    ],
+    "CARNICERO PRINCIPAL": [
+      {
+        "CEDULA": "8093502",
+        "APELLIDOS": "SOTO RINCON",
+        "NOMBRES": "RAMON ANTONIO"
+      }
+    ]
+  },
+  "INLASICA": {
+    "APRENDIZ INCES": [
+      {
+        "CEDULA": "31468111",
+        "APELLIDOS": "FERRER  NARVAEZ",
+        "NOMBRES": "MARIA  DE LOS ANGELES "
+      },
+      {
+        "CEDULA": "32485621",
+        "APELLIDOS": "CASAS CACERES",
+        "NOMBRES": "DEINNIS JUNIOR"
+      }
+    ],
+    "PRESIDENTE": [
+      {
+        "CEDULA": "10682070",
+        "APELLIDOS": "PEREZ LLAVANERAS",
+        "NOMBRES": "WILMER JOSE"
+      }
+    ],
+    "DIRECTORA GENERAL": [
+      {
+        "CEDULA": "12134262",
+        "APELLIDOS": "PEREZ LLAVANERAS",
+        "NOMBRES": "MARIA TERESA"
+      }
+    ],
+    "VICEPRESIDENTE EJECUTIVO": [
+      {
+        "CEDULA": "13420175",
+        "APELLIDOS": "PEREZ LLAVANERAS",
+        "NOMBRES": "LUIS ANGEL"
+      }
+    ],
+    "DIRECTORA": [
+      {
+        "CEDULA": "3463482",
+        "APELLIDOS": "LLAVANERAS DE PEREZ",
+        "NOMBRES": "MARIA TERESA"
+      }
+    ],
+    "SUPERVISOR DE COSTOS": [
+      {
+        "CEDULA": "10236310",
+        "APELLIDOS": "COGOLLO GUERRERO",
+        "NOMBRES": "BARRY JOSE"
+      },
+      {
+        "CEDULA": "27071382",
+        "APELLIDOS": "NOGUERA ROMERO",
+        "NOMBRES": "ORLANDO JOSE"
+      }
+    ],
+    "GERENTE DE SERVICIOS AGROPECUARIOS": [
+      {
+        "CEDULA": "10237170",
+        "APELLIDOS": "UZCATEGUI AVENDAÑO",
+        "NOMBRES": "OSCAR ALBERTO"
+      }
+    ],
+    "SUPERVISOR DE MANTENIMIENTO INDUSTRIAL": [
+      {
+        "CEDULA": "10237548",
+        "APELLIDOS": "RODRIGUEZ ",
+        "NOMBRES": "HUMBERTO "
+      },
+      {
+        "CEDULA": "15684135",
+        "APELLIDOS": "PARRA GRANADILLO",
+        "NOMBRES": "YORKIS ALIDES"
+      },
+      {
+        "CEDULA": "16884612",
+        "APELLIDOS": "GONZALEZ PORTILLO",
+        "NOMBRES": "PEDRO JESUS"
+      },
+      {
+        "CEDULA": "20071072",
+        "APELLIDOS": "GOVEA CARRERO",
+        "NOMBRES": "ANGEL ALBERTO"
+      },
+      {
+        "CEDULA": "23893937",
+        "APELLIDOS": "NUNEZ MARQUEZ",
+        "NOMBRES": "DIONNY JOSE"
+      },
+      {
+        "CEDULA": "9734993",
+        "APELLIDOS": "SARCOS BUITRAGO",
+        "NOMBRES": "SERGIO JOSE"
+      }
+    ],
+    "SUPERVISOR DE ALMACEN DE PLANIF DE LOGISTICA Y MP": [
+      {
+        "CEDULA": "10852163",
+        "APELLIDOS": "BLANCO MONTILLA",
+        "NOMBRES": "JULIO CESAR"
+      },
+      {
+        "CEDULA": "16548164",
+        "APELLIDOS": "VILCHEZ POLO",
+        "NOMBRES": "JOSE ANDRES"
+      },
+      {
+        "CEDULA": "19934259",
+        "APELLIDOS": "MONCADA ROJAS",
+        "NOMBRES": "LEIDY YOHANA"
+      },
+      {
+        "CEDULA": "20168140",
+        "APELLIDOS": "BLANCO VILLADIEGO",
+        "NOMBRES": "YONATHAN "
+      }
+    ],
+    "SUPERVISOR DE LLENAJE Y DESHIDRATADOS": [
+      {
+        "CEDULA": "11045807",
+        "APELLIDOS": "BRACHO  GARRILLO",
+        "NOMBRES": "YOSBER  DE JESUS "
+      },
+      {
+        "CEDULA": "11971640",
+        "APELLIDOS": "MORENO URREA",
+        "NOMBRES": "LUIS MARTIN"
+      },
+      {
+        "CEDULA": "19134691",
+        "APELLIDOS": "ALVIAREZ TORRES",
+        "NOMBRES": "LUIS GUILLERMO"
+      },
+      {
+        "CEDULA": "25889847",
+        "APELLIDOS": "RAMON JORGE ",
+        "NOMBRES": "STEFANNY CAROLINA"
+      }
+    ],
+    "SUPERVISOR DE PCP": [
+      {
+        "CEDULA": "12808136",
+        "APELLIDOS": "CHACON CHACON",
+        "NOMBRES": "FREDDY "
+      },
+      {
+        "CEDULA": "14041890",
+        "APELLIDOS": "MORA USECHE",
+        "NOMBRES": "JOSE ANTONIO"
+      },
+      {
+        "CEDULA": "21223802",
+        "APELLIDOS": "HERNANDEZ QUINTERO",
+        "NOMBRES": "LUIS CARLOS"
+      }
+    ],
+    "COORDINADOR DE LLENAJE Y DESHIDRATADOS": [
+      {
+        "CEDULA": "13141158",
+        "APELLIDOS": "PORTILLO LOPEZ",
+        "NOMBRES": "JHONNY JOSE"
+      }
+    ],
+    "SUPERVISOR DE SOPORTE A USUARIO": [
+      {
+        "CEDULA": "13725533",
+        "APELLIDOS": "URDANETA PORTILLO",
+        "NOMBRES": "JUAN JOSE"
+      }
+    ],
+    "SUPERVISOR DE SERVICIOS AGROPECUARIOS": [
+      {
+        "CEDULA": "14152186",
+        "APELLIDOS": "ATENCIO PULGAR",
+        "NOMBRES": "JHOEN LUCAS"
+      },
+      {
+        "CEDULA": "14626016",
+        "APELLIDOS": "CHACON MORA",
+        "NOMBRES": "JESUS ARCANGEL"
+      },
+      {
+        "CEDULA": "14845288",
+        "APELLIDOS": "SEMPRUN ALARCON",
+        "NOMBRES": "MENANDRO JOSE"
+      }
+    ],
+    "SUPERVISOR DE SEGURIDAD Y SALUD LABORAL": [
+      {
+        "CEDULA": "14824570",
+        "APELLIDOS": "SOLARTE RIVAS",
+        "NOMBRES": "JORGE  ALBERTO"
+      },
+      {
+        "CEDULA": "24752450",
+        "APELLIDOS": "FLORES MENESES",
+        "NOMBRES": "MAIRENE ANDREINA"
+      }
+    ],
+    "SUPERVISOR DE ASEGURAMIENTO DE LA CALIDAD": [
+      {
+        "CEDULA": "14845151",
+        "APELLIDOS": "ALVAREZ CONTRERAS",
+        "NOMBRES": "JOHAN CARLOS"
+      },
+      {
+        "CEDULA": "15685891",
+        "APELLIDOS": "MONTILLA  MALDONADO ",
+        "NOMBRES": "YAILENY VISMARY "
+      },
+      {
+        "CEDULA": "17918937",
+        "APELLIDOS": "MATHEUS PRIMERA",
+        "NOMBRES": "FELIX  JOSE "
+      },
+      {
+        "CEDULA": "23464659",
+        "APELLIDOS": "PEREZ PEREZ",
+        "NOMBRES": "DARWIN MANUEL"
+      }
+    ],
+    "ENFERMERA": [
+      {
+        "CEDULA": "15456673",
+        "APELLIDOS": "BRACHO ROSALES",
+        "NOMBRES": "NINOSKA CAROLINA"
+      },
+      {
+        "CEDULA": "23489414",
+        "APELLIDOS": "CASTILLO PARRA",
+        "NOMBRES": "ROXANA ELIZABETH"
+      }
+    ],
+    "COORD DE ALMACEN DE PLANIFIC DE LOGISTICA Y MP": [
+      {
+        "CEDULA": "15640165",
+        "APELLIDOS": "BECERRA BECERRA",
+        "NOMBRES": "DEISY LOURDE"
+      }
+    ],
+    "COORD DE MANTENIMIENTO INDUSTRIAL": [
+      {
+        "CEDULA": "15927966",
+        "APELLIDOS": "ROA PEREZ",
+        "NOMBRES": "OMAR ANTONIO"
+      }
+    ],
+    "ANALISTA DE SERVICIOS AGROPECUARIOS": [
+      {
+        "CEDULA": "16258340",
+        "APELLIDOS": "PEREZ BRACHO",
+        "NOMBRES": "YADIRA DEL CARMEN"
+      }
+    ],
+    "COORDNADOR DE COMPRAS": [
+      {
+        "CEDULA": "16466082",
+        "APELLIDOS": "ORTIGOZA ROMERO",
+        "NOMBRES": "JOHANNA LISETH"
+      }
+    ],
+    "ANALISTA ADMINISTRATIVO": [
+      {
+        "CEDULA": "16624371",
+        "APELLIDOS": "GALUE  LUENGO",
+        "NOMBRES": "WALTHER  ELIEZER"
+      },
+      {
+        "CEDULA": "20531695",
+        "APELLIDOS": "OVIEDO BARRIOSNUEVO",
+        "NOMBRES": "ONESIMO RICARDO"
+      },
+      {
+        "CEDULA": "10749869",
+        "APELLIDOS": "ZAMBRANO CONTRERAS",
+        "NOMBRES": "BLANCA SORAIDA"
+      },
+      {
+        "CEDULA": "13137630",
+        "APELLIDOS": "MONTEVERDE CONTRERAS",
+        "NOMBRES": "MARIA EUGENIA"
+      },
+      {
+        "CEDULA": "16947670",
+        "APELLIDOS": "PEREZ HERRERA",
+        "NOMBRES": "YESSICA ANDREINA"
+      },
+      {
+        "CEDULA": "17812278",
+        "APELLIDOS": "JURADO LOAIZA",
+        "NOMBRES": "ELEIMAR PAOLA"
+      },
+      {
+        "CEDULA": "25730970",
+        "APELLIDOS": "GUTIERREZ  DIAZ",
+        "NOMBRES": "LOHANA DILINNYS"
+      },
+      {
+        "CEDULA": "25872312",
+        "APELLIDOS": "SAPUTO FEDERICO",
+        "NOMBRES": "ANTONELLA "
+      }
+    ],
+    "ANALISTA DE COMPRAS": [
+      {
+        "CEDULA": "17057171",
+        "APELLIDOS": "GUERRERO MARTINEZ",
+        "NOMBRES": "VANESSA YUNEIRY"
+      }
+    ],
+    "GERENTE OPERATIVO": [
+      {
+        "CEDULA": "17083801",
+        "APELLIDOS": "PORTILLO LOPEZ",
+        "NOMBRES": "FRANK HORACIO"
+      }
+    ],
+    "SUPERVISOR DE MICROBIOLOGIA": [
+      {
+        "CEDULA": "17528114",
+        "APELLIDOS": "DUQUE BELLO",
+        "NOMBRES": "DAYSI YANETH"
+      }
+    ],
+    "ANALISTA DE TALENTO HUMANO": [
+      {
+        "CEDULA": "17580102",
+        "APELLIDOS": "SANCHEZ REVEROL",
+        "NOMBRES": "MAURY DIANA"
+      },
+      {
+        "CEDULA": "23446401",
+        "APELLIDOS": "JAIMES VILLALOBOS",
+        "NOMBRES": "FRANGHELIE STEPHANIE"
+      },
+      {
+        "CEDULA": "27538702",
+        "APELLIDOS": "URDANETA CARO",
+        "NOMBRES": "MARIANGELES ALEJANDRA"
+      },
+      {
+        "CEDULA": "28252420",
+        "APELLIDOS": "BRACHO SANCHEZ",
+        "NOMBRES": "GENESIS CHIQUINQUIRA"
+      }
+    ],
+    "COORD DE ADMINISTRACION Y FINANZAS": [
+      {
+        "CEDULA": "18647101",
+        "APELLIDOS": "RINCON ANDRADE",
+        "NOMBRES": "KARLA PATRICIA"
+      },
+      {
+        "CEDULA": "20776898",
+        "APELLIDOS": "ZAMBRANO FLORES",
+        "NOMBRES": "CARLA ELISA"
+      }
+    ],
+    "JEFE DE MANTENIMIENTO": [
+      {
+        "CEDULA": "18661949",
+        "APELLIDOS": "MACIAS OCHOA",
+        "NOMBRES": "LUIYITH ALNORDO"
+      }
+    ],
+    "GERENTE DE ADMINISTRACION Y FINANZAS": [
+      {
+        "CEDULA": "18696399",
+        "APELLIDOS": "SANCHEZ DUARTE",
+        "NOMBRES": "DELIA MARIA"
+      }
+    ],
+    "ANALISTA DE CUENTAS POR PAGAR": [
+      {
+        "CEDULA": "20530397",
+        "APELLIDOS": "RIVAS PEREZ",
+        "NOMBRES": "YESSICA CAROLINA"
+      },
+      {
+        "CEDULA": "21490031",
+        "APELLIDOS": "PEREZ MENDEZ",
+        "NOMBRES": "JUAN JUNIOR"
+      },
+      {
+        "CEDULA": "26211399",
+        "APELLIDOS": "PEÑA CHAVARRI",
+        "NOMBRES": "MIREYNER MARTHA PAOLA"
+      }
+    ],
+    "SUPERVISOR DE LLENAJE": [
+      {
+        "CEDULA": "21036181",
+        "APELLIDOS": "DUARTE  GARCIA ",
+        "NOMBRES": "RAUL  ALEJANDRO "
+      }
+    ],
+    "ANALISTA DE BANCO": [
+      {
+        "CEDULA": "21597803",
+        "APELLIDOS": "CIFUENTES PEREZ",
+        "NOMBRES": "GIOVANNA ANDREINA"
+      }
+    ],
+    "SUPERVISOR DE ALMACEN DE REPUESTOS": [
+      {
+        "CEDULA": "23464938",
+        "APELLIDOS": "ANEZ THOMAS",
+        "NOMBRES": "YEIDER JOSE"
+      }
+    ],
+    "COORDINADOR DE TALENTO HUMANO": [
+      {
+        "CEDULA": "24752864",
+        "APELLIDOS": "SOTO MARTINEZ",
+        "NOMBRES": "EUVIMAR CAROLINA"
+      },
+      {
+        "CEDULA": "26998925",
+        "APELLIDOS": "LABRADOR IZARRA",
+        "NOMBRES": "AMANDA ISABEL"
+      }
+    ],
+    "JEFE DE AUTOGENERACION": [
+      {
+        "CEDULA": "26107246",
+        "APELLIDOS": "RODRIGUEZ  RAMOS",
+        "NOMBRES": "YSRRAEL  GREGORIO"
+      }
+    ],
+    "ANALISTA DE GESTION DE CALIDAD": [
+      {
+        "CEDULA": "26628122",
+        "APELLIDOS": "OQUENDO ARENAS",
+        "NOMBRES": "ADRIAN ENRIQUE"
+      }
+    ],
+    "RECEPCIONISTA": [
+      {
+        "CEDULA": "27183090",
+        "APELLIDOS": "GONZALEZ  NOGUERA ",
+        "NOMBRES": "MARIA INES"
+      },
+      {
+        "CEDULA": "16991081",
+        "APELLIDOS": "VELASQUEZ FAJARDO",
+        "NOMBRES": "GERALDINE REBECA"
+      }
+    ],
+    "COORDINADOR DE PCP": [
+      {
+        "CEDULA": "9349852",
+        "APELLIDOS": "MORA SANCHEZ",
+        "NOMBRES": "WILMER ALEXANDER"
+      }
+    ],
+    "OPERADOR DE RADIO COMUNICACIONES": [
+      {
+        "CEDULA": "11393918",
+        "APELLIDOS": "MEDRAN GARCIA",
+        "NOMBRES": "MILAGROS JOSEFINA"
+      },
+      {
+        "CEDULA": "13742270",
+        "APELLIDOS": "ESPINA RODRIGUEZ",
+        "NOMBRES": "JOHANNA KARIESA"
+      }
+    ],
+    "ANALISTA DE SOPORTE A USUARIO": [
+      {
+        "CEDULA": "11927458",
+        "APELLIDOS": "GUERRA ORTIZ",
+        "NOMBRES": "WILFREDO JOSE"
+      }
+    ],
+    "GERENTE DE ASEGURAMIENTO DE LA CALIDAD": [
+      {
+        "CEDULA": "12235094",
+        "APELLIDOS": "AMAYA SILVA",
+        "NOMBRES": "CONSUELO "
+      }
+    ],
+    "JEFE DE MERCADEO": [
+      {
+        "CEDULA": "12694396",
+        "APELLIDOS": "MONTIEL FUENMAYOR",
+        "NOMBRES": "LUIS GERARDO"
+      }
+    ],
+    "COORDINADOR DE RADIO COMUNICACIONES": [
+      {
+        "CEDULA": "12868239",
+        "APELLIDOS": "RODRIGUEZ CARRILLO",
+        "NOMBRES": "YORMAN ANDRES"
+      }
+    ],
+    "JEFE DE INTELIGENCIA DE VENTAS": [
+      {
+        "CEDULA": "12868534",
+        "APELLIDOS": "URDANETA AVILA",
+        "NOMBRES": "RONNY JOSE"
+      }
+    ],
+    "AUDITOR INTERNO SENIOR": [
+      {
+        "CEDULA": "13001083",
+        "APELLIDOS": "GUEDEZ ",
+        "NOMBRES": "IRVIN JOSE"
+      },
+      {
+        "CEDULA": "15938066",
+        "APELLIDOS": "JARABA PORTILLO",
+        "NOMBRES": "MARYORI CAROLINA"
+      },
+      {
+        "CEDULA": "20775103",
+        "APELLIDOS": "SANCHEZ ZAMBRANO",
+        "NOMBRES": "ZURIESKY  CHIQUINQUIRA"
+      },
+      {
+        "CEDULA": "23860121",
+        "APELLIDOS": "TERAN GUEVARA",
+        "NOMBRES": "KAREN DEL VALLE"
+      },
+      {
+        "CEDULA": "24257935",
+        "APELLIDOS": "DIAZ VILCHEZ",
+        "NOMBRES": "JOSE DAVID"
+      }
+    ],
+    "ANALISTA DE FACTURACION": [
+      {
+        "CEDULA": "13005115",
+        "APELLIDOS": "ARAUJO CASTELLANO",
+        "NOMBRES": "EDWARD JOSE"
+      }
+    ],
+    "CHEF": [
+      {
+        "CEDULA": "13243580",
+        "APELLIDOS": "RAMIREZ ",
+        "NOMBRES": "EDUARDO JOSE"
+      }
+    ],
+    "COORDINADOR DE SERVICIOS GENERALES Y LOGISTICA": [
+      {
+        "CEDULA": "13590933",
+        "APELLIDOS": "BERMUDEZ ",
+        "NOMBRES": "ELEACNE JUDITH"
+      }
+    ],
+    "CHOFER": [
+      {
+        "CEDULA": "13610006",
+        "APELLIDOS": "ROJAS ALVARADO",
+        "NOMBRES": "JORGE ELELIEZER"
+      },
+      {
+        "CEDULA": "14244645",
+        "APELLIDOS": "CAMPOS PEROZO",
+        "NOMBRES": "RENALDO SEGUNDO"
+      },
+      {
+        "CEDULA": "16458069",
+        "APELLIDOS": "BALLESTEROS PEÑA",
+        "NOMBRES": "CHARLES JOSE"
+      },
+      {
+        "CEDULA": "10689210",
+        "APELLIDOS": "FORTOUL MORALES",
+        "NOMBRES": "LEONARDO ENRIQUE"
+      },
+      {
+        "CEDULA": "11496324",
+        "APELLIDOS": "VIVAS BUITRAGO",
+        "NOMBRES": "VICTOR MANUEL"
+      },
+      {
+        "CEDULA": "11972247",
+        "APELLIDOS": "RODRIGUEZ RODRIGUEZ",
+        "NOMBRES": "FRANCISCO JAVIER"
+      },
+      {
+        "CEDULA": "13762606",
+        "APELLIDOS": "GANDICA  NOGUERA",
+        "NOMBRES": "ANGEL  ALEJANDRO "
+      },
+      {
+        "CEDULA": "14244211",
+        "APELLIDOS": "PRADOS  AMARIS ",
+        "NOMBRES": "NELSON  DARIO "
+      },
+      {
+        "CEDULA": "14361358",
+        "APELLIDOS": "PEINADO GUTIERREZ",
+        "NOMBRES": "JOSE ANDRES"
+      },
+      {
+        "CEDULA": "15134917",
+        "APELLIDOS": "VILLASMIL  VEGA",
+        "NOMBRES": "JOHAN  ALBERTO "
+      },
+      {
+        "CEDULA": "16687930",
+        "APELLIDOS": "RINCON  ",
+        "NOMBRES": "YORBIS  ENRIQUE "
+      },
+      {
+        "CEDULA": "22156565",
+        "APELLIDOS": "ROJAS BELLO",
+        "NOMBRES": "OGUIER "
+      },
+      {
+        "CEDULA": "5559483",
+        "APELLIDOS": "MONTILLA LOZANO",
+        "NOMBRES": "LUIS ALFONSO"
+      },
+      {
+        "CEDULA": "9354101",
+        "APELLIDOS": "GARCIA AYALA",
+        "NOMBRES": "RODOLFO ENRIQUE"
+      },
+      {
+        "CEDULA": "20366395",
+        "APELLIDOS": "PALMAR ORTEGA",
+        "NOMBRES": "YIMMY  JOSE "
+      }
+    ],
+    "MERCADERISTA": [
+      {
+        "CEDULA": "13864302",
+        "APELLIDOS": "LUGO ROJAS",
+        "NOMBRES": "JONATHAN RAFAEL"
+      },
+      {
+        "CEDULA": "14667662",
+        "APELLIDOS": "TOVAR TOVAR",
+        "NOMBRES": "NESTOR ANTONIO"
+      },
+      {
+        "CEDULA": "16397926",
+        "APELLIDOS": "RODRIGUEZ UGAS",
+        "NOMBRES": "NAIROBIS DE LOURDES"
+      },
+      {
+        "CEDULA": "20372596",
+        "APELLIDOS": "TAPIA ",
+        "NOMBRES": "CARLOS ENRIQUE"
+      },
+      {
+        "CEDULA": "20946149",
+        "APELLIDOS": "RODRIGUEZ LINARES",
+        "NOMBRES": "JUAN JOSE"
+      },
+      {
+        "CEDULA": "23456133",
+        "APELLIDOS": "RINCON RINCON",
+        "NOMBRES": "LUIS MARTIN"
+      },
+      {
+        "CEDULA": "24655016",
+        "APELLIDOS": "TIRADO MARIÑO",
+        "NOMBRES": "DARIO JESUS"
+      },
+      {
+        "CEDULA": "25110981",
+        "APELLIDOS": "FREITEZ RUMBOS",
+        "NOMBRES": "HECSA BETANIA"
+      }
+    ],
+    "JEFE DE SEGURIDAD Y SALUD LABORAL": [
+      {
+        "CEDULA": "13879395",
+        "APELLIDOS": "MARQUEZ MENDOZA",
+        "NOMBRES": "AURA JOHANNA"
+      }
+    ],
+    "JEFE NACIONAL DE CENTROS DE DISTRIBUCION": [
+      {
+        "CEDULA": "13912575",
+        "APELLIDOS": "FEREIRA PEÑALOZA",
+        "NOMBRES": "JUAN CARLOS"
+      }
+    ],
+    "JEFE DE PLANIFICACION DE DEMANDA": [
+      {
+        "CEDULA": "13930776",
+        "APELLIDOS": "CAMARGO GONZALEZ",
+        "NOMBRES": "ALFONSO JOSE"
+      }
+    ],
+    "AYUDANTE DE SERVICIOS GENERALES": [
+      {
+        "CEDULA": "13952078",
+        "APELLIDOS": "GONZALEZ CASTILLO",
+        "NOMBRES": "MARIA GRACIELA"
+      },
+      {
+        "CEDULA": "14013761",
+        "APELLIDOS": "VILLEGAS ",
+        "NOMBRES": "LUCILA "
+      },
+      {
+        "CEDULA": "14206796",
+        "APELLIDOS": "FRANCO QUEIPO",
+        "NOMBRES": "JOHENNY RAMONA"
+      },
+      {
+        "CEDULA": "14698303",
+        "APELLIDOS": "DELGADO ",
+        "NOMBRES": "ZARLY CHIQUINQUIRA"
+      },
+      {
+        "CEDULA": "16666502",
+        "APELLIDOS": "URREA MOLINARES",
+        "NOMBRES": "FRANKLIN ENRIQUE"
+      },
+      {
+        "CEDULA": "17071943",
+        "APELLIDOS": "GONZALEZ DELGADO",
+        "NOMBRES": "ALEXIS JOSE"
+      },
+      {
+        "CEDULA": "18746840",
+        "APELLIDOS": "GUILLEN GARCES",
+        "NOMBRES": "GAUDIMAR DAMELIS"
+      },
+      {
+        "CEDULA": "23747371",
+        "APELLIDOS": "MENDOZA HERNANDEZ",
+        "NOMBRES": "ISRAEL ANTONIO"
+      },
+      {
+        "CEDULA": "25182765",
+        "APELLIDOS": "ESCORCIA OLIVEROS",
+        "NOMBRES": "ANA MILENA"
+      },
+      {
+        "CEDULA": "9343459",
+        "APELLIDOS": "RAMIREZ DUQUE",
+        "NOMBRES": "FREDDY ALBERTO"
+      },
+      {
+        "CEDULA": "9753211",
+        "APELLIDOS": "SIMANCAS MANZANILLA",
+        "NOMBRES": "YOLEIDA DEL CARMEN"
+      },
+      {
+        "CEDULA": "22677144",
+        "APELLIDOS": "GUERRERO CONTRERAS",
+        "NOMBRES": "SIERVA NATHALY"
+      },
+      {
+        "CEDULA": "25298855",
+        "APELLIDOS": "CARMONA BEDOLLA",
+        "NOMBRES": "LUZ DARYS"
+      }
+    ],
+    "SUPERVISOR DE AUTOGENERACION": [
+      {
+        "CEDULA": "14280933",
+        "APELLIDOS": "OMAÑA VILLALOBOS",
+        "NOMBRES": "RAYNIER ERICK"
+      }
+    ],
+    "ANALISTA DE CAJA": [
+      {
+        "CEDULA": "14629324",
+        "APELLIDOS": "MARQUEZ DE PINTO",
+        "NOMBRES": "RAYMARY JOSYCH"
+      }
+    ],
+    "ALMACENISTA": [
+      {
+        "CEDULA": "15058947",
+        "APELLIDOS": "ROMERO SALAS",
+        "NOMBRES": "ALBENIZ ALEX"
+      },
+      {
+        "CEDULA": "17032898",
+        "APELLIDOS": "PEREZ PEÑALOZA",
+        "NOMBRES": "NESTOR RAFAEL"
+      }
+    ],
+    "ANALISTA DE TESORERIA": [
+      {
+        "CEDULA": "15198340",
+        "APELLIDOS": "MATAMOROS JAIMES",
+        "NOMBRES": "DAYERLYNG DEL CARMEN"
+      },
+      {
+        "CEDULA": "26105996",
+        "APELLIDOS": "MORA LOPEZ",
+        "NOMBRES": "ELIAS DANIEL"
+      }
+    ],
+    "ASISTENTE DE PRESIDENCIA": [
+      {
+        "CEDULA": "15888376",
+        "APELLIDOS": "ARAUJO PIRELA",
+        "NOMBRES": "CIRA ELENA"
+      }
+    ],
+    "JEFE DE CUENTAS POR PAGAR": [
+      {
+        "CEDULA": "15939071",
+        "APELLIDOS": "AÑEZ NOVOA",
+        "NOMBRES": "NORIMAR AURORA"
+      }
+    ],
+    "ANALISTA DE COSTOS": [
+      {
+        "CEDULA": "16017290",
+        "APELLIDOS": "GONZALEZ FLOREZ",
+        "NOMBRES": "ANALIZ DEL CARMEN"
+      }
+    ],
+    "JEFE DE PROCURA Y CONTROL INTERNO": [
+      {
+        "CEDULA": "16080293",
+        "APELLIDOS": "VILCHEZ MENDEZ",
+        "NOMBRES": "CARLOS EDUARDO"
+      }
+    ],
+    "SUPERVISOR DE RADIO COMUNICACIONES": [
+      {
+        "CEDULA": "16212206",
+        "APELLIDOS": "OVIEDO MENDOZA",
+        "NOMBRES": "NINOSKA YALIBETH"
+      }
+    ],
+    "ESPECIALISTA DE DOCUMENTACION Y PROCESOS": [
+      {
+        "CEDULA": "16295246",
+        "APELLIDOS": "DURAN DABOIN",
+        "NOMBRES": "MARIA LEONOR"
+      }
+    ],
+    "JEFE DE CONTABILIDAD": [
+      {
+        "CEDULA": "16456898",
+        "APELLIDOS": "FERNANDEZ BARBOZA",
+        "NOMBRES": "REINALDO JUNIOR"
+      }
+    ],
+    "OFICIAL DE PCP": [
+      {
+        "CEDULA": "16554690",
+        "APELLIDOS": "PINTO TOVAR",
+        "NOMBRES": "JOSE LUIS"
+      },
+      {
+        "CEDULA": "21283375",
+        "APELLIDOS": "RAMIREZ BORGES",
+        "NOMBRES": "LARRY ENRIQUE"
+      },
+      {
+        "CEDULA": "13688140",
+        "APELLIDOS": "ALTUVE DELGADO",
+        "NOMBRES": "MIGUEL ANGEL"
+      },
+      {
+        "CEDULA": "15434721",
+        "APELLIDOS": "QUINTERO CARDENAS",
+        "NOMBRES": "WUILSON ANTONIO"
+      },
+      {
+        "CEDULA": "25185419",
+        "APELLIDOS": "YERENA HERNANDEZ",
+        "NOMBRES": "YEFERSON ALEXANDER"
+      },
+      {
+        "CEDULA": "27642305",
+        "APELLIDOS": "MORALES CHACON",
+        "NOMBRES": "MAIKER YULIAN"
+      },
+      {
+        "CEDULA": "29810360",
+        "APELLIDOS": "CASTELLANO ALVAIREZ",
+        "NOMBRES": "ROGERT ALEJANDRO"
+      },
+      {
+        "CEDULA": "30214252",
+        "APELLIDOS": "PRATO TORRES",
+        "NOMBRES": "EURUVIEL ALEJANDRO"
+      },
+      {
+        "CEDULA": "9344300",
+        "APELLIDOS": "CARDENAS  LABRADOR",
+        "NOMBRES": "PEDRO  MARIA "
+      },
+      {
+        "CEDULA": "9354858",
+        "APELLIDOS": "YERENA JIMENES",
+        "NOMBRES": "LUIS GUILLERMO"
+      },
+      {
+        "CEDULA": "17581306",
+        "APELLIDOS": "QUINTERO MEJIA",
+        "NOMBRES": "JAIRO  ENRIQUE "
+      },
+      {
+        "CEDULA": "19066129",
+        "APELLIDOS": "AVILA BUSTAMANTE ",
+        "NOMBRES": "PEDRO LUIS"
+      },
+      {
+        "CEDULA": "30638904",
+        "APELLIDOS": "ALTUVE  BENITEZ ",
+        "NOMBRES": "BRAYAN  DANIEL"
+      }
+    ],
+    "ANALISTA DE CONTABILIDAD": [
+      {
+        "CEDULA": "17098892",
+        "APELLIDOS": "GONZALEZ SANABRIA",
+        "NOMBRES": "GRECIA VIRGINIA"
+      },
+      {
+        "CEDULA": "19485914",
+        "APELLIDOS": "SANCHEZ CHIRINOS",
+        "NOMBRES": "WINEIDI CAROLINA"
+      },
+      {
+        "CEDULA": "19907175",
+        "APELLIDOS": "VARGAS CONIL",
+        "NOMBRES": "PAOLA CAROLINA"
+      },
+      {
+        "CEDULA": "20658124",
+        "APELLIDOS": "VARGAS BOSCAN",
+        "NOMBRES": "JOHANA JOSEFINA"
+      }
+    ],
+    "SUPERVISOR DE CONTABILIDAD Y TRIBUTOS": [
+      {
+        "CEDULA": "17833920",
+        "APELLIDOS": "GONZALEZ BRACHO",
+        "NOMBRES": "JOSUANA CAROLINA"
+      }
+    ],
+    "JEFE CORPORATIVO DE COMPRAS NACIONALES": [
+      {
+        "CEDULA": "17835540",
+        "APELLIDOS": "RIVERO MORELO",
+        "NOMBRES": "YURY CHIQUINQUIRA"
+      }
+    ],
+    "ANALISTA DE TRIBUTOS": [
+      {
+        "CEDULA": "18309271",
+        "APELLIDOS": "FLORES QUINTERO",
+        "NOMBRES": "CRISOL JEANKATERIN"
+      },
+      {
+        "CEDULA": "27303714",
+        "APELLIDOS": "TERAN BOSCAN",
+        "NOMBRES": "ANDY JOSE"
+      }
+    ],
+    "ESPECIALISTA DE IMPORTACIONES": [
+      {
+        "CEDULA": "18426121",
+        "APELLIDOS": "BRICEÑO BERMUDEZ",
+        "NOMBRES": "PAOLA MARIANGEL"
+      }
+    ],
+    "JEFE DE FUNDACION SAN SIMON Y MEDICINA OCUPACIONAL": [
+      {
+        "CEDULA": "18624899",
+        "APELLIDOS": "PEREZ RODRIGUEZ",
+        "NOMBRES": "INES ESTELA"
+      },
+      {
+        "CEDULA": "21382187",
+        "APELLIDOS": "HERNANDEZ ORTEGANO",
+        "NOMBRES": "OSCAR DE JESUS"
+      }
+    ],
+    "JEFE CORPORATIVO DE TESORERIA Y FINANZAS": [
+      {
+        "CEDULA": "19408119",
+        "APELLIDOS": "MORENO VILLARREAL",
+        "NOMBRES": "ANGELICA BEATRIZ"
+      }
+    ],
+    "SUPERVISOR DE TESORERIA": [
+      {
+        "CEDULA": "19811128",
+        "APELLIDOS": "BRACHO DAVILA",
+        "NOMBRES": "CARLOS EDUARDO"
+      }
+    ],
+    "SUPERVISOR DE INTELIGENCIA DE VENTAS": [
+      {
+        "CEDULA": "19988876",
+        "APELLIDOS": "ARAPE ALVAREZ",
+        "NOMBRES": "YENIFER YERIBEE"
+      }
+    ],
+    "CALETERO": [
+      {
+        "CEDULA": "21357042",
+        "APELLIDOS": "SULBARAN SANGRONIZ",
+        "NOMBRES": "MAYKOR ENRIQUE"
+      },
+      {
+        "CEDULA": "12494459",
+        "APELLIDOS": "DUARTE  CASTILLO",
+        "NOMBRES": "RICHARD  RENNY "
+      },
+      {
+        "CEDULA": "28400427",
+        "APELLIDOS": "FERRER LOPEZ",
+        "NOMBRES": "ALEJANDRO "
+      }
+    ],
+    "ANALISTA DE INFRAESTRUCTURA TECNOLOGICA": [
+      {
+        "CEDULA": "22169927",
+        "APELLIDOS": "HUERTA LOPEZ",
+        "NOMBRES": "DAVID GERARDDO"
+      }
+    ],
+    "JEFE NACIONAL DE VENTAS": [
+      {
+        "CEDULA": "23449399",
+        "APELLIDOS": "LUNA DELGADO",
+        "NOMBRES": "STEPHANIE MARGARET"
+      }
+    ],
+    "ANALISTA DE DOCUMENTACION": [
+      {
+        "CEDULA": "24381740",
+        "APELLIDOS": "PAZ GONZALEZ",
+        "NOMBRES": "ALBERLIS RAQUEL"
+      }
+    ],
+    "JEFE CORPORATIVO DE AUDITORIA INTERNA": [
+      {
+        "CEDULA": "25194892",
+        "APELLIDOS": "GONZALEZ CHOURIO",
+        "NOMBRES": "GIULIANA GIULIER"
+      }
+    ],
+    "ANALISTA DE CUENTAS POR COBRAR": [
+      {
+        "CEDULA": "25225222",
+        "APELLIDOS": "VILLARREAL GUILLEN",
+        "NOMBRES": "ANABEL "
+      },
+      {
+        "CEDULA": "27552483",
+        "APELLIDOS": "MARTINEZ PINEDA",
+        "NOMBRES": "MARIA FERNANDA"
+      }
+    ],
+    "SUPERVISOR DE CUENTAS POR COBRAR": [
+      {
+        "CEDULA": "26091909",
+        "APELLIDOS": "DIAZ POZO",
+        "NOMBRES": "MARY CARMEN"
+      }
+    ],
+    "COORDINADOR CORPORATIVO DE CAJA": [
+      {
+        "CEDULA": "26239624",
+        "APELLIDOS": "FUENMAYOR VILLALOBOS",
+        "NOMBRES": "NERLIN MARIA"
+      }
+    ],
+    "ANALISTA DE SISTEMAS": [
+      {
+        "CEDULA": "28497438",
+        "APELLIDOS": "PEREZ AMESTY",
+        "NOMBRES": "CINDY MARIA"
+      },
+      {
+        "CEDULA": "29916788",
+        "APELLIDOS": "GONZALEZ SANTOS",
+        "NOMBRES": "DAVID JHOSUE"
+      }
+    ],
+    "ANALISTA DE VENTAS": [
+      {
+        "CEDULA": "29761851",
+        "APELLIDOS": "NUÑEZ GONZALEZ",
+        "NOMBRES": "AURA  CHIQUINQUIRA"
+      }
+    ],
+    "AYUDANTE DE ALMACEN": [
+      {
+        "CEDULA": "31304926",
+        "APELLIDOS": "MARTINEZ RIVERA",
+        "NOMBRES": "JHOENDRY ALFONSO"
+      },
+      {
+        "CEDULA": "18963116",
+        "APELLIDOS": "VALENZUELA FIGUEROA",
+        "NOMBRES": "EDGAR ANTONIO"
+      },
+      {
+        "CEDULA": "25705613",
+        "APELLIDOS": "VILLALOBOS LEON",
+        "NOMBRES": "MANUEL ALEJANDRO"
+      },
+      {
+        "CEDULA": "27185038",
+        "APELLIDOS": "MEDINA ACUÑA",
+        "NOMBRES": "FRANCISCO JAVIER"
+      }
+    ],
+    "SUPERVISOR DE SISTEMAS": [
+      {
+        "CEDULA": "6209401",
+        "APELLIDOS": "SARMIENTO ALBO",
+        "NOMBRES": "RAFAEL DAVID"
+      }
+    ],
+    "GERENTE DE RELACIONES INSTITUCIONALES": [
+      {
+        "CEDULA": "9114836",
+        "APELLIDOS": "BRACHO BARRERA",
+        "NOMBRES": "JAIME ANTONIO"
+      }
+    ],
+    "OPERADOR DE EQUIPO ESPECIALIZADO FABRICACION": [
+      {
+        "CEDULA": "10688802",
+        "APELLIDOS": "AMARIS PALENCIA",
+        "NOMBRES": "WILMER JOSE"
+      },
+      {
+        "CEDULA": "10851916",
+        "APELLIDOS": "ROMERO BENITEZ",
+        "NOMBRES": "YONNY ENRIQUE"
+      },
+      {
+        "CEDULA": "11973622",
+        "APELLIDOS": "MIRANDA MORENO",
+        "NOMBRES": "YLSON "
+      },
+      {
+        "CEDULA": "16166052",
+        "APELLIDOS": "SANCHEZ PIRELA",
+        "NOMBRES": "JOSE ANGEL"
+      },
+      {
+        "CEDULA": "16166997",
+        "APELLIDOS": "BOHORQUEZ ",
+        "NOMBRES": "JOHAN BAIN"
+      },
+      {
+        "CEDULA": "16694358",
+        "APELLIDOS": "ROJAS ",
+        "NOMBRES": "LUIS GERARDO"
+      },
+      {
+        "CEDULA": "17887048",
+        "APELLIDOS": "PULGAR URDANETA",
+        "NOMBRES": "ALCADIO MISAEL"
+      },
+      {
+        "CEDULA": "19865334",
+        "APELLIDOS": "PRATO RIVERA",
+        "NOMBRES": "YEFERSON RICARDO"
+      },
+      {
+        "CEDULA": "19934431",
+        "APELLIDOS": "ROJAS FLORES",
+        "NOMBRES": "JUNIOR "
+      },
+      {
+        "CEDULA": "7904882",
+        "APELLIDOS": "ALVARADO PINEDA",
+        "NOMBRES": "LUIS ALBERTO"
+      }
+    ],
+    "ELECTRICISTA ESPECIALIZADO": [
+      {
+        "CEDULA": "12135963",
+        "APELLIDOS": "BRAVO GONZALEZ",
+        "NOMBRES": "OMAR ENRIQUE"
+      },
+      {
+        "CEDULA": "13305512",
+        "APELLIDOS": "PICO VARGAS",
+        "NOMBRES": "FELIX ANTONIO"
+      },
+      {
+        "CEDULA": "17666432",
+        "APELLIDOS": "GUTIERREZ  ROMERO",
+        "NOMBRES": "HECTOR DANIEL"
+      },
+      {
+        "CEDULA": "9346873",
+        "APELLIDOS": "ESCALANTE CUEVAS",
+        "NOMBRES": "LUIS ALBERTO"
+      }
+    ],
+    "AYUDANTE DE LLENAJE": [
+      {
+        "CEDULA": "12492691",
+        "APELLIDOS": "PEREZ BULVAY",
+        "NOMBRES": "EDIXON ENRIQUE"
+      },
+      {
+        "CEDULA": "13719250",
+        "APELLIDOS": "FLORES COSILES",
+        "NOMBRES": "CRISTIAN  ALEXANDER"
+      },
+      {
+        "CEDULA": "15381869",
+        "APELLIDOS": "GONZALEZ FAJARDO",
+        "NOMBRES": "MANUEL  DE JESUS "
+      },
+      {
+        "CEDULA": "15456464",
+        "APELLIDOS": "SULVARAN  RODRIGUEZ",
+        "NOMBRES": "CARLOS  ALBERTO"
+      },
+      {
+        "CEDULA": "15686112",
+        "APELLIDOS": "PORTILLO PORTILLO",
+        "NOMBRES": "WILLY JOHANDRY"
+      },
+      {
+        "CEDULA": "16281130",
+        "APELLIDOS": "MIRANDA CONTRERAS",
+        "NOMBRES": "GEORGEN "
+      },
+      {
+        "CEDULA": "16281778",
+        "APELLIDOS": "GRACIEL URDANETA",
+        "NOMBRES": "YONNY RAMON"
+      },
+      {
+        "CEDULA": "17084907",
+        "APELLIDOS": "RODRIGUEZ  NAVARRO ",
+        "NOMBRES": "VICTOR  MANUEL "
+      },
+      {
+        "CEDULA": "18380380",
+        "APELLIDOS": "MONTILLA RINCON",
+        "NOMBRES": "JOSE  VINICIO"
+      },
+      {
+        "CEDULA": "18924268",
+        "APELLIDOS": "CASTILLO MEDINA",
+        "NOMBRES": "DERBIS ULISES"
+      },
+      {
+        "CEDULA": "19036144",
+        "APELLIDOS": "BENAVIDES  CAMACHO",
+        "NOMBRES": "ANGEL  DE JESUS "
+      },
+      {
+        "CEDULA": "19261766",
+        "APELLIDOS": "FUENTES OLIVEROS",
+        "NOMBRES": "LUIS EDUARDO"
+      },
+      {
+        "CEDULA": "19578349",
+        "APELLIDOS": "DELGADO GUALDRON",
+        "NOMBRES": "ANTONY ALEXANDER"
+      },
+      {
+        "CEDULA": "19691199",
+        "APELLIDOS": "MORALES  PINEDA",
+        "NOMBRES": "DEIVIS  RAMON "
+      },
+      {
+        "CEDULA": "20529312",
+        "APELLIDOS": "PALLARES ROBLES",
+        "NOMBRES": "JOHAN  ALFREDO "
+      },
+      {
+        "CEDULA": "23464654",
+        "APELLIDOS": "LICONA  PARADA",
+        "NOMBRES": "EDUARDO  JESUS "
+      },
+      {
+        "CEDULA": "23464713",
+        "APELLIDOS": "DORIA SAN JUAN ",
+        "NOMBRES": "WILLIAN JOSE"
+      },
+      {
+        "CEDULA": "23464737",
+        "APELLIDOS": "SAN MARTIN ",
+        "NOMBRES": "ALEXANDER "
+      },
+      {
+        "CEDULA": "23742662",
+        "APELLIDOS": "YANEZ MARTINEZ",
+        "NOMBRES": "ANDERSON JOSE"
+      },
+      {
+        "CEDULA": "25185212",
+        "APELLIDOS": "ROSALES  ROSALES",
+        "NOMBRES": "YORDYN JOSE"
+      },
+      {
+        "CEDULA": "25462435",
+        "APELLIDOS": "LOPEZ BERMUDEZ",
+        "NOMBRES": "LUIS JOSE"
+      },
+      {
+        "CEDULA": "25905915",
+        "APELLIDOS": "CAÑAS  MONTILLA",
+        "NOMBRES": "ANTHONY GREGORIO"
+      },
+      {
+        "CEDULA": "26258389",
+        "APELLIDOS": "CONTRERAS  ROJAS",
+        "NOMBRES": "JOSE  GREGORIO "
+      },
+      {
+        "CEDULA": "26773560",
+        "APELLIDOS": "ALVARADO MARQUEZ",
+        "NOMBRES": "EMIRO ANDRES"
+      },
+      {
+        "CEDULA": "27305255",
+        "APELLIDOS": "AMAYA GARCIA",
+        "NOMBRES": "SAMUEL ALEJANDRO"
+      },
+      {
+        "CEDULA": "27983791",
+        "APELLIDOS": "VASQUEZ ATENCIO",
+        "NOMBRES": "ANTHONY  JOSE "
+      },
+      {
+        "CEDULA": "28091114",
+        "APELLIDOS": "GELVIS  ANGARITA ",
+        "NOMBRES": "GERSON  UNAI"
+      },
+      {
+        "CEDULA": "28131394",
+        "APELLIDOS": "PORTILLO PACHON",
+        "NOMBRES": "ANTHONY JOSE"
+      },
+      {
+        "CEDULA": "28133046",
+        "APELLIDOS": "MONTES  RAMIREZ",
+        "NOMBRES": "LUIS  EDUARDO "
+      },
+      {
+        "CEDULA": "28635789",
+        "APELLIDOS": "ROJAS MEDELO",
+        "NOMBRES": "JESUS MANUEL"
+      },
+      {
+        "CEDULA": "28693613",
+        "APELLIDOS": "GRANADILLO CARDOZO",
+        "NOMBRES": "YEREMY SAMUEL"
+      },
+      {
+        "CEDULA": "28756938",
+        "APELLIDOS": "GUTIERREZ LEAL",
+        "NOMBRES": "WILMER ENRIQUE"
+      },
+      {
+        "CEDULA": "28756939",
+        "APELLIDOS": "GUTIERREZ LEAL",
+        "NOMBRES": "WILNER GERARDO"
+      },
+      {
+        "CEDULA": "29794297",
+        "APELLIDOS": "URDANETA PULGAR",
+        "NOMBRES": "DIEGO ENRIQUE"
+      },
+      {
+        "CEDULA": "29959832",
+        "APELLIDOS": "LARA CARMONA",
+        "NOMBRES": "JESUS MANUEL"
+      },
+      {
+        "CEDULA": "29959903",
+        "APELLIDOS": "URDANETA  GARRILLO",
+        "NOMBRES": "LUIS  ALEJANDRO "
+      },
+      {
+        "CEDULA": "30028268",
+        "APELLIDOS": "GELVIS ESTUPIÑAN ",
+        "NOMBRES": "YERSON  FABIAN"
+      },
+      {
+        "CEDULA": "30060077",
+        "APELLIDOS": "AYALA BRACHO",
+        "NOMBRES": "LUIS ANTONIO"
+      },
+      {
+        "CEDULA": "30243527",
+        "APELLIDOS": "CARDOZO PORTILLO",
+        "NOMBRES": "ALI JOSE"
+      },
+      {
+        "CEDULA": "30269436",
+        "APELLIDOS": "MONTILLA VERA",
+        "NOMBRES": "ROGER JOSE"
+      },
+      {
+        "CEDULA": "30269588",
+        "APELLIDOS": "MORAN ALVARADO",
+        "NOMBRES": "EDEN  JOSE"
+      },
+      {
+        "CEDULA": "30315628",
+        "APELLIDOS": "TORRES GARCIA",
+        "NOMBRES": "ENMANUEL ELI"
+      },
+      {
+        "CEDULA": "30625708",
+        "APELLIDOS": "SARDIÑA  TORRES",
+        "NOMBRES": "ROLANDO  JUNIOR"
+      },
+      {
+        "CEDULA": "30901690",
+        "APELLIDOS": "BAUTISTA BOLANO",
+        "NOMBRES": "LUIS DANIEL"
+      },
+      {
+        "CEDULA": "31045236",
+        "APELLIDOS": "GONZALEZ  ROJAS ",
+        "NOMBRES": "GREGORIO  JESUS "
+      },
+      {
+        "CEDULA": "31988136",
+        "APELLIDOS": "RODRIGUEZ MEZA",
+        "NOMBRES": "ANIBAL  JOSE "
+      },
+      {
+        "CEDULA": "19597768",
+        "APELLIDOS": "MORAN  ATENCIO ",
+        "NOMBRES": "EURO  JOSE "
+      },
+      {
+        "CEDULA": "31137092",
+        "APELLIDOS": "NAVAS GUTIERREZ",
+        "NOMBRES": "CARLOS  MANUEL"
+      }
+    ],
+    "MECANICO ESPECIALIZADO": [
+      {
+        "CEDULA": "12495475",
+        "APELLIDOS": "GARCIA GOMEZ",
+        "NOMBRES": "CARLOS EMILIO"
+      },
+      {
+        "CEDULA": "13939423",
+        "APELLIDOS": "SANTANA BRACHO",
+        "NOMBRES": "JOEL GREGORIO"
+      },
+      {
+        "CEDULA": "23464934",
+        "APELLIDOS": "GONZALEZ PORTILLO",
+        "NOMBRES": "NAIN GREGORIO"
+      },
+      {
+        "CEDULA": "24268766",
+        "APELLIDOS": "HERNANDEZ URDANETA",
+        "NOMBRES": "VICTOR JAVIER"
+      }
+    ],
+    "COCINERA": [
+      {
+        "CEDULA": "12846819",
+        "APELLIDOS": "GARRILLO ",
+        "NOMBRES": "MARIA AUXILIADORA"
+      },
+      {
+        "CEDULA": "13172741",
+        "APELLIDOS": "PULGAR URDANETA",
+        "NOMBRES": "THEARIS DEL CARMEN"
+      },
+      {
+        "CEDULA": "13563345",
+        "APELLIDOS": "RIVERA VALBUENA",
+        "NOMBRES": "BELKIS MARGARITA"
+      },
+      {
+        "CEDULA": "18721075",
+        "APELLIDOS": "CHAVEZ ",
+        "NOMBRES": "LEIDY "
+      },
+      {
+        "CEDULA": "21598592",
+        "APELLIDOS": "CARRENO ",
+        "NOMBRES": "MARIA ZORAIDA"
+      },
+      {
+        "CEDULA": "25295642",
+        "APELLIDOS": "PACHECO TORRES",
+        "NOMBRES": "MICHELLE ANDREINA"
+      },
+      {
+        "CEDULA": "25298638",
+        "APELLIDOS": "LARA COLEY",
+        "NOMBRES": "DARGY RAQUEL"
+      },
+      {
+        "CEDULA": "25628643",
+        "APELLIDOS": "LARA COLEY",
+        "NOMBRES": "CENILDA LUZ"
+      },
+      {
+        "CEDULA": "25875848",
+        "APELLIDOS": "PAYARES BEDOYA",
+        "NOMBRES": "KELLYS YOHANA"
+      }
+    ],
+    "OPERADOR DE SERVICIOS GENERALES": [
+      {
+        "CEDULA": "13010063",
+        "APELLIDOS": "BRAVO  LOPEZ",
+        "NOMBRES": "WILFREDO  RAFAEL "
+      },
+      {
+        "CEDULA": "15524156",
+        "APELLIDOS": "SUAREZ BADELL",
+        "NOMBRES": "JOSE JAVIER"
+      },
+      {
+        "CEDULA": "15658947",
+        "APELLIDOS": "RIVERA ZABALA",
+        "NOMBRES": "PEDRO ALFREDO"
+      },
+      {
+        "CEDULA": "26628882",
+        "APELLIDOS": "MONTIEL PARRA",
+        "NOMBRES": "EDWIN DE JESUS"
+      }
+    ],
+    "DESPACHADOR": [
+      {
+        "CEDULA": "13491029",
+        "APELLIDOS": "RODRIGUEZ RINCON",
+        "NOMBRES": "ROBINSON DE JESUS"
+      },
+      {
+        "CEDULA": "23742719",
+        "APELLIDOS": "RAMIREZ RODRIGUEZ",
+        "NOMBRES": "JUAN CARLOS "
+      }
+    ],
+    "AYUDANTE DE MANTENIMIENTO INDUSTRIAL": [
+      {
+        "CEDULA": "13761537",
+        "APELLIDOS": "GONZALEZ FERRER",
+        "NOMBRES": "LUIS  ENRIQUE "
+      },
+      {
+        "CEDULA": "21597992",
+        "APELLIDOS": "MERCADO RODRIGUEZ",
+        "NOMBRES": "LUIS ALFREDO"
+      },
+      {
+        "CEDULA": "23742661",
+        "APELLIDOS": "PARRA LOZANO",
+        "NOMBRES": "CARLOS ALBERTO"
+      },
+      {
+        "CEDULA": "24199726",
+        "APELLIDOS": "LOPEZ  DUENO",
+        "NOMBRES": "RAFAEL "
+      },
+      {
+        "CEDULA": "25300648",
+        "APELLIDOS": "SOLANO RIVERA",
+        "NOMBRES": "ANYELO DAMIAN"
+      },
+      {
+        "CEDULA": "25356729",
+        "APELLIDOS": "URDANETA URDANETA",
+        "NOMBRES": "JULIO CESAR"
+      },
+      {
+        "CEDULA": "25554663",
+        "APELLIDOS": "ESTRADA LARA",
+        "NOMBRES": "OSCAR DARIO"
+      },
+      {
+        "CEDULA": "28645722",
+        "APELLIDOS": "SANCHEZ SANCHEZ",
+        "NOMBRES": "ANDRES DAVID"
+      },
+      {
+        "CEDULA": "29783886",
+        "APELLIDOS": "GRANADILLO COLON",
+        "NOMBRES": "ARGENIS JOSE "
+      },
+      {
+        "CEDULA": "9355082",
+        "APELLIDOS": "GUTIERREZ ZAMBRANO",
+        "NOMBRES": "ULFRAN GREGORIO"
+      }
+    ],
+    "AYUD ALMACEN DE PLANIF DE LOGIST  Y MATERIA PRIMA": [
+      {
+        "CEDULA": "13939397",
+        "APELLIDOS": "OSPINO MONTILLA",
+        "NOMBRES": "RONEL ANTONIO"
+      },
+      {
+        "CEDULA": "18720533",
+        "APELLIDOS": "YEPEZ RINCON",
+        "NOMBRES": "ENDER LUCIANO"
+      },
+      {
+        "CEDULA": "18721173",
+        "APELLIDOS": "GRANADILLO  CARDOZO",
+        "NOMBRES": "YENDRY  ANTONIO"
+      },
+      {
+        "CEDULA": "22478430",
+        "APELLIDOS": "MENDEZ GUZMAN",
+        "NOMBRES": "OSWALDO JOSE"
+      },
+      {
+        "CEDULA": "25875851",
+        "APELLIDOS": "PULGAR LEON",
+        "NOMBRES": "ANDRES EDUARDO"
+      },
+      {
+        "CEDULA": "23464483",
+        "APELLIDOS": "NARVAEZ  MORALES",
+        "NOMBRES": "HEXON  RICARDO"
+      }
+    ],
+    "OPERADOR DE DESHIDRATADOS": [
+      {
+        "CEDULA": "14629281",
+        "APELLIDOS": "SALCEDO DELGADO",
+        "NOMBRES": "CARLOS LUIS"
+      },
+      {
+        "CEDULA": "16885162",
+        "APELLIDOS": "HERNANDEZ VILLASMIL",
+        "NOMBRES": "GUSTAVO DE JESUS"
+      },
+      {
+        "CEDULA": "17084680",
+        "APELLIDOS": "VILLEGAS BADELL",
+        "NOMBRES": "ISILIO JOSE"
+      },
+      {
+        "CEDULA": "18721560",
+        "APELLIDOS": "GONZALEZ ROJAS",
+        "NOMBRES": "REYLANDER JOSE"
+      },
+      {
+        "CEDULA": "18963756",
+        "APELLIDOS": "AHUMADA RAAD",
+        "NOMBRES": "JOSE GABRIEL"
+      },
+      {
+        "CEDULA": "21224934",
+        "APELLIDOS": "LEON DIAZ",
+        "NOMBRES": "LUIS ALEJANDRO"
+      },
+      {
+        "CEDULA": "26370892",
+        "APELLIDOS": "PEREZ ROJAS",
+        "NOMBRES": "WILKER RAFAEL"
+      },
+      {
+        "CEDULA": "9359446",
+        "APELLIDOS": "VALBUENA PULGAR",
+        "NOMBRES": "EDGARDO "
+      }
+    ],
+    "ANALISTA DE ASEGURAMIENTO DE LA CALIDAD": [
+      {
+        "CEDULA": "15027552",
+        "APELLIDOS": "MONTENEGRO VERGARA",
+        "NOMBRES": "JOHAN DANIEL"
+      },
+      {
+        "CEDULA": "15854218",
+        "APELLIDOS": "RAMIREZ BRACHO",
+        "NOMBRES": "ANA CLEOTILDE"
+      },
+      {
+        "CEDULA": "17581106",
+        "APELLIDOS": "ROA ARIZA",
+        "NOMBRES": "LEIDY DEL CARMEN"
+      },
+      {
+        "CEDULA": "20531208",
+        "APELLIDOS": "VEGA NAVARRO",
+        "NOMBRES": "STEFANNY ELAINE"
+      },
+      {
+        "CEDULA": "21225147",
+        "APELLIDOS": "SERRANO SOTO",
+        "NOMBRES": "SAID "
+      },
+      {
+        "CEDULA": "21225564",
+        "APELLIDOS": "VILLALOBOS JIMENES",
+        "NOMBRES": "ANTONY KEVIN"
+      },
+      {
+        "CEDULA": "21227350",
+        "APELLIDOS": "CAMARILLO COLINA",
+        "NOMBRES": "YARLENIS LISETH"
+      },
+      {
+        "CEDULA": "25185616",
+        "APELLIDOS": "GUTIERREZ GALUE",
+        "NOMBRES": "VICTOR LUIS"
+      },
+      {
+        "CEDULA": "25356710",
+        "APELLIDOS": "SOTO GONZALEZ",
+        "NOMBRES": "FRANCHESCA  DAYANA "
+      },
+      {
+        "CEDULA": "26718493",
+        "APELLIDOS": "VILLAZON CONTRERAS",
+        "NOMBRES": "DARYS DANIELA"
+      },
+      {
+        "CEDULA": "27620663",
+        "APELLIDOS": "MONTOYA VASQUEZ",
+        "NOMBRES": "JANNETH  CAROLINA"
+      },
+      {
+        "CEDULA": "28693889",
+        "APELLIDOS": "BARRIOS SEMPRUN",
+        "NOMBRES": "JESUS  RICARDO"
+      }
+    ],
+    "AUXILIAR DE DESHIDRATADOS": [
+      {
+        "CEDULA": "17185903",
+        "APELLIDOS": "NORIEGA GOMEZ",
+        "NOMBRES": "RUBEN JOSE"
+      },
+      {
+        "CEDULA": "17914049",
+        "APELLIDOS": "VERA ACERO",
+        "NOMBRES": "YORDANO SEGUNDO"
+      },
+      {
+        "CEDULA": "23464829",
+        "APELLIDOS": "GUTIERREZ ZOLA",
+        "NOMBRES": "MIGUEL ANGEL"
+      },
+      {
+        "CEDULA": "25185201",
+        "APELLIDOS": "CARVAJAL VARGAS",
+        "NOMBRES": "SAMUEL RAFAEL"
+      }
+    ],
+    "OPERADOR DE MONTACARGAS": [
+      {
+        "CEDULA": "21224904",
+        "APELLIDOS": "CONDE MUNOZ",
+        "NOMBRES": "FELIX GABRIEL"
+      },
+      {
+        "CEDULA": "23464835",
+        "APELLIDOS": "GONZALEZ  FERRER",
+        "NOMBRES": "LEIVER  JOSE "
+      },
+      {
+        "CEDULA": "27438420",
+        "APELLIDOS": "SIFONTE ARRIETA",
+        "NOMBRES": "JOEL GREGORIO"
+      }
+    ],
+    "RECEPCIONISTA DE LECHE FRESCA": [
+      {
+        "CEDULA": "23464461",
+        "APELLIDOS": "IBARRA AVILA",
+        "NOMBRES": "JESUS ENMANUEL"
+      },
+      {
+        "CEDULA": "24752467",
+        "APELLIDOS": "VALBUENA LARA",
+        "NOMBRES": "NELSON OMAR"
+      }
+    ],
+    "OPERADOR ESPECIALIZADO": [
+      {
+        "CEDULA": "26553951",
+        "APELLIDOS": "LEAL GARCIA",
+        "NOMBRES": "ORLANDO OBED"
+      },
+      {
+        "CEDULA": "29959541",
+        "APELLIDOS": "MARTIN RAMIREZ",
+        "NOMBRES": "YEFERSON GREGORIO"
+      }
+    ],
+    "VENDEDOR ZONA FALCON": [
+      {
+        "CEDULA": "10613013",
+        "APELLIDOS": "GOMEZ LOPEZ",
+        "NOMBRES": "ROBERTO JOSE"
+      }
+    ],
+    "COORDINADOR DE VENTAS REGION CAPITAL": [
+      {
+        "CEDULA": "11313582",
+        "APELLIDOS": "ARGUELLO RAMIREZ",
+        "NOMBRES": "MIGUEL ANGEL"
+      }
+    ],
+    "VENDEDOR JUNIOR": [
+      {
+        "CEDULA": "11924274",
+        "APELLIDOS": "PIÑANGO ARRAIZ",
+        "NOMBRES": "PORFIRIO ANTONIO"
+      },
+      {
+        "CEDULA": "12642802",
+        "APELLIDOS": "PITRE BUSTAMANTE",
+        "NOMBRES": "JHAKNNY JOSE"
+      },
+      {
+        "CEDULA": "14923185",
+        "APELLIDOS": "BARRIOS RAVELO",
+        "NOMBRES": "YELITZA COROMOTO"
+      },
+      {
+        "CEDULA": "15615242",
+        "APELLIDOS": "SERRANO MURILLO",
+        "NOMBRES": "JHONATHAN ALBERTO"
+      },
+      {
+        "CEDULA": "16303949",
+        "APELLIDOS": "ALBORNOZ PIÑERO",
+        "NOMBRES": "JONNER ANTONIO"
+      },
+      {
+        "CEDULA": "16917118",
+        "APELLIDOS": "CARABALLO MARCANO",
+        "NOMBRES": "SANDRA NAYRETH"
+      },
+      {
+        "CEDULA": "19060159",
+        "APELLIDOS": "JARAMILLO SANCHEZ",
+        "NOMBRES": "CARLA JOSELYN"
+      },
+      {
+        "CEDULA": "21442815",
+        "APELLIDOS": "CORTEZ LOPEZ",
+        "NOMBRES": "LAURA CRISTINA"
+      },
+      {
+        "CEDULA": "25356027",
+        "APELLIDOS": "VIVAS CARREÑO",
+        "NOMBRES": "JESUS GREGORIO"
+      },
+      {
+        "CEDULA": "4356319",
+        "APELLIDOS": "BARROSO BERMUDEZ",
+        "NOMBRES": "DOUGLAS ALBERTO"
+      }
+    ],
+    "COORDINADOR DE CUENTAS CLAVES": [
+      {
+        "CEDULA": "12072721",
+        "APELLIDOS": "COLMENARES MIRANDA",
+        "NOMBRES": "MARYURI ALICIA"
+      }
+    ],
+    "COORDINADOR DE VENTAS": [
+      {
+        "CEDULA": "14370670",
+        "APELLIDOS": "CORPAS GUERRERO",
+        "NOMBRES": "DAISY CAROLINA"
+      },
+      {
+        "CEDULA": "16125172",
+        "APELLIDOS": "GUERRA MENDEZ",
+        "NOMBRES": "STEWARD YUSET"
+      }
+    ],
+    "VENDEDOR ZONA ORIENTE": [
+      {
+        "CEDULA": "15050135",
+        "APELLIDOS": "BUSTAMANTE ONTIVEROS",
+        "NOMBRES": "WILMER ANDRES"
+      }
+    ],
+    "COORDINADOR DE VENTAS REGION ORIENTE": [
+      {
+        "CEDULA": "15292374",
+        "APELLIDOS": "PINO FIGUERA",
+        "NOMBRES": "JOSE DANIEL"
+      }
+    ],
+    "VENDEDOR REGION ANDINA": [
+      {
+        "CEDULA": "17646644",
+        "APELLIDOS": "SANCHEZ RAMIREZ",
+        "NOMBRES": "JOHANA ANDREINA"
+      }
+    ],
+    "COORDINADOR DE VENTAS REGION CENTRAL": [
+      {
+        "CEDULA": "18346501",
+        "APELLIDOS": "SANTELIZ BITRIAGO",
+        "NOMBRES": "GUILLERMO ALEJANDRO"
+      }
+    ],
+    "VENDEDOR ZONA C O L": [
+      {
+        "CEDULA": "7822192",
+        "APELLIDOS": "ANCIANIS ORTEGA",
+        "NOMBRES": "VICTOR JOSE"
+      }
+    ]
+  },
+  "INSASICA": {
+    "GERENTE DE OPERACIONES": [
+      {
+        "CEDULA": "10433724",
+        "APELLIDOS": "SOTO SILVA",
+        "NOMBRES": "TOMAS GERARDO"
+      }
+    ],
+    "GERENTE CORPORATIVO DE PLANIFICACION ESTRATEGICA": [
+      {
+        "CEDULA": "12100897",
+        "APELLIDOS": "MACHADO SOTO",
+        "NOMBRES": "JORGE ENRIQUE"
+      }
+    ],
+    "GERENTE CORPORATIVO DE COMPRAS": [
+      {
+        "CEDULA": "12805540",
+        "APELLIDOS": "RODRIGUEZ GONZALEZ",
+        "NOMBRES": "MORELLA CAROLINA"
+      }
+    ],
+    "CONTRALOR CORPORATIVO DE OPERACIONES INDUSTRIALES": [
+      {
+        "CEDULA": "13339111",
+        "APELLIDOS": "BOSCAN HERNANDEZ",
+        "NOMBRES": "ALI JOSE"
+      }
+    ],
+    "GERENTE DE CONTABILIDAD": [
+      {
+        "CEDULA": "15456816",
+        "APELLIDOS": "BOSCAN ESCOLA",
+        "NOMBRES": "GREGORY JOSE"
+      }
+    ],
+    "COORDINADOR DE PRESIDENCIA": [
+      {
+        "CEDULA": "16134092",
+        "APELLIDOS": "BELMONTE VARGAS",
+        "NOMBRES": "JHENIFER CAROLINA"
+      }
+    ],
+    "GERENTE CORPORATIVO DE TI": [
+      {
+        "CEDULA": "17231662",
+        "APELLIDOS": "FERNANDEZ PEREZ",
+        "NOMBRES": "JAVIER JOSE"
+      }
+    ],
+    "GERENTE CORPORATIVO DE ENERGIA ELECTRICA": [
+      {
+        "CEDULA": "18694362",
+        "APELLIDOS": "FERNANDEZ RODRIGUEZ",
+        "NOMBRES": "DIONNY ALBERTO"
+      }
+    ],
+    "GERENTE CORPORATIVO ADMON Y FINANZAS": [
+      {
+        "CEDULA": "18833424",
+        "APELLIDOS": "AHUMADA LEAL",
+        "NOMBRES": "ALVARO LUIS"
+      }
+    ],
+    "ESPECIALISTA DE PRESUPUESTO": [
+      {
+        "CEDULA": "5684178",
+        "APELLIDOS": "PARRA MOROS",
+        "NOMBRES": "GRACIELA MARIA"
+      }
+    ],
+    "GERENTE CORPORATIVO DE COMERCIALIZACION": [
+      {
+        "CEDULA": "7979208",
+        "APELLIDOS": "CARRASQUERO CARRASQUERO",
+        "NOMBRES": "ARNOLDO SEGUNDO"
+      }
+    ],
+    "GERENTE DE COSTOS": [
+      {
+        "CEDULA": "9747090",
+        "APELLIDOS": "HIDALGO JAIMES",
+        "NOMBRES": "GREGORIO ANTONIO"
+      }
+    ]
+  },
+  "INEPAL": {
+    "TECNICO DE RADIOCOMUNICACIONES": [
+      {
+        "CEDULA": "12868238",
+        "APELLIDOS": "RODRIGUEZ CARRILLO",
+        "NOMBRES": "JOSE BENITO"
+      }
+    ],
+    "AYUDANTE DE ALMACEN": [
+      {
+        "CEDULA": "13563326",
+        "APELLIDOS": "CALDERA  DIAZ",
+        "NOMBRES": "JEAN FERNANDO"
+      },
+      {
+        "CEDULA": "20531271",
+        "APELLIDOS": "RAMIREZ PULGAR",
+        "NOMBRES": "HERMAN DIEGO"
+      },
+      {
+        "CEDULA": "24960051",
+        "APELLIDOS": "RONDON GONZALEZ",
+        "NOMBRES": "FERNANDO ANDRES"
+      },
+      {
+        "CEDULA": "25916750",
+        "APELLIDOS": "CHAPARRO RIVERO",
+        "NOMBRES": "JALIMAR  VANESA"
+      }
+    ],
+    "PROGRAMADOR DE MANTENIMIENTO": [
+      {
+        "CEDULA": "18963221",
+        "APELLIDOS": "QUINTANILLO  VALBUENA",
+        "NOMBRES": "ISAEVA MILAGROS"
+      },
+      {
+        "CEDULA": "24751149",
+        "APELLIDOS": "MORAN ARISMENDI",
+        "NOMBRES": "REYNA NAIDELY"
+      }
+    ],
+    "AYUDANTE DE PRODUCCION": [
+      {
+        "CEDULA": "19934988",
+        "APELLIDOS": "ABREU VILLASMIL",
+        "NOMBRES": "ERWIN SEGUNDO"
+      },
+      {
+        "CEDULA": "20530518",
+        "APELLIDOS": "MORALES GONZALEZ",
+        "NOMBRES": "JESUS MANUEL "
+      },
+      {
+        "CEDULA": "21224563",
+        "APELLIDOS": "MOLINA BRAVO",
+        "NOMBRES": "ESTEFANO ANTONIO"
+      },
+      {
+        "CEDULA": "25681234",
+        "APELLIDOS": "URDANETA RUIZ",
+        "NOMBRES": "JOSE GREGORIO"
+      },
+      {
+        "CEDULA": "28211487",
+        "APELLIDOS": "BELEÑO NOGUERA",
+        "NOMBRES": "FERNANDO "
+      },
+      {
+        "CEDULA": "31092714",
+        "APELLIDOS": "BALLESTEROS OVALLES",
+        "NOMBRES": "EDIOMAR ROBERTO"
+      },
+      {
+        "CEDULA": "10684018",
+        "APELLIDOS": "DEL MAR ANDARA",
+        "NOMBRES": "FRANK REINALDO"
+      },
+      {
+        "CEDULA": "10684376",
+        "APELLIDOS": "CUMARE CEDEÑO",
+        "NOMBRES": "LUIS ALBERTO"
+      },
+      {
+        "CEDULA": "10688007",
+        "APELLIDOS": "COY CAMPOS",
+        "NOMBRES": "NELSON ENRIQUE"
+      },
+      {
+        "CEDULA": "13718526",
+        "APELLIDOS": "SAAVEDRA BRACHO",
+        "NOMBRES": "CIRO ALBERTO"
+      },
+      {
+        "CEDULA": "15434290",
+        "APELLIDOS": "VANEGA CASTELLANOS",
+        "NOMBRES": "WUILLIAM ROBERTO"
+      },
+      {
+        "CEDULA": "15434806",
+        "APELLIDOS": "CONTRERAS CASTRO",
+        "NOMBRES": "GERZON JOSE"
+      },
+      {
+        "CEDULA": "15435959",
+        "APELLIDOS": "SERRUDO VIZCALLA",
+        "NOMBRES": "ALEXIS  ENRIQUE"
+      },
+      {
+        "CEDULA": "15659576",
+        "APELLIDOS": "GUTIERREZ MOLERO",
+        "NOMBRES": "ELKIN JOSE"
+      },
+      {
+        "CEDULA": "16166589",
+        "APELLIDOS": "CAMEJO BADELL",
+        "NOMBRES": "ARGENIS SEGUNDO"
+      },
+      {
+        "CEDULA": "16167483",
+        "APELLIDOS": "GONZALEZ PAZ",
+        "NOMBRES": "DIXON ALBERTO"
+      },
+      {
+        "CEDULA": "16467948",
+        "APELLIDOS": "CASTILLO COY",
+        "NOMBRES": "JEAN CARLOS"
+      },
+      {
+        "CEDULA": "16782540",
+        "APELLIDOS": "PIRELA PORRAS",
+        "NOMBRES": "DARWIN DANIEL"
+      },
+      {
+        "CEDULA": "17185233",
+        "APELLIDOS": "CARLY AÑEZ",
+        "NOMBRES": "LUIS GUILLERMO"
+      },
+      {
+        "CEDULA": "17186281",
+        "APELLIDOS": "PEREIRA PEREIRA",
+        "NOMBRES": "EDWIN JOSE"
+      },
+      {
+        "CEDULA": "17187705",
+        "APELLIDOS": "GUERRERO CONTRERAS",
+        "NOMBRES": "BENITO GREGORIO"
+      },
+      {
+        "CEDULA": "17187985",
+        "APELLIDOS": "MOLERO DELGADO",
+        "NOMBRES": "EDGAR ALEXANDER"
+      },
+      {
+        "CEDULA": "17912082",
+        "APELLIDOS": "PEÑA VILLASMIL",
+        "NOMBRES": "RONNY WAYNE"
+      },
+      {
+        "CEDULA": "17914994",
+        "APELLIDOS": "MUÑOZ MORAN",
+        "NOMBRES": "ENLLER JOSE"
+      },
+      {
+        "CEDULA": "18373669",
+        "APELLIDOS": "AMESTY DURAN",
+        "NOMBRES": "RONALD GERARDO"
+      },
+      {
+        "CEDULA": "19440322",
+        "APELLIDOS": "GONZALEZ ARRIETA",
+        "NOMBRES": "CARLOS ERNESTO"
+      },
+      {
+        "CEDULA": "19440403",
+        "APELLIDOS": "ARTEAGA MORILLO",
+        "NOMBRES": "RAFAEL ATILIO"
+      },
+      {
+        "CEDULA": "19440857",
+        "APELLIDOS": "LOPEZ CANTILLO",
+        "NOMBRES": "JOEL ALBERTO"
+      },
+      {
+        "CEDULA": "19934235",
+        "APELLIDOS": "ROMERO CASANOVA",
+        "NOMBRES": "RICARDO JOSE"
+      },
+      {
+        "CEDULA": "20169481",
+        "APELLIDOS": "MORALES RODRIGUEZ",
+        "NOMBRES": "BREIDY HERBY"
+      },
+      {
+        "CEDULA": "20169511",
+        "APELLIDOS": "VILLASMIL DEL MAR",
+        "NOMBRES": "ARGENIS JESUS"
+      },
+      {
+        "CEDULA": "20529603",
+        "APELLIDOS": "BARRIOS DELGADO",
+        "NOMBRES": "JUAN DIEGO"
+      },
+      {
+        "CEDULA": "20533748",
+        "APELLIDOS": "VERGARA SEGOVIA",
+        "NOMBRES": "MARCO ANTONIO"
+      },
+      {
+        "CEDULA": "21227419",
+        "APELLIDOS": "CALIXTRO VARGAS",
+        "NOMBRES": "JACKSON JOSE"
+      },
+      {
+        "CEDULA": "21227480",
+        "APELLIDOS": "PUERTA SALAZAR",
+        "NOMBRES": "OSWALDO ENRIQUE"
+      },
+      {
+        "CEDULA": "21597323",
+        "APELLIDOS": "GONZALEZ MUÑOZ",
+        "NOMBRES": "RAY YUNIOR"
+      },
+      {
+        "CEDULA": "22122904",
+        "APELLIDOS": "PEREZ PEREZ",
+        "NOMBRES": "CARMEN AVELINO"
+      },
+      {
+        "CEDULA": "22232517",
+        "APELLIDOS": "TORO ROCHA",
+        "NOMBRES": "RIJS BERJEN"
+      },
+      {
+        "CEDULA": "23475577",
+        "APELLIDOS": "BOLAÑO GARCIA",
+        "NOMBRES": "EDER ALEXANDER"
+      },
+      {
+        "CEDULA": "24552944",
+        "APELLIDOS": "CALLES SALCEDO",
+        "NOMBRES": "JHUANNLER JEYFERSON"
+      },
+      {
+        "CEDULA": "24733742",
+        "APELLIDOS": "MADUEÑO SANCHEZ",
+        "NOMBRES": "REIDRY ALBERTO"
+      },
+      {
+        "CEDULA": "24751150",
+        "APELLIDOS": "BRICEÑO FERREBUS",
+        "NOMBRES": "ALEJANDRO DANIEL"
+      },
+      {
+        "CEDULA": "24959672",
+        "APELLIDOS": "CARDOZO VELASCO",
+        "NOMBRES": "TOMAS ALBERTO"
+      },
+      {
+        "CEDULA": "24960682",
+        "APELLIDOS": "ALVAREZ ROCHA",
+        "NOMBRES": "LEANDRO JOSE"
+      },
+      {
+        "CEDULA": "25356495",
+        "APELLIDOS": "SULBARAN URDANETA",
+        "NOMBRES": "FREDDY ALEJANDRO"
+      },
+      {
+        "CEDULA": "25462560",
+        "APELLIDOS": "VERDE LOPEZ",
+        "NOMBRES": "ANTHONY JUNIOR"
+      },
+      {
+        "CEDULA": "25554943",
+        "APELLIDOS": "CAMARILLO MOLERO",
+        "NOMBRES": "JORGE JOSE"
+      },
+      {
+        "CEDULA": "26347763",
+        "APELLIDOS": "MARQUEZ JAIMES",
+        "NOMBRES": "JUAN DAVID"
+      },
+      {
+        "CEDULA": "26347870",
+        "APELLIDOS": "GUILLEN URDANETA",
+        "NOMBRES": "SAMUEL ALBERTO"
+      },
+      {
+        "CEDULA": "26401704",
+        "APELLIDOS": "GUTIERREZ ANGARITA",
+        "NOMBRES": "WILSON ALEXANDER"
+      },
+      {
+        "CEDULA": "25628126",
+        "APELLIDOS": "COLINA COY",
+        "NOMBRES": "JACKSON JOSE"
+      },
+      {
+        "CEDULA": "26628127",
+        "APELLIDOS": "MARQUEZ LEAL",
+        "NOMBRES": "REINALDO ANTONIO"
+      },
+      {
+        "CEDULA": "26628741",
+        "APELLIDOS": "RINCON GONZALEZ",
+        "NOMBRES": "RONALDO JOSE"
+      },
+      {
+        "CEDULA": "26854576",
+        "APELLIDOS": "BOLIVAR NUÑEZ",
+        "NOMBRES": "RAUL JOSE"
+      },
+      {
+        "CEDULA": "26854953",
+        "APELLIDOS": "VARGAS BRACHO",
+        "NOMBRES": "LUIS ANGEL"
+      },
+      {
+        "CEDULA": "27019681",
+        "APELLIDOS": "PAZ CARVAJAL",
+        "NOMBRES": "CESAR AUGUSTO"
+      },
+      {
+        "CEDULA": "27620865",
+        "APELLIDOS": "ROMERO MARIN",
+        "NOMBRES": "TIXON ENRIQUE"
+      },
+      {
+        "CEDULA": "27970726",
+        "APELLIDOS": "AMAYA GONZALEZ",
+        "NOMBRES": "LUIS JAVIER"
+      },
+      {
+        "CEDULA": "28704177",
+        "APELLIDOS": "GALUE CAMPOS",
+        "NOMBRES": "JUVENCIO ISAAC"
+      },
+      {
+        "CEDULA": "28741966",
+        "APELLIDOS": "GARCIA PAZ",
+        "NOMBRES": "HENRY JUNIOR"
+      },
+      {
+        "CEDULA": "28746508",
+        "APELLIDOS": "URDANETA SEHUANES",
+        "NOMBRES": "DAVID ENRIQUE"
+      },
+      {
+        "CEDULA": "28746723",
+        "APELLIDOS": "BLANCO CAMPOS",
+        "NOMBRES": "YONKLE JOSE"
+      },
+      {
+        "CEDULA": "28756504",
+        "APELLIDOS": "ARRIETA FLEIDY",
+        "NOMBRES": "KLECSI JOSE"
+      },
+      {
+        "CEDULA": "29690993",
+        "APELLIDOS": "GONZALEZ URDANETA",
+        "NOMBRES": "RAYMUNDO ANTONIO"
+      },
+      {
+        "CEDULA": "30068914",
+        "APELLIDOS": "MONTIEL CAMPO",
+        "NOMBRES": "CARLOS ANTONIO"
+      },
+      {
+        "CEDULA": "30468883",
+        "APELLIDOS": "CONILES CALIXTO",
+        "NOMBRES": "MIGUEL ANGEL"
+      },
+      {
+        "CEDULA": "31500106",
+        "APELLIDOS": "MARQUEZ MARQUEZ",
+        "NOMBRES": "RAIKEL ARMANDO"
+      },
+      {
+        "CEDULA": "31571351",
+        "APELLIDOS": "PINEDA URBINA",
+        "NOMBRES": "DANILO "
+      },
+      {
+        "CEDULA": "31766817",
+        "APELLIDOS": "MONTIEL CAMPO",
+        "NOMBRES": "LEONEL DANIEL"
+      },
+      {
+        "CEDULA": "31766819",
+        "APELLIDOS": "FONSECA MONTIEL",
+        "NOMBRES": "JONNATAN EFRAIN"
+      },
+      {
+        "CEDULA": "32295366",
+        "APELLIDOS": "AÑEZ AÑEZ",
+        "NOMBRES": "WILFREDO TULIO"
+      },
+      {
+        "CEDULA": "84482045",
+        "APELLIDOS": "SANCHEZ PEÑA",
+        "NOMBRES": "PEDRO "
+      }
+    ],
+    "ANALISTA DE BASCULA": [
+      {
+        "CEDULA": "20169035",
+        "APELLIDOS": "CANQUIZ BRACHO",
+        "NOMBRES": "JANDERSON DE JESUS"
+      },
+      {
+        "CEDULA": "16468236",
+        "APELLIDOS": "MONSALVE MORENO",
+        "NOMBRES": "LUIS EMIRO"
+      },
+      {
+        "CEDULA": "19577296",
+        "APELLIDOS": "MOLINA ROLON",
+        "NOMBRES": "ERIKA TRINIDAD"
+      },
+      {
+        "CEDULA": "22138432",
+        "APELLIDOS": "HERRERA TORRES",
+        "NOMBRES": "EDIXON DANIEL"
+      },
+      {
+        "CEDULA": "26347902",
+        "APELLIDOS": "RUBIO URDANETA",
+        "NOMBRES": "ERWIN JESUS"
+      },
+      {
+        "CEDULA": "26718990",
+        "APELLIDOS": "FUENMAYOR AROCHA",
+        "NOMBRES": "FELIX JOSE"
+      }
+    ],
+    "CAPTADOR DE FRUTA": [
+      {
+        "CEDULA": "20529484",
+        "APELLIDOS": "COLMENARES FIGUEROA",
+        "NOMBRES": "YOHANDY JOSE"
+      },
+      {
+        "CEDULA": "17186623",
+        "APELLIDOS": "CASTILLO PARRA",
+        "NOMBRES": "DANIEL EDUARDO"
+      }
+    ],
+    "OFICIAL DE PCP": [
+      {
+        "CEDULA": "24951421",
+        "APELLIDOS": "ARAUJO TORREALBA",
+        "NOMBRES": "RAFAEL ANGEL"
+      },
+      {
+        "CEDULA": "10687415",
+        "APELLIDOS": "GALINDO ALCANTARA",
+        "NOMBRES": "DONARDO JOSE"
+      },
+      {
+        "CEDULA": "14244912",
+        "APELLIDOS": "IZARRA PERNIA",
+        "NOMBRES": "LUIS ANGEL"
+      },
+      {
+        "CEDULA": "16107580",
+        "APELLIDOS": "CASTILLO BOHORQUEZ",
+        "NOMBRES": "HERNAN SEGUNDO"
+      },
+      {
+        "CEDULA": "16886280",
+        "APELLIDOS": "GONZALEZ ITURRIAGO",
+        "NOMBRES": "DOUGLAS "
+      },
+      {
+        "CEDULA": "20529856",
+        "APELLIDOS": "CONCHO ATENCIO",
+        "NOMBRES": "ASAEL SEGUNDO"
+      },
+      {
+        "CEDULA": "23560307",
+        "APELLIDOS": "BRACHO HERNANDEZ",
+        "NOMBRES": "JESUS DARIO"
+      },
+      {
+        "CEDULA": "25300104",
+        "APELLIDOS": "MOLINA TOBOS",
+        "NOMBRES": "JOSE JOAQUIN"
+      },
+      {
+        "CEDULA": "27183376",
+        "APELLIDOS": "ROA CESPEDES",
+        "NOMBRES": "CRHISTIAN MICHAEL"
+      },
+      {
+        "CEDULA": "28582653",
+        "APELLIDOS": "GONZALEZ MEDINA",
+        "NOMBRES": "ANDERSON FRANCISCO"
+      },
+      {
+        "CEDULA": "84429414",
+        "APELLIDOS": "MOLINA TOBOS",
+        "NOMBRES": "JOSE ANGEL"
+      }
+    ],
+    "ANALISTA ADMINISTRATIVO": [
+      {
+        "CEDULA": "26401528",
+        "APELLIDOS": "URDANETA BARBOZA",
+        "NOMBRES": "ALICIA PAOLA"
+      },
+      {
+        "CEDULA": "28741734",
+        "APELLIDOS": "SOTO BRACHO",
+        "NOMBRES": "DAVID ALEJANDRO"
+      }
+    ],
+    "ASISTENTE DE SOSTENIBILIDAD": [
+      {
+        "CEDULA": "28624356",
+        "APELLIDOS": "PEDROZO SANCHEZ",
+        "NOMBRES": "YALEXY "
+      },
+      {
+        "CEDULA": "28741697",
+        "APELLIDOS": "ULLOQUE GONZALEZ",
+        "NOMBRES": "ALBERT CALEB"
+      }
+    ],
+    "AYUDANTE DE MANTENIMIENTO INDUSTRIAL": [
+      {
+        "CEDULA": "29730495",
+        "APELLIDOS": "GALLARDO MARIN",
+        "NOMBRES": "KRISTIAN KENEL"
+      },
+      {
+        "CEDULA": "13420197",
+        "APELLIDOS": "GALLARDO MELEAN",
+        "NOMBRES": "JOSE PANFILO"
+      },
+      {
+        "CEDULA": "17580851",
+        "APELLIDOS": "MEDINA PIÑA",
+        "NOMBRES": "MARCOS TULIO"
+      },
+      {
+        "CEDULA": "27538487",
+        "APELLIDOS": "GAMARRA FLOREZ",
+        "NOMBRES": "RIVALDO "
+      },
+      {
+        "CEDULA": "28346291",
+        "APELLIDOS": "COGOLLO ORTIZ",
+        "NOMBRES": "JOSE VICENTE"
+      },
+      {
+        "CEDULA": "28682475",
+        "APELLIDOS": "BOSCAN  FLORES ",
+        "NOMBRES": "JOSE  ALBERTO"
+      },
+      {
+        "CEDULA": "30084476",
+        "APELLIDOS": "CHAPARRO ROCHA",
+        "NOMBRES": "ANGEL JOSE"
+      }
+    ],
+    "APRENDIZ INCES": [
+      {
+        "CEDULA": "31547652",
+        "APELLIDOS": "CHAPARRO ROCHA",
+        "NOMBRES": "AGNELIS BETZALI"
+      },
+      {
+        "CEDULA": "31982018",
+        "APELLIDOS": "ROJAS GONZALEZ",
+        "NOMBRES": "JANIVER  CAROLINA"
+      }
+    ],
+    "ASESOR TECNICO": [
+      {
+        "CEDULA": "6217467",
+        "APELLIDOS": "PEÑA ",
+        "NOMBRES": "ZORAIDA DEL CARMEN"
+      }
+    ],
+    "OPERADOR ESPECIALIZADO": [
+      {
+        "CEDULA": "10682324",
+        "APELLIDOS": "RINCON PORTILLO",
+        "NOMBRES": "JOSE NOLBERTO"
+      },
+      {
+        "CEDULA": "12492867",
+        "APELLIDOS": "GONZALEZ ",
+        "NOMBRES": "YOEL JOSE"
+      },
+      {
+        "CEDULA": "13011088",
+        "APELLIDOS": "PORTILLO FLORES",
+        "NOMBRES": "RUBER ALEXANDER"
+      },
+      {
+        "CEDULA": "13718451",
+        "APELLIDOS": "NORIEGA OLIVEROS",
+        "NOMBRES": "WILLIAMS ENRIQUE"
+      },
+      {
+        "CEDULA": "14473878",
+        "APELLIDOS": "ROMERO CEDEÑO",
+        "NOMBRES": "JOHNNELITO RAMON"
+      },
+      {
+        "CEDULA": "15135711",
+        "APELLIDOS": "MEDINA CARLY",
+        "NOMBRES": "YORVIS JOSE"
+      },
+      {
+        "CEDULA": "15434865",
+        "APELLIDOS": "PAZ HERNADEZ",
+        "NOMBRES": "JOHAN RAMON"
+      },
+      {
+        "CEDULA": "16166492",
+        "APELLIDOS": "RIOS JAIME",
+        "NOMBRES": "HECTOR JOSE"
+      },
+      {
+        "CEDULA": "17186549",
+        "APELLIDOS": "MONTIEL ARANDA",
+        "NOMBRES": "JULIO LUIS"
+      },
+      {
+        "CEDULA": "17405452",
+        "APELLIDOS": "AZOCAR ",
+        "NOMBRES": "CRUZ MIGUEL"
+      },
+      {
+        "CEDULA": "17913375",
+        "APELLIDOS": "GUILLEN MORENO",
+        "NOMBRES": "EDUARDO LUIS"
+      },
+      {
+        "CEDULA": "18372762",
+        "APELLIDOS": "CALISTRO RAMOS",
+        "NOMBRES": "JOHNFREIDIS ENRIQUE"
+      },
+      {
+        "CEDULA": "19261263",
+        "APELLIDOS": "GONZALEZ TURIZO",
+        "NOMBRES": "LUIS CARLOS"
+      },
+      {
+        "CEDULA": "19440595",
+        "APELLIDOS": "ARIAS RIVERA",
+        "NOMBRES": "MARCOS DANIEL"
+      },
+      {
+        "CEDULA": "19935948",
+        "APELLIDOS": "VIDES SANTANA",
+        "NOMBRES": "GABINO JOSE"
+      },
+      {
+        "CEDULA": "20167410",
+        "APELLIDOS": "BRAVO ROMERO",
+        "NOMBRES": "RAMON SEGUNDO"
+      },
+      {
+        "CEDULA": "24751586",
+        "APELLIDOS": "PORTILLO ARIAS",
+        "NOMBRES": "HENIO DE JESUS"
+      },
+      {
+        "CEDULA": "24752212",
+        "APELLIDOS": "BARRIOS DEL MAR",
+        "NOMBRES": "RUBEN JOSE"
+      },
+      {
+        "CEDULA": "24931963",
+        "APELLIDOS": "DIAZ ALCENDRA",
+        "NOMBRES": "HERMENEGILDO "
+      },
+      {
+        "CEDULA": "25462614",
+        "APELLIDOS": "FEREIRA OCANDO",
+        "NOMBRES": "NERWIN JOSE"
+      },
+      {
+        "CEDULA": "25916718",
+        "APELLIDOS": "GONZALEZ SULBARAN",
+        "NOMBRES": "KENDER DAVID"
+      },
+      {
+        "CEDULA": "26347240",
+        "APELLIDOS": "URDANETA SANABRIA",
+        "NOMBRES": "MOISES JHONAS"
+      },
+      {
+        "CEDULA": "26854966",
+        "APELLIDOS": "CASALET GARCIA",
+        "NOMBRES": "JEXON AGUSTIN"
+      },
+      {
+        "CEDULA": "28746928",
+        "APELLIDOS": "GONZALEZ CUBILLAN",
+        "NOMBRES": "JONATHAN JOSE"
+      },
+      {
+        "CEDULA": "7777592",
+        "APELLIDOS": "PORTILLO ",
+        "NOMBRES": "DIMAS DE JESUS"
+      }
+    ],
+    "AYUDANTE DE SERVICIOS GENERALES": [
+      {
+        "CEDULA": "10684475",
+        "APELLIDOS": "ANGARITA SEGOVIA",
+        "NOMBRES": "GUSTAVO RODOLFO"
+      },
+      {
+        "CEDULA": "12494781",
+        "APELLIDOS": "CASTRO AMESTY",
+        "NOMBRES": "LORENZO SEGUNDO"
+      },
+      {
+        "CEDULA": "13718972",
+        "APELLIDOS": "RIVERA MONTILVA",
+        "NOMBRES": "ORLANDO "
+      },
+      {
+        "CEDULA": "14808506",
+        "APELLIDOS": "CACERES ESCALANTE",
+        "NOMBRES": "SOBEIDA "
+      },
+      {
+        "CEDULA": "17579307",
+        "APELLIDOS": "BALZAN BRAVO",
+        "NOMBRES": "YESENIA ANDREINA"
+      },
+      {
+        "CEDULA": "17580344",
+        "APELLIDOS": "PORTILLO PORTILLO",
+        "NOMBRES": "ERWIS RAMON"
+      },
+      {
+        "CEDULA": "19404631",
+        "APELLIDOS": "CARRERO MOLERO",
+        "NOMBRES": "JEAN CARLOS"
+      },
+      {
+        "CEDULA": "21598511",
+        "APELLIDOS": "PULGAR CASTILLO",
+        "NOMBRES": "FRAILY AARON"
+      }
+    ],
+    "COORDNADOR DE COMPRAS": [
+      {
+        "CEDULA": "10684806",
+        "APELLIDOS": "PEREZ DIAZ",
+        "NOMBRES": "ILIANA MARIA"
+      }
+    ],
+    "OPERADOR DE MAQUINARIA PESADA": [
+      {
+        "CEDULA": "10686516",
+        "APELLIDOS": "MONTIEL GONZALEZ",
+        "NOMBRES": "PEDRO JOSE"
+      },
+      {
+        "CEDULA": "11302738",
+        "APELLIDOS": "JIMENEZ CARRERO",
+        "NOMBRES": "RAMON DARIO"
+      },
+      {
+        "CEDULA": "15381382",
+        "APELLIDOS": "PALENCIA ",
+        "NOMBRES": "LUIS ALBERTO"
+      },
+      {
+        "CEDULA": "15855972",
+        "APELLIDOS": "BOLAÑO GARCIA",
+        "NOMBRES": "EDGAR ALEXIS"
+      },
+      {
+        "CEDULA": "16167401",
+        "APELLIDOS": "SANCHEZ URDANETA",
+        "NOMBRES": "DIOMAR ENRIQUE"
+      },
+      {
+        "CEDULA": "17580898",
+        "APELLIDOS": "DEL MAR DEL MAR",
+        "NOMBRES": "MELVIS SEGUNDO"
+      },
+      {
+        "CEDULA": "21225430",
+        "APELLIDOS": "BASABE PORTILLO",
+        "NOMBRES": "ENDERSON GUSTAVO"
+      },
+      {
+        "CEDULA": "23220470",
+        "APELLIDOS": "MARTINEZ ARIAS",
+        "NOMBRES": "ELIAS MANUEL"
+      },
+      {
+        "CEDULA": "25462708",
+        "APELLIDOS": "VILCHEZ MEJIA",
+        "NOMBRES": "DOUGLAS ANTONIO"
+      },
+      {
+        "CEDULA": "28326052",
+        "APELLIDOS": "GARCIA LEAL",
+        "NOMBRES": "ERNESTO JOSUE"
+      }
+    ],
+    "CHOFER": [
+      {
+        "CEDULA": "10687677",
+        "APELLIDOS": "URDANETA MONTERO",
+        "NOMBRES": "LUIS  ALBERTO"
+      },
+      {
+        "CEDULA": "14361243",
+        "APELLIDOS": "ITURRIAGO RINCON",
+        "NOMBRES": "JOVANNY ERNESTO"
+      },
+      {
+        "CEDULA": "14844476",
+        "APELLIDOS": "RIOS CABALLERO",
+        "NOMBRES": "ALEXANDER ENRIQUE"
+      },
+      {
+        "CEDULA": "17912616",
+        "APELLIDOS": "BERMUDEZ PEREZ",
+        "NOMBRES": "ONIL JOEL"
+      }
+    ],
+    "MECANICO INDUSTRIAL": [
+      {
+        "CEDULA": "11973618",
+        "APELLIDOS": "CARDOZO URDANETA",
+        "NOMBRES": "ANGEL EMIRO"
+      },
+      {
+        "CEDULA": "16467456",
+        "APELLIDOS": "VERGARA SEGOVIA",
+        "NOMBRES": "MARVIS ALBERTO"
+      },
+      {
+        "CEDULA": "19261536",
+        "APELLIDOS": "MOLERO PEREZ",
+        "NOMBRES": "JOHENDRIS ALFREDO"
+      },
+      {
+        "CEDULA": "21224009",
+        "APELLIDOS": "VILLASMIL GUTIERREZ",
+        "NOMBRES": "JESUS BENITO"
+      },
+      {
+        "CEDULA": "25310406",
+        "APELLIDOS": "PAVA VIDES",
+        "NOMBRES": "JEAN CARLOS"
+      }
+    ],
+    "SUPERVISOR DE PRODUCCION": [
+      {
+        "CEDULA": "12136648",
+        "APELLIDOS": "LOAIZA CONCHO",
+        "NOMBRES": "WILMER DE JESUS"
+      },
+      {
+        "CEDULA": "12492213",
+        "APELLIDOS": "MUÑOZ OLANO",
+        "NOMBRES": "MARCOS ANTONIO"
+      },
+      {
+        "CEDULA": "12493126",
+        "APELLIDOS": "ORTEGA PEÑA",
+        "NOMBRES": "ELIO LUIS"
+      },
+      {
+        "CEDULA": "15855746",
+        "APELLIDOS": "BALLESTEROS QUINTERO",
+        "NOMBRES": "EUDOMAR GREGORIO"
+      },
+      {
+        "CEDULA": "19261038",
+        "APELLIDOS": "PALENCIA TORRECILLA",
+        "NOMBRES": "ALEXANDER JOSE"
+      },
+      {
+        "CEDULA": "7895004",
+        "APELLIDOS": "MONTIEL BRACHO",
+        "NOMBRES": "JULIO LUIS"
+      }
+    ],
+    "AYUDANTE ASEGURAMIENTO DE LA CALIDAD": [
+      {
+        "CEDULA": "12417427",
+        "APELLIDOS": "BRACHO CARRASQUERO",
+        "NOMBRES": "VICTOR LUIS"
+      },
+      {
+        "CEDULA": "19440084",
+        "APELLIDOS": "GARCIA PORTILLO",
+        "NOMBRES": "ADRIAN JAVIER"
+      }
+    ],
+    "ANALISTA DE ASEGURAMIENTO DE LA CALIDAD": [
+      {
+        "CEDULA": "12492654",
+        "APELLIDOS": "GARCIA MONTIEL",
+        "NOMBRES": "GENRY ENRIQUE"
+      },
+      {
+        "CEDULA": "12493295",
+        "APELLIDOS": "RANGEL GONZALEZ",
+        "NOMBRES": "ANGEL MARIA"
+      },
+      {
+        "CEDULA": "14444062",
+        "APELLIDOS": "APONTE DIAZ",
+        "NOMBRES": "JOHORMAN ENRIQUE"
+      },
+      {
+        "CEDULA": "16165772",
+        "APELLIDOS": "SANCHEZ LUJANO",
+        "NOMBRES": "CESAR AUGUSTO"
+      },
+      {
+        "CEDULA": "17579014",
+        "APELLIDOS": "DIAZ MUÑOZ",
+        "NOMBRES": "JOSE ALFREDO"
+      },
+      {
+        "CEDULA": "18963306",
+        "APELLIDOS": "MONTALVO MEJIA",
+        "NOMBRES": "DALWIS MANUEL"
+      },
+      {
+        "CEDULA": "20529620",
+        "APELLIDOS": "OSPINO CHACON",
+        "NOMBRES": "CESAR ENRIQUE"
+      },
+      {
+        "CEDULA": "27911882",
+        "APELLIDOS": "CORTEZ PATERNINA",
+        "NOMBRES": "JOSE WUADID"
+      },
+      {
+        "CEDULA": "28124040",
+        "APELLIDOS": "PINEDA CASTRO",
+        "NOMBRES": "CHRISTIAN DANIEL"
+      },
+      {
+        "CEDULA": "28148116",
+        "APELLIDOS": "CORDOVEZ MAESTRE",
+        "NOMBRES": "ADRIAN ALFONSO"
+      },
+      {
+        "CEDULA": "7901833",
+        "APELLIDOS": "PEROZO URDANETA",
+        "NOMBRES": "JAVIER ANTONIO"
+      }
+    ],
+    "GERENTE LEGAL": [
+      {
+        "CEDULA": "12817787",
+        "APELLIDOS": "USECHE CASTRO",
+        "NOMBRES": "YAZMIN CAROLINA"
+      }
+    ],
+    "COORDINADOR DE PERMISOLOGIA": [
+      {
+        "CEDULA": "12870866",
+        "APELLIDOS": "SOLER VARGAS",
+        "NOMBRES": "ANDREINA CHIQUINQUIRA"
+      },
+      {
+        "CEDULA": "18626134",
+        "APELLIDOS": "BOSCAN BOSCAN",
+        "NOMBRES": "YESSIKA RAFAELA"
+      }
+    ],
+    "COORDINADOR DE SISTEMAS": [
+      {
+        "CEDULA": "13208628",
+        "APELLIDOS": "PIÑA INCIARTE",
+        "NOMBRES": "ATCIDE NOMAR"
+      }
+    ],
+    "GERENTE DE LOGISTICA": [
+      {
+        "CEDULA": "13718378",
+        "APELLIDOS": "ALVAREZ DIAZ",
+        "NOMBRES": "JOHAN IFRAIN"
+      }
+    ],
+    "ELECTRICISTA": [
+      {
+        "CEDULA": "13719029",
+        "APELLIDOS": "GALUE PORTILLO",
+        "NOMBRES": "AUDILBERTO GREGORIO"
+      },
+      {
+        "CEDULA": "19935947",
+        "APELLIDOS": "PAVA VIDES",
+        "NOMBRES": "JOSE GREGORIO"
+      }
+    ],
+    "SOLDADOR": [
+      {
+        "CEDULA": "13719159",
+        "APELLIDOS": "CASANOVA ",
+        "NOMBRES": "JUAN CARLOS"
+      },
+      {
+        "CEDULA": "17579232",
+        "APELLIDOS": "TENORIO SOLANO",
+        "NOMBRES": "HENRY ALEJANDRO"
+      },
+      {
+        "CEDULA": "19404578",
+        "APELLIDOS": "HERRERA PEÑA",
+        "NOMBRES": "EUDIS EMIRO"
+      },
+      {
+        "CEDULA": "25628864",
+        "APELLIDOS": "BOSCAN FLORES",
+        "NOMBRES": "JOSE ANGEL"
+      }
+    ],
+    "CAPATAZ DE PRODUCCION": [
+      {
+        "CEDULA": "13719714",
+        "APELLIDOS": "PALMAR SANCHEZ",
+        "NOMBRES": "WILIVALDO HEBERTO"
+      },
+      {
+        "CEDULA": "16165768",
+        "APELLIDOS": "NAVA FORTOUL",
+        "NOMBRES": "PEDRO DE JESUS"
+      },
+      {
+        "CEDULA": "16468251",
+        "APELLIDOS": "INFANTE POLANCO",
+        "NOMBRES": "JOHANY JUSMEL"
+      },
+      {
+        "CEDULA": "23040735",
+        "APELLIDOS": "CORTEZ ROHENES",
+        "NOMBRES": "JOSE WADITH"
+      }
+    ],
+    "RECEPCIONISTA": [
+      {
+        "CEDULA": "13719769",
+        "APELLIDOS": "PARRA DELMAR",
+        "NOMBRES": "LIDI DEL CARMEN"
+      }
+    ],
+    "COORDINADOR DE ASEGURAMIENTO DE LA CALIDAD": [
+      {
+        "CEDULA": "13763168",
+        "APELLIDOS": "ANDRADE ",
+        "NOMBRES": "LAURA ISABEL"
+      }
+    ],
+    "COORD DE MANTENIMIENTO INDUSTRIAL": [
+      {
+        "CEDULA": "14244954",
+        "APELLIDOS": "INCIARTE DELGADO",
+        "NOMBRES": "DORIAN ALBERTO"
+      }
+    ],
+    "OPERADOR DE GENERADORES ELECTRICOS": [
+      {
+        "CEDULA": "14651455",
+        "APELLIDOS": "CASTRO VILLASMIL",
+        "NOMBRES": "LUIS ALBERTO"
+      },
+      {
+        "CEDULA": "14844309",
+        "APELLIDOS": "PEROZO JAIME",
+        "NOMBRES": "NESTOR RUBEN"
+      },
+      {
+        "CEDULA": "17187406",
+        "APELLIDOS": "REVEROL ROMERO",
+        "NOMBRES": "ANDY HARRISON"
+      },
+      {
+        "CEDULA": "18372037",
+        "APELLIDOS": "MOLERO FUENMAYOR",
+        "NOMBRES": "GERSON JOSE"
+      },
+      {
+        "CEDULA": "26401598",
+        "APELLIDOS": "CAMPOS RINCON",
+        "NOMBRES": "LARRY DANIEL"
+      },
+      {
+        "CEDULA": "27970310",
+        "APELLIDOS": "SUAREZ LOPEZ",
+        "NOMBRES": "FRANCISCO JAVIER"
+      },
+      {
+        "CEDULA": "7903993",
+        "APELLIDOS": "CANCHICA ALAÑA",
+        "NOMBRES": "REINALDO ALFONSO"
+      }
+    ],
+    "ANALISTA DE SOPORTE A USUARIO": [
+      {
+        "CEDULA": "14651692",
+        "APELLIDOS": "NAVA DUARTE",
+        "NOMBRES": "ROMULO JOSE"
+      },
+      {
+        "CEDULA": "18696870",
+        "APELLIDOS": "COHEN COY",
+        "NOMBRES": "ANN JULIETH"
+      },
+      {
+        "CEDULA": "20059725",
+        "APELLIDOS": "PRIMERA GRANADOS",
+        "NOMBRES": "RICARDO DAVID"
+      }
+    ],
+    "COORDINADOR DE SOSTENIBILIDAD": [
+      {
+        "CEDULA": "14844372",
+        "APELLIDOS": "GARCIA URDANETA",
+        "NOMBRES": "EDWARD ANDERSON"
+      }
+    ],
+    "JEFE CORPORATIVO DE TALENTO HUMANO": [
+      {
+        "CEDULA": "15281490",
+        "APELLIDOS": "AÑEZ PRADO",
+        "NOMBRES": "MARCEL JOSE"
+      }
+    ],
+    "ANALISTA DE COMPRA DE MATERIA PRIMA": [
+      {
+        "CEDULA": "15380484",
+        "APELLIDOS": "URBALLE ACOSTA",
+        "NOMBRES": "JENNY COROMOTO"
+      },
+      {
+        "CEDULA": "19404383",
+        "APELLIDOS": "JIMENEZ AVILA",
+        "NOMBRES": "ISABEL MARIA"
+      },
+      {
+        "CEDULA": "25185859",
+        "APELLIDOS": "URDANETA CARLY",
+        "NOMBRES": "MARIELSY ROSELBIS"
+      },
+      {
+        "CEDULA": "31053084",
+        "APELLIDOS": "PEREZ FERNANDEZ",
+        "NOMBRES": "LEONARDO RAFAEL"
+      }
+    ],
+    "SUPERVISOR DE MANTENIMIENTO INDUSTRIAL": [
+      {
+        "CEDULA": "15381575",
+        "APELLIDOS": "GALLARDO MELEAN",
+        "NOMBRES": "LABEL JEAN"
+      },
+      {
+        "CEDULA": "16466987",
+        "APELLIDOS": "TORRES ACOSTA",
+        "NOMBRES": "DEINI JOSE"
+      }
+    ],
+    "ENFERMERA": [
+      {
+        "CEDULA": "15434413",
+        "APELLIDOS": "RIVERA BRACHO",
+        "NOMBRES": "YURIMA MILAGROS"
+      }
+    ],
+    "COORD INFRAEST TECNOLOG Y SOPORTE A USUARIOS": [
+      {
+        "CEDULA": "16782418",
+        "APELLIDOS": "DIAZ ORTEGA",
+        "NOMBRES": "JESUS ALBERTO"
+      }
+    ],
+    "COCINERA": [
+      {
+        "CEDULA": "16885072",
+        "APELLIDOS": "LOAIZA DUARTE",
+        "NOMBRES": "ARELIS CAROLINA"
+      },
+      {
+        "CEDULA": "17579333",
+        "APELLIDOS": "GONZALEZ TURIZO",
+        "NOMBRES": "LUCIA  ISABEL"
+      },
+      {
+        "CEDULA": "21225926",
+        "APELLIDOS": "DEL MAR DEL MAR",
+        "NOMBRES": "ALBURIS MARIELA"
+      },
+      {
+        "CEDULA": "24960679",
+        "APELLIDOS": "GUZMAN ESCALANTE",
+        "NOMBRES": "HILDA MARIA"
+      },
+      {
+        "CEDULA": "25554386",
+        "APELLIDOS": "GONZALEZ CARIDAD",
+        "NOMBRES": "SISLEIDY KARIOXIS"
+      },
+      {
+        "CEDULA": "7903837",
+        "APELLIDOS": "IBARRA PUERTO",
+        "NOMBRES": "AURORA DEL CARMEN"
+      }
+    ],
+    "JEFE CORPORATIVO DE COSTOS": [
+      {
+        "CEDULA": "16886208",
+        "APELLIDOS": "ZAMBRANO VARGAS",
+        "NOMBRES": "VIVIANA ALEXANDRA"
+      }
+    ],
+    "COORD DE CONSULTORIA JURIDICA": [
+      {
+        "CEDULA": "17096358",
+        "APELLIDOS": "BONILLA MOGOLLON",
+        "NOMBRES": "SANELIZ CAROLINA"
+      },
+      {
+        "CEDULA": "20440249",
+        "APELLIDOS": "PERDOMO PIRELA",
+        "NOMBRES": "LEIDA MARGARITA"
+      }
+    ],
+    "JEFE DE TALENTO HUMANO BLOQUE SUR DEL LAGO": [
+      {
+        "CEDULA": "17185750",
+        "APELLIDOS": "PORTILLO SOTO",
+        "NOMBRES": "JOHANNALING KARINA"
+      }
+    ],
+    "ANALISTA DE CUENTAS POR COBRAR": [
+      {
+        "CEDULA": "17185971",
+        "APELLIDOS": "ARDILA CAMARILLO",
+        "NOMBRES": "INGRID ROSANA"
+      }
+    ],
+    "COORDINADOR DE PCP": [
+      {
+        "CEDULA": "17185981",
+        "APELLIDOS": "GONZALEZ PABUENA",
+        "NOMBRES": "OMAR ALEXANDER"
+      }
+    ],
+    "JEFE DE LOGISTICA Y OPERACIONES ADMINISTIVAS": [
+      {
+        "CEDULA": "17940109",
+        "APELLIDOS": "FUENMAYOR TORRES",
+        "NOMBRES": "MARIAGISELL "
+      }
+    ],
+    "SUPERVISOR DE ALMACEN": [
+      {
+        "CEDULA": "18055783",
+        "APELLIDOS": "HERRERA RONDON",
+        "NOMBRES": "IRIS NATALY"
+      }
+    ],
+    "SUPERVISOR DE NOMINA PRODUCTORES": [
+      {
+        "CEDULA": "18374086",
+        "APELLIDOS": "PARRA MORAN",
+        "NOMBRES": "NOLJAIRA DEL CARMEN"
+      }
+    ],
+    "COORDINADOR DE TRANSPORTE": [
+      {
+        "CEDULA": "18374881",
+        "APELLIDOS": "MONSALVO GUTIERREZ",
+        "NOMBRES": "JACKSON SMITH"
+      }
+    ],
+    "ASISTENTE DE VICEPRESIDENCIA": [
+      {
+        "CEDULA": "18572026",
+        "APELLIDOS": "SANDOVAL VAZQUEZ",
+        "NOMBRES": "MARIA IRENE"
+      }
+    ],
+    "SUPERVISOR DE SEGURIDAD Y SALUD LABORAL": [
+      {
+        "CEDULA": "18694966",
+        "APELLIDOS": "CARDOZO PEDREAÑEZ",
+        "NOMBRES": "OSCAR MOISES"
+      },
+      {
+        "CEDULA": "26718353",
+        "APELLIDOS": "PRIETO CHAVEZ",
+        "NOMBRES": "FATIMA KATHERINE"
+      }
+    ],
+    "COORDINADOR DE SEGURIDAD Y SALUD LABORAL": [
+      {
+        "CEDULA": "18695571",
+        "APELLIDOS": "PEREZ RODRIGUEZ",
+        "NOMBRES": "EMIRO JOSE"
+      }
+    ],
+    "JEFE DE GESTION BANCARIA": [
+      {
+        "CEDULA": "19596575",
+        "APELLIDOS": "PIRELA CHONA",
+        "NOMBRES": "KERVIN JOSE"
+      }
+    ],
+    "COORD GENERAL DE PRODUCCION": [
+      {
+        "CEDULA": "19691211",
+        "APELLIDOS": "AMESTY PEREZ",
+        "NOMBRES": "JOSE MANUEL"
+      }
+    ],
+    "SUPERVISOR DE ASEGURAMIENTO DE LA CALIDAD": [
+      {
+        "CEDULA": "19935493",
+        "APELLIDOS": "GUTIERREZ MONTES",
+        "NOMBRES": "HECTOR ENRIQUE"
+      },
+      {
+        "CEDULA": "20167478",
+        "APELLIDOS": "AROCHA URDANETA",
+        "NOMBRES": "FABIOLA CAROLINA"
+      }
+    ],
+    "ANALISTA DE CUENTAS POR PAGAR": [
+      {
+        "CEDULA": "20352998",
+        "APELLIDOS": "NEGRON VARGAS",
+        "NOMBRES": "DAYARLIN ALEXANDRE"
+      }
+    ],
+    "MEDICO MEDICINA OCUPACIONAL": [
+      {
+        "CEDULA": "20371650",
+        "APELLIDOS": "PARRA CARRIZO",
+        "NOMBRES": "LISANDRA DEL CARMEN"
+      }
+    ],
+    "ANALISTA DE COMPRAS": [
+      {
+        "CEDULA": "20529409",
+        "APELLIDOS": "GONZALEZ MORALES",
+        "NOMBRES": "YUSLANY MAILY"
+      }
+    ],
+    "ANALISTA DE CAJA": [
+      {
+        "CEDULA": "20530690",
+        "APELLIDOS": "MENDIVELSO DURAN",
+        "NOMBRES": "MILDRED SAMIR"
+      },
+      {
+        "CEDULA": "22138362",
+        "APELLIDOS": "GONZALEZ MIRANDA",
+        "NOMBRES": "LEISY DEL CARMEN"
+      }
+    ],
+    "COORDINADOR DE SERVIPLAN": [
+      {
+        "CEDULA": "20531733",
+        "APELLIDOS": "VERA PAYAN",
+        "NOMBRES": "JIM JEISON"
+      }
+    ],
+    "JEFE DE ROMANA Y ALMACEN CASIGUA": [
+      {
+        "CEDULA": "22123242",
+        "APELLIDOS": "NOGUERA CASTELLANOS",
+        "NOMBRES": "LUVIS AURIMARIA"
+      }
+    ],
+    "COORDINADOR DE PRODUCCION": [
+      {
+        "CEDULA": "23475849",
+        "APELLIDOS": "ORTIGOZA INESTROZA",
+        "NOMBRES": "RAFAEL ALBERTO"
+      }
+    ],
+    "COORDINADOR DE GENERACION ELECTRICA": [
+      {
+        "CEDULA": "24268392",
+        "APELLIDOS": "ROSALES BOHORQUEZ",
+        "NOMBRES": "VICTOR JOSE"
+      }
+    ],
+    "SUPERVISOR DE INFRAESTRUCTURA TECNOLOGICA": [
+      {
+        "CEDULA": "24268936",
+        "APELLIDOS": "BOSCAN URDANETA",
+        "NOMBRES": "ADONAY DE JESUS"
+      }
+    ],
+    "ANALISTA DE TALENTO HUMANO": [
+      {
+        "CEDULA": "24751025",
+        "APELLIDOS": "REVEROL BRACHO",
+        "NOMBRES": "ANA BENILDA"
+      },
+      {
+        "CEDULA": "28738402",
+        "APELLIDOS": "GARCIA PORTILLO",
+        "NOMBRES": "WENDY VALENTINA"
+      }
+    ],
+    "GERENTE DE ADMINISTRACION Y FINANZAS": [
+      {
+        "CEDULA": "24751239",
+        "APELLIDOS": "PORTILLO BRACHO",
+        "NOMBRES": "LEANNELY AURORA"
+      }
+    ],
+    "COORDINADOR DE TALENTO HUMANO": [
+      {
+        "CEDULA": "24751264",
+        "APELLIDOS": "LOZANO SANABRIA",
+        "NOMBRES": "LUISANA PAOLA JOSE"
+      }
+    ],
+    "COORD CONTABILIDAD Y TRIBUTOS BLOQUE SUR DEL LAGO": [
+      {
+        "CEDULA": "25310174",
+        "APELLIDOS": "DEL MAR GONZALEZ",
+        "NOMBRES": "KARELIS INES"
+      }
+    ],
+    "ANALISTA DE SISTEMAS": [
+      {
+        "CEDULA": "25462964",
+        "APELLIDOS": "AMESTI FUENMAYOR",
+        "NOMBRES": "VICTOR MANUEL"
+      }
+    ],
+    "ANALISTA CONTABLE": [
+      {
+        "CEDULA": "27183093",
+        "APELLIDOS": "MATA GONZALEZ",
+        "NOMBRES": "JOHENNY VERONA"
+      }
+    ],
+    "ANALISTA DE BANCO Y CONCILIACION": [
+      {
+        "CEDULA": "27911678",
+        "APELLIDOS": "RAMOS PEREZ",
+        "NOMBRES": "ESTEFANIA ANGELIN"
+      }
+    ],
+    "AUXILIAR DE CONTROL DE DOCUMENTOS": [
+      {
+        "CEDULA": "31051521",
+        "APELLIDOS": "EMILY ROXANA",
+        "NOMBRES": "RIOS RICO"
+      }
+    ],
+    "TECNICO ELECT ESPC EN GENERACION ELECTRICA": [
+      {
+        "CEDULA": "7777628",
+        "APELLIDOS": "SANCHEZ REVEROL",
+        "NOMBRES": "ANTONIO DE JESUS"
+      }
+    ],
+    "GERENTE DE PLANTA": [
+      {
+        "CEDULA": "7899213",
+        "APELLIDOS": "ORTEGA GUERRERO",
+        "NOMBRES": "JOSE ENRIQUE"
+      }
+    ]
+  },
+  "TRAPEVECA": {
+    "MECANICO": [
+      {
+        "CEDULA": "14244234",
+        "APELLIDOS": "ORDOÑEZ CAMARILLO",
+        "NOMBRES": "JOHNNY WILLIAMS"
+      },
+      {
+        "CEDULA": "17292854",
+        "APELLIDOS": "ORTIGOZA CUETO",
+        "NOMBRES": "ROGER LUIS"
+      },
+      {
+        "CEDULA": "7776234",
+        "APELLIDOS": "SANCHEZ ",
+        "NOMBRES": "RAFAEL SIMON"
+      },
+      {
+        "CEDULA": "82006848",
+        "APELLIDOS": "ESCALONA ",
+        "NOMBRES": "MIGUEL JUSTINO"
+      }
+    ],
+    "ASISTENTE ADMINISTRATIVO": [
+      {
+        "CEDULA": "14473505",
+        "APELLIDOS": "PEÑA DE YEGUEZ",
+        "NOMBRES": "YOENGRI DEL VALLE"
+      },
+      {
+        "CEDULA": "27746156",
+        "APELLIDOS": "MARCANO REVEROL",
+        "NOMBRES": "JESUS ENRIQUE"
+      }
+    ],
+    "CHOFER": [
+      {
+        "CEDULA": "19934673",
+        "APELLIDOS": "RODRIGUEZ PEREZ",
+        "NOMBRES": "LEONARDO JOSE"
+      },
+      {
+        "CEDULA": "20533200",
+        "APELLIDOS": "RODRIGUEZ CORREA",
+        "NOMBRES": "EDGAR JAVIER"
+      },
+      {
+        "CEDULA": "26347270",
+        "APELLIDOS": "CANQUIZ GIL",
+        "NOMBRES": "JESUS GREGORIO"
+      },
+      {
+        "CEDULA": "7778591",
+        "APELLIDOS": "CANQUIZ VELASQUEZ",
+        "NOMBRES": "EDGAR ENRIQUE"
+      }
+    ]
+  },
+  "VISANSICA": {
+    "AYUDANTE DE MANTENIMIENTO": [
+      {
+        "CEDULA": "10683556",
+        "APELLIDOS": "NAVA COY",
+        "NOMBRES": "JAIRO ENRIQUE"
+      },
+      {
+        "CEDULA": "24879812",
+        "APELLIDOS": "ESPITIA SUAREZ",
+        "NOMBRES": "PEDRO "
+      },
+      {
+        "CEDULA": "26718373",
+        "APELLIDOS": "URDANETA FRANCO",
+        "NOMBRES": "EDWARD JOSE"
+      },
+      {
+        "CEDULA": "31664319",
+        "APELLIDOS": "MARIN BRIÑEZ",
+        "NOMBRES": "ALEJANDRO JOSE"
+      }
+    ],
+    "OFICIAL DE PCP": [
+      {
+        "CEDULA": "13420254",
+        "APELLIDOS": "FALCON FERNANDEZ",
+        "NOMBRES": "DARWIN ENRIQUE"
+      },
+      {
+        "CEDULA": "15381599",
+        "APELLIDOS": "GALINDO ALCANTARA",
+        "NOMBRES": "JARINTON JOEL"
+      },
+      {
+        "CEDULA": "18963336",
+        "APELLIDOS": "RAMIREZ CHAVEZ",
+        "NOMBRES": "EDER  MANUEL"
+      },
+      {
+        "CEDULA": "7902186",
+        "APELLIDOS": "PORTILLO SOTO",
+        "NOMBRES": "ENDER ALBERTO"
+      },
+      {
+        "CEDULA": "7902584",
+        "APELLIDOS": "VILCHEZ ",
+        "NOMBRES": "ODECSO DE JESUS"
+      },
+      {
+        "CEDULA": "81845403",
+        "APELLIDOS": "MORENO DIAZ",
+        "NOMBRES": "VICTOR RAFAEL"
+      },
+      {
+        "CEDULA": "83490505",
+        "APELLIDOS": "LINARES AMARIS",
+        "NOMBRES": "MOISES ELIAS"
+      }
+    ],
+    "OPERADOR DE RIEGO": [
+      {
+        "CEDULA": "15436671",
+        "APELLIDOS": "POLANCO VILLASMIL",
+        "NOMBRES": "MERVIN JUNIOR"
+      }
+    ],
+    "COORDINADOR DE PLANTACION": [
+      {
+        "CEDULA": "16165961",
+        "APELLIDOS": "GARCIA SISNEROS",
+        "NOMBRES": "BETTY MARGARITA"
+      },
+      {
+        "CEDULA": "7901138",
+        "APELLIDOS": "DAZA ",
+        "NOMBRES": "MARBELIS COROMOTO"
+      }
+    ],
+    "PLAGUERO": [
+      {
+        "CEDULA": "16886544",
+        "APELLIDOS": "TORREALBA TALAVERA",
+        "NOMBRES": "LEONEL ANTONIO"
+      },
+      {
+        "CEDULA": "26347372",
+        "APELLIDOS": "COLMENAREZ BRICEÑO",
+        "NOMBRES": "EDUARDO ENRIQUE"
+      },
+      {
+        "CEDULA": "26401595",
+        "APELLIDOS": "BRACHO ROJAS",
+        "NOMBRES": "LUIS MANUEL"
+      }
+    ],
+    "AYUDANTE DE MANTENIMIENTO Y LIMPIEZA": [
+      {
+        "CEDULA": "25875649",
+        "APELLIDOS": "FLORES ALVAREZ",
+        "NOMBRES": "ANDRES ALEJANDRO"
+      },
+      {
+        "CEDULA": "7783342",
+        "APELLIDOS": "VILLARREAL LOPEZ",
+        "NOMBRES": "JOSE TRINIDAD"
+      },
+      {
+        "CEDULA": "82044293",
+        "APELLIDOS": "RAMOS JULIO",
+        "NOMBRES": "ALVARO "
+      }
+    ],
+    "CAPORAL DE CAMPERO": [
+      {
+        "CEDULA": "26401615",
+        "APELLIDOS": "VEGA FUENTES",
+        "NOMBRES": "NICOLAS ANTONIO"
+      }
+    ],
+    "ENCARGADO DE PLANTACION": [
+      {
+        "CEDULA": "81853845",
+        "APELLIDOS": "ROMAN VASQUEZ",
+        "NOMBRES": "ADRIANA MARIA"
+      }
+    ]
+  }
+}
